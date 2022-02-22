@@ -1,0 +1,30 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "1"]
+[White "rusty-rival-20220211-02"]
+[Black "Rival (build v1.0.3)"]
+[Result "*"]
+[ECO "E10"]
+[GameDuration "00:00:05"]
+[GameEndTime "2022-02-11T17:02:51.556 GMT"]
+[GameStartTime "2022-02-11T17:02:45.590 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "52"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Re1 {book} Bf6 {book} 15. Bc2 {book}
+axb4 {+1.75/7 0.21s} 16. axb4 {+2.00/6 0.25s} bxc5 {+1.75/8 0.24s}
+17. bxc5 {-1.00/5 0.26s} Nxc5 {+1.24/8 0.24s} 18. Qb1 {-2.00/5 0.25s}
+g6 {+1.82/8 0.25s} 19. Qb4 {-2.00/5 0.26s} Nd3 {+2.09/9 0.24s}
+20. Bxd3 {0.00/6 0.27s} Bxd3 {+2.30/9 0.23s} 21. Rad1 {-2.00/5 0.26s}
+Rfb8 {+4.32/9 0.24s} 22. Qc5 {0.00/6 0.25s} Ra5 {+5.08/9 0.25s}
+23. Qxa5 {0.00/6 0.25s} Qxa5 {+5.05/11 0.24s} 24. Rxd3 {0.00/6 0.26s}
+Rb3 {+5.19/10 0.24s} 25. Ne4 {0.00/6 0.26s} Rxd3 {+11.08/11 0.24s}
+26. Nxf6+ {-5.50/7 0.25s} Kg7 {+11.11/11 0.25s, No result} *
+

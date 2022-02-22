@@ -1,0 +1,48 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.02.14"]
+[Round "1"]
+[White "Rusty Rival |20220214-01-Pawn-Piece-Squares|"]
+[Black "Rusty Rival |20220212-03-Clear-Hash-On-New-Game|"]
+[Result "*"]
+[ECO "C88"]
+[GameDuration "00:00:14"]
+[GameEndTime "2022-02-14T13:47:46.888 GMT"]
+[GameStartTime "2022-02-14T13:47:32.106 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "117"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d6 {book}
+10. a3 {book} Na5 {book} 11. Ba2 {book} c5 {book} 12. Nbd2 {book} Nc6 {book}
+13. Nf1 {book} Bc8 {book} 14. c3 {book} Be6 {book} 15. Bxe6 {book} fxe6 {book}
+16. b4 {book} Qd7 {book} 17. Ng3 {book} a5 {book} 18. bxc5 {book} dxc5 {book}
+19. a4 {book} b4 {book} 20. Be3 {book} c4 {book} 21. dxc4 {book} Qxd1 {book}
+22. Rexd1 {book} bxc3 {book} 23. c5 {book} c2 {book} 24. Rdc1 {book} Nb4 {book}
+25. Ne1 {book} Rfc8 {book} 26. Nxc2 {book} Bxc5 {book} 27. Nxb4 {book}
+Bxe3 {book} 28. Rxc8+ {book} Rxc8 {book} 29. fxe3 {book} axb4 {book}
+30. Rb1 {book} Rb8 {book} 31. a5 {-0.14/7 0.25s} Kf7 {0.00/8 0.25s}
+32. h4 {-0.05/7 0.25s} Kg6 {0.00/8 0.26s} 33. a6 {0.00/7 0.25s}
+Kh6 {0.00/8 0.26s} 34. a7 {+0.08/7 0.25s} Ra8 {0.00/8 0.26s}
+35. Rxb4 {+0.08/8 0.26s} Rxa7 {0.00/8 0.25s} 36. Rb6 {+0.03/8 0.28s}
+Ra1+ {0.00/9 0.25s} 37. Kh2 {0.00/10 0.26s} Ng4+ {0.00/9 0.26s}
+38. Kh3 {0.00/13 0.25s} Nf2+ {0.00/9 0.25s} 39. Kh2 {0.00/13 0.27s}
+Kg6 {0.00/8 0.25s} 40. Rxe6+ {0.00/8 0.26s} Kf7 {0.00/11 0.25s}
+41. Rd6 {0.00/7 0.27s} Kg8 {0.00/8 0.25s} 42. Rd8+ {+0.22/8 0.26s}
+Kf7 {0.00/9 0.25s} 43. Rd7+ {+0.22/8 0.27s} Kf8 {0.00/9 0.25s}
+44. h5 {+0.22/8 0.25s} Ng4+ {0.00/8 0.25s} 45. Kh3 {+0.22/9 0.26s}
+Nxe3 {0.00/8 0.25s} 46. Rd3 {+0.22/8 0.25s} Re1 {0.00/8 0.26s}
+47. Rd8+ {+0.18/8 0.27s} Kf7 {0.00/10 0.26s} 48. Rd7+ {+0.18/8 0.26s}
+Kf6 {0.00/10 0.26s} 49. Rd6+ {+0.14/8 0.26s} Kg5 {0.00/10 0.26s}
+50. Rd8 {+0.03/8 0.25s} Rd1 {0.00/8 0.26s} 51. Rh8 {+0.14/8 0.25s}
+Kh6 {0.00/9 0.25s} 52. Re8 {+0.18/7 0.27s} Rd2 {0.00/8 0.25s}
+53. Nf5+ {+0.45/8 0.26s} Nxf5 {0.00/11 0.26s} 54. exf5 {0.00/8 0.25s}
+Kxh5 {0.00/9 0.25s} 55. Rxe5 {0.00/8 0.25s} Kg5 {0.00/9 0.25s}
+56. Rc5 {0.00/8 0.26s} Kf4 {0.00/9 0.25s} 57. Rc7 {+0.15/8 0.25s}
+Kxf5 {0.00/9 0.25s} 58. Rxg7 {+0.25/8 0.26s} Rd1 {0.00/9 0.25s}
+59. g4+ {+0.25/9 0.25s, No result} *
+

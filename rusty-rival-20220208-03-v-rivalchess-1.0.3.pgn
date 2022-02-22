@@ -1,0 +1,116 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.02.08"]
+[Round "1"]
+[White "rusty-rival-202202080-03"]
+[Black "Rival (build v1.0.3)"]
+[Result "0-1"]
+[ECO "B90"]
+[GameDuration "00:00:00"]
+[GameEndTime "2022-02-08T12:38:16.897 GMT"]
+[GameStartTime "2022-02-08T12:38:16.886 GMT"]
+[Opening "Sicilian"]
+[PlyCount "56"]
+[Termination "illegal move"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} e5 {book}
+7. Nb3 {book} Be6 {book} 8. f3 {book} Be7 {book} 9. Qd2 {book} O-O {book}
+10. O-O-O {book} Nbd7 {book} 11. g4 {book} b5 {book} 12. g5 {book} b4 {book}
+13. gxf6 {book} bxc3 {book} 14. Qxc3 {book} Nxf6 {book} 15. Na5 {book}
+Rc8 {book} 16. Nc6 {book} Qe8 {book} 17. Nxe7+ {book} Qxe7 {book} 18. Qa5 {book}
+Rc6 {book} 19. Rg1 {book} Rfc8 {book} 20. Rg2 {book} Bh3 {book} 21. Rgd2 {book}
+Bxf1 {book} 22. Rxf1 {book} Qe6 {book} 23. Rff2 {book} h6 {book} 24. Kb1 {book}
+Qh3 {book} 25. Rd3 {book} Rxc2 {book} 26. Rxc2 {book} Qf1+ {book} 27. Bc1 {book}
+Qxd3 {book} 28. Qd2 {book} Qxc2+ {book, White makes an illegal move: b1c2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.08"]
+[Round "2"]
+[White "Rival (build v1.0.3)"]
+[Black "rusty-rival-202202080-03"]
+[Result "1-0"]
+[ECO "E15"]
+[GameDuration "00:00:00"]
+[GameEndTime "2022-02-08T12:38:17.479 GMT"]
+[GameStartTime "2022-02-08T12:38:16.963 GMT"]
+[Opening "Queen's Indian"]
+[PlyCount "63"]
+[Termination "illegal move"]
+[TimeControl "0.25/move"]
+[Variation "Nimzovich Variation (exaggerated Fianchetto)"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} b6 {book}
+4. g3 {book} Ba6 {book} 5. b3 {book} Bb4+ {book} 6. Bd2 {book} Be7 {book}
+7. Bg2 {book} c6 {book} 8. Bc3 {book} d5 {book} 9. Ne5 {book} Nfd7 {book}
+10. Nxd7 {book} Nxd7 {book} 11. Nd2 {book} O-O {book} 12. O-O {book} Nf6 {book}
+13. e4 {book} b5 {book} 14. exd5 {book} exd5 {book} 15. Re1 {book} Rb8 {book}
+16. c5 {book} Bc8 {book} 17. Nf3 {book} Ne4 {book} 18. Ne5 {book} Nxc3 {book}
+19. Qd3 {book} Qc7 {book} 20. Qxc3 {book} Re8 {book} 21. a4 {book} b4 {book}
+22. Qf3 {book} Bf8 {book} 23. Re3 {book} f6 {book} 24. Nd3 {book} Rxe3 {book}
+25. fxe3 {book} a5 {book} 26. e4 {book} Be6 {book} 27. Qf4 {book} Qd8 {book}
+28. e5 {book} Rb7 {book} 29. exf6 {book} Qxf6 {book} 30. Qxf6 {book} h5
+31. Qxe6+ {+23.43/8 0.25s} Kh7
+32. Qf5+ {+26.67/9 0.25s, Black makes an illegal move: b7c7} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.08"]
+[Round "3"]
+[White "rusty-rival-202202080-03"]
+[Black "Rival (build v1.0.3)"]
+[Result "0-1"]
+[ECO "E10"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-08T12:38:20.232 GMT"]
+[GameStartTime "2022-02-08T12:38:17.480 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "50"]
+[Termination "illegal move"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Re1 {book} Bf6 {book} 15. Bc2 {book}
+axb4 {+1.75/7 0.24s} 16. Kh1 bxc3 {+6.08/7 0.25s} 17. Bg6 hxg6 {+10.88/8 0.25s}
+18. Ra2 bxc5 {+12.44/8 0.25s} 19. h4 Bc4 {+14.15/9 0.25s} 20. Ne5
+Bxa2 {+20.47/9 0.25s} 21. Qg4 cxd4 {+22.01/8 0.25s} 22. Qe2
+Nxe5 {+22.64/8 0.25s} 23. Ra1 Bc4 {+26.58/8 0.25s} 24. Ra2 Bxe2 {+42.91/9 0.25s}
+25. h5 Bf3+ {+53.37/8 0.25s, White makes an illegal move: h5g6} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.08"]
+[Round "4"]
+[White "Rival (build v1.0.3)"]
+[Black "rusty-rival-202202080-03"]
+[Result "1-0"]
+[ECO "C67"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-08T12:38:22.487 GMT"]
+[GameStartTime "2022-02-08T12:38:20.233 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "63"]
+[Termination "abandoned"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. Re1 {book} Nd6 {book} 6. Nxe5 {book} Be7 {book}
+7. Bf1 {book} Nxe5 {book} 8. Rxe5 {book} O-O {book} 9. d4 {book} Bf6 {book}
+10. Re1 {book} Re8 {book} 11. c3 {book} Rxe1 {book} 12. Qxe1 {book} Ne8 {book}
+13. Bf4 {book} d5 {book} 14. Nd2 {book} g6 {book} 15. Nf3 {book} Ng7 {book}
+16. Qe3 {book} c6 {book} 17. Re1 {book} Be6 {book} 18. Ne5 {book} Qa5 {book}
+19. a3 {book} Re8 {book} 20. Nd3 {book} Qd8 {book} 21. Qd2 {book} Bf5 {book}
+22. Rxe8+ {book} Qxe8 {book} 23. Qe3 {book} Qxe3 {book}
+24. Bxe3 {-0.08/11 0.24s} g5 25. Be2 {+0.10/10 0.25s} Bg4
+26. Bxg4 {+5.23/12 0.25s} Be7 27. Bc8 {+6.65/12 0.25s} Nf5
+28. Bxf5 {+10.21/10 0.25s} Bf8 29. Bc8 {+13.17/11 0.25s} Bh6
+30. Bxb7 {+15.87/12 0.25s} Kh8 31. h4 {+16.68/13 0.25s} Kg8
+32. hxg5 {+18.21/13 0.25s, Black disconnects} 1-0
+

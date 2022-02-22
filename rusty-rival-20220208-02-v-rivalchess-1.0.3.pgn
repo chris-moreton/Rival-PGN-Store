@@ -1,0 +1,89 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.02.08"]
+[Round "1"]
+[White "rusty-rival-202202080-02"]
+[Black "Rival (build v1.0.3)"]
+[Result "0-1"]
+[ECO "C67"]
+[GameDuration "00:00:00"]
+[GameEndTime "2022-02-08T12:35:31.174 GMT"]
+[GameStartTime "2022-02-08T12:35:30.619 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "64"]
+[Termination "illegal move"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. Re1 {book} Nd6 {book} 6. Nxe5 {book} Be7 {book}
+7. Bf1 {book} Nxe5 {book} 8. Rxe5 {book} O-O {book} 9. Nc3 {book} Ne8 {book}
+10. Nd5 {book} Bd6 {book} 11. Re1 {book} c6 {book} 12. Ne3 {book} Be7 {book}
+13. c4 {book} Nc7 {book} 14. d4 {book} d5 {book} 15. cxd5 {book} Bb4 {book}
+16. Bd2 {book} Bxd2 {book} 17. Qxd2 {book} Nxd5 {book} 18. Nxd5 {book}
+Qxd5 {book} 19. Re5 {book} Qd6 {book} 20. Bc4 {book} Bd7 {book} 21. Rae1 {book}
+b5 {book} 22. Bb3 {book} a5 {book} 23. a4 {book} bxa4 {book} 24. Bxa4 {book}
+Be6 {book} 25. Rxa5 {book} Rxa5 {book} 26. Qxa5 {book} Qxd4 {book}
+27. Bxc6 {book} Qxb2 {book} 28. Bd5 {book} Bxd5 {book} 29. Qxd5 {book}
+Qc3 {book} 30. Qe4 {book} g6 {book} 31. Re2 Rc8 {+0.06/7 0.21s} 32. Qd3
+Qc1+ {+M13/8 0.25s, White makes an illegal move: d3d4} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.08"]
+[Round "2"]
+[White "Rival (build v1.0.3)"]
+[Black "rusty-rival-202202080-02"]
+[Result "1-0"]
+[ECO "D85"]
+[GameDuration "00:00:00"]
+[GameEndTime "2022-02-08T12:35:32.038 GMT"]
+[GameStartTime "2022-02-08T12:35:31.175 GMT"]
+[Opening "Gruenfeld"]
+[PlyCount "61"]
+[Termination "illegal move"]
+[TimeControl "0.25/move"]
+[Variation "Modern Exchange Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {book} d5 {book}
+4. cxd5 {book} Nxd5 {book} 5. e4 {book} Nxc3 {book} 6. bxc3 {book} Bg7 {book}
+7. Nf3 {book} c5 {book} 8. Rb1 {book} O-O {book} 9. Be2 {book} cxd4 {book}
+10. cxd4 {book} Qa5+ {book} 11. Bd2 {book} Qxa2 {book} 12. O-O {book} Bg4 {book}
+13. Bg5 {book} h6 {book} 14. Be3 {book} Nc6 {book} 15. d5 {book} Na5 {book}
+16. Re1 {book} Bxf3 {book} 17. Bxf3 {book} Nc4 {book} 18. Bf4 {book} e5 {book}
+19. dxe6 {book} fxe6 {book} 20. Rxb7 {book} Rad8 {book} 21. Qc1 {book}
+Bb2 {book} 22. Rxb2 {book} Nxb2 {book} 23. Bg3 {book} Qa5 {book} 24. Rf1 {book}
+Qd2 {book} 25. Qc6 {book} Qd7 {book} 26. Qc1 {book} Kh7 27. Qxb2 {+2.90/8 0.21s}
+Rf4 28. Bxf4 {+9.44/10 0.25s} Qc8 29. Rc1 {+16.33/11 0.25s} Rf8
+30. Rxc8 {+M11/8 0.11s} a6
+31. Qb7+ {+M5/2 0s, Black makes an illegal move: h7g7} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.08"]
+[Round "3"]
+[White "rusty-rival-202202080-02"]
+[Black "Rival (build v1.0.3)"]
+[Result "0-1"]
+[ECO "C67"]
+[GameDuration "00:00:00"]
+[GameEndTime "2022-02-08T12:35:32.049 GMT"]
+[GameStartTime "2022-02-08T12:35:32.039 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "60"]
+[Termination "abandoned"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. h3 {book} Bd7 {book}
+10. Rd1 {book} Be7 {book} 11. g4 {book} Nh4 {book} 12. Nxh4 {book} Bxh4 {book}
+13. Nd2 {book} Kc8 {book} 14. Nf3 {book} Be7 {book} 15. Rd3 {book} h6 {book}
+16. Nd4 {book} Re8 {book} 17. Bf4 {book} c5 {book} 18. Nf5 {book} Bf8 {book}
+19. c4 {book} a6 {book} 20. Ne3 {book} b5 {book} 21. b3 {book} g5 {book}
+22. Bg3 {book} Be6 {book} 23. Rad1 {book} Kb7 {book} 24. h4 {book} Kc6 {book}
+25. h5 {book} Reb8 {book} 26. f3 {book} a5 {book} 27. Nd5 {book} bxc4 {book}
+28. bxc4 {book} Rb2 {book} 29. R3d2 {book} Rab8 {book} 30. Kf2 {book}
+a4 {book, White disconnects} 0-1
+
