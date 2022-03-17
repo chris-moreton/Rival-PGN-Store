@@ -1,0 +1,3631 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "1"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:22:14.268 GMT"]
+[GameStartTime "2022-02-11T20:22:12.216 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "33"]
+[TimeControl "0.25/move"]
+[Variation "Closed, anti-Marshall 8.a4"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. a4 {book} b4 {book} 9. d4 {book} d6 {book}
+10. dxe5 {book} dxe5 {book} 11. Nbd2 {book} Bc5 {book} 12. Qe2 {book} Qe7 {book}
+13. a5 {book} Kh8 {0.00/4 0.25s} 14. Kh1 {0.00/4 0.25s} Kg8 {0.00/4 0.26s}
+15. Kg1 {0.00/4 0.25s} Kh8 16. Kh1 {0.00/5 0.26s} Kg8
+17. Kg1 {0.00/5 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "2"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[GameDuration "00:00:04"]
+[GameEndTime "2022-02-11T20:22:18.625 GMT"]
+[GameStartTime "2022-02-11T20:22:14.269 GMT"]
+[Opening "Nimzo-Indian"]
+[PlyCount "77"]
+[TimeControl "0.25/move"]
+[Variation "Classical Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nc3 {book} Bb4 {book}
+4. Qc2 {book} O-O {book} 5. a3 {book} Bxc3+ {book} 6. Qxc3 {book} d5 {book}
+7. Nf3 {book} dxc4 {book} 8. Qxc4 {book} b6 {book} 9. Bg5 {book} Ba6 {book}
+10. Qa4 {book} Qd7 {book} 11. Qc2 {book} c5 {book} 12. dxc5 {book} Rc8 {book}
+13. Bxf6 {book} gxf6 {book} 14. Rd1 {book} Qe7 {book} 15. Qe4 {book} Qxc5 {book}
+16. e3 {book} Bxf1 {book} 17. Kxf1 {book} Nc6 {book} 18. g3 {book} Ne5 {book}
+19. Kg2 {book} Qc6 {book} 20. Qxc6 {book} Rxc6 {book} 21. Nxe5 {book}
+fxe5 {book} 22. Rd2 {book} Rac8 {book} 23. Rhd1 {book} Rc2 {book} 24. Kf3 {book}
+Kg7 {book} 25. e4 {book} a5 {book} 26. Ke3 {book} R2c5 {book} 27. Rb1 {book}
+a4 {book} 28. b3 {book} axb3 {book} 29. Rxb3 {book} Ra5 {book} 30. Rdd3 {book}
+b5 {book} 31. Ke2 {0.00/8 0.26s} Kh6 {0.00/7 0.25s} 32. Kf1 {0.00/8 0.27s}
+Kh5 {0.00/7 0.25s} 33. Kg1 {0.00/8 0.26s} Kg4 {0.00/7 0.25s}
+34. Kh1 {0.00/8 0.25s} Kh3 {0.00/7 0.25s} 35. Rd1 {0.00/7 0.25s}
+Kg4 {0.00/7 0.25s} 36. Kg1 {0.00/8 0.25s} Kh3 {0.00/7 0.26s}
+37. Kh1 {0.00/8 0.26s} Kg4 {0.00/8 0.25s} 38. Kg1 Kh3 {0.00/8 0.26s}
+39. Kh1 {0.00/8 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "3"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[GameDuration "00:00:23"]
+[GameEndTime "2022-02-11T20:22:42.520 GMT"]
+[GameStartTime "2022-02-11T20:22:18.626 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "153"]
+[TimeControl "0.25/move"]
+[Variation "Marshall, Main line, 14...Qh3"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. c3 {book} d5 {book} 9. exd5 {book} Nxd5 {book}
+10. Nxe5 {book} Nxe5 {book} 11. Rxe5 {book} c6 {book} 12. d4 {book} Bd6 {book}
+13. Re1 {book} Qh4 {book} 14. g3 {book} Qh3 {book} 15. Re4 {book} g5 {book}
+16. Qf1 {book} Qh5 {book} 17. Nd2 {book} Bf5 {book} 18. f3 {book} Nf6 {book}
+19. Qg2 {book} Qg6 {book} 20. Re3 {book} Rae8 {book} 21. Ne4 {book} Nxe4 {book}
+22. g4 {book} Ng3 {book} 23. hxg3 {book} Bd3 {book} 24. Bd2 {book} Rxe3 {book}
+25. Bxe3 {book} Re8 {book} 26. Re1 {book} c5 {book} 27. dxc5 {book} Bxc5 {book}
+28. Qd2 {book} Bxe3+ {book} 29. Rxe3 {book} Qb6 {book} 30. Kf2 {book} Rd8 {book}
+31. Ke1 {+1.00/6 0.26s} Bf1 {-1.00/6 0.25s} 32. Bxf7+ {+1.00/7 0.26s}
+Kxf7 {-1.00/8 0.25s} 33. Qf2 {+1.00/6 0.25s} Qg6 {-1.00/7 0.26s}
+34. Kxf1 {+1.00/6 0.25s} Qb1+ {-1.00/7 0.25s} 35. Kg2 {+1.00/7 0.26s}
+Qxa2 {-2.00/7 0.25s} 36. Kh1 {+1.00/7 0.26s} Kg6 {-1.00/7 0.25s}
+37. Kg1 {+1.00/7 0.26s} Kf6 {-1.00/7 0.26s} 38. Kh2 {+1.00/7 0.25s}
+Kg6 {-1.00/7 0.25s} 39. Kh1 {+1.00/7 0.25s} Kf7 {-1.00/7 0.26s}
+40. Kg1 {+1.00/7 0.25s} Kf6 {0.00/7 0.25s} 41. Kf1 {+1.00/7 0.25s}
+Kg6 {-1.00/7 0.28s} 42. Re1 {+1.00/7 0.26s} Kg7 {-1.00/7 0.25s}
+43. Kg1 {+1.00/6 0.25s} Kf7 {-1.00/6 0.25s} 44. Kh1 {+1.00/7 0.25s}
+Rd7 {-1.00/6 0.26s} 45. Kh2 {+1.00/7 0.25s} Kg6 {-1.00/7 0.25s}
+46. Kg1 {+1.00/7 0.25s} Kh6 {-1.00/7 0.26s} 47. Kh1 {+1.00/7 0.25s}
+Kg6 {-1.00/7 0.25s} 48. Kh2 {+1.00/6 0.25s} Kh6 {-1.00/7 0.25s}
+49. Kg2 {+1.00/7 0.25s} Kg6 {-1.00/7 0.25s} 50. Kf1 {+1.00/7 0.26s}
+Kh6 {-1.00/7 0.25s} 51. Kg1 {+1.00/7 0.25s} Kg6 {-1.00/7 0.25s}
+52. Kg2 {+1.00/7 0.25s} Kh6 {-1.00/7 0.25s} 53. Qe2 {+1.00/7 0.25s}
+Qd5 {-1.00/7 0.25s} 54. Kh1 {+1.00/6 0.25s} Kg6 {-1.00/7 0.25s}
+55. Rg1 {+1.00/6 0.25s} Kh6 {-1.00/7 0.26s} 56. Kg2 {+1.00/7 0.25s}
+Kg6 {-1.00/7 0.26s} 57. Kh2 {+1.00/6 0.25s} Kh6 {-1.00/7 0.25s}
+58. Kh1 {+1.00/7 0.25s} Kg6 {-1.00/7 0.25s} 59. Kg2 {+1.00/7 0.25s}
+Kh6 {-1.00/7 0.25s} 60. Kf1 {+1.00/7 0.25s} Kg6 {-1.00/8 0.25s}
+61. Kf2 {+1.00/6 0.25s} Qc5+ {0.00/7 0.26s} 62. Kf1 {0.00/8 0.26s}
+Qd5 {0.00/7 0.26s} 63. Ke1 {+1.00/7 0.25s} Kh6 {-1.00/7 0.26s}
+64. Kf2 {+1.00/7 0.25s} Kg6 {-1.00/7 0.25s} 65. Rh1 {+1.00/7 0.26s}
+Kg7 {-1.00/7 0.25s} 66. Kg1 {+1.00/6 0.26s} Qd1+ {0.00/6 0.25s}
+67. Qf1 {0.00/8 0.25s} Qxf1+ {0.00/7 0.26s} 68. Kxf1 {0.00/8 0.25s}
+Rd1+ {0.00/9 0.26s} 69. Kg2 {0.00/10 0.25s} Rd2+ {0.00/8 0.25s}
+70. Kg1 {0.00/10 0.26s} Rxb2 {0.00/9 0.26s} 71. Rh5 {0.00/9 0.27s}
+Kg6 {0.00/10 0.26s} 72. f4 {0.00/10 0.25s} Rb1+ {0.00/10 0.25s}
+73. Kh2 {0.00/11 0.26s} Rb2+ {0.00/10 0.25s} 74. Kh1 {0.00/12 0.25s}
+Rb1+ {0.00/11 0.26s} 75. Kh2 {0.00/13 0.26s} Rb2+ {0.00/11 0.26s}
+76. Kh1 {0.00/13 0.39s} Rb1+ 77. Kh2 {0.00/14 0.26s, Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "4"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:22:44.565 GMT"]
+[GameStartTime "2022-02-11T20:22:42.521 GMT"]
+[Opening "Sicilian"]
+[PlyCount "35"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} e5 {book}
+7. Nf3 {book} Be7 {book} 8. Bc4 {book} O-O {book} 9. O-O {book} Be6 {book}
+10. Bb3 {book} Nc6 {book} 11. Bg5 {book} Nd7 {book} 12. Bxe7 {book} Qxe7 {book}
+13. Nd5 {book} Qd8 {book} 14. Qd2 {book} Kh8 {0.00/5 0.25s}
+15. Kh1 {0.00/4 0.25s} Kg8 {0.00/5 0.26s} 16. Kg1 {0.00/4 0.25s}
+Kh8 {0.00/6 0.25s} 17. Kh1 {0.00/5 0.25s} Kg8 {0.00/6 0.25s}
+18. Kg1 {0.00/5 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "5"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[GameDuration "00:00:26"]
+[GameEndTime "2022-02-11T20:23:11.073 GMT"]
+[GameStartTime "2022-02-11T20:22:44.566 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "162"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. d3 {book} Bc5 {book} 5. Bxc6 {book} dxc6 {book} 6. Nbd2 {book} Be6 {book}
+7. O-O {book} Bd6 {book} 8. b3 {book} Nd7 {book} 9. Nc4 {book} O-O {book}
+10. Ng5 {book} Qe7 {book} 11. Qh5 {book} h6 {book} 12. Nxe6 {book} Qxe6 {book}
+13. f4 {book} f5 {book} 14. Qh3 {book} Rae8 {book} 15. fxe5 {book} Bxe5 {book}
+16. Nxe5 {book} Qxe5 {book} 17. Ba3 {book} c5 {book} 18. Rad1 {book} Qd4+ {book}
+19. Kh1 {book} fxe4 {book} 20. dxe4 {book} Rxf1+ {book} 21. Rxf1 {book}
+Rxe4 {book} 22. Qf5 {book} Re7 {book} 23. h3 {book} b6 {book} 24. Bc1 {book}
+Qe4 {book} 25. Qf2 {book} Qg6 {book} 26. Bb2 {book} Rf7 {book} 27. Qxf7+ {book}
+Qxf7 {book} 28. Rxf7 {book} Kxf7 {book} 29. Kg1 {book} Nf6 {book} 30. Kf2 {book}
+Nd5 {book} 31. Kg1 {-1.00/8 0.26s} Kg6 {+1.00/8 0.26s} 32. Kh1 {-1.00/8 0.26s}
+Kh7 {+1.00/8 0.26s} 33. Kg1 {-1.00/8 0.25s} Kh8 {+1.00/8 0.25s}
+34. Kh1 {-1.00/9 0.25s} Kg8 {+1.00/9 0.25s} 35. Kg1 {-1.00/9 0.25s}
+Kh7 {+1.00/8 0.25s} 36. Kh1 {-1.00/9 0.25s} Kg6 {+1.00/9 0.25s}
+37. Kg1 {-1.00/9 0.26s} Kf7 {+1.00/9 0.25s} 38. Kh1 {-1.00/8 0.26s}
+Kf8 {+1.00/9 0.26s} 39. Kg1 {-1.00/9 0.25s} Kg8 {+1.00/9 0.25s}
+40. Kh1 {-1.00/9 0.26s} Kh8 {+1.00/9 0.26s} 41. Kg1 {-1.00/9 0.25s}
+Ne3 {+1.00/9 0.26s} 42. Be5 {-1.00/9 0.25s} Nxc2 {+1.00/8 0.26s}
+43. Bxc7 {-1.00/9 0.26s} Ne3 {+1.00/8 0.25s} 44. Kh1 {-1.00/9 0.25s}
+Kh7 {+1.00/8 0.26s} 45. Kg1 {-1.00/9 0.25s} Kg6 {+1.00/8 0.26s}
+46. Kh1 {-1.00/9 0.26s} Kh5 {+1.00/9 0.25s} 47. Kg1 {-1.00/9 0.25s}
+Kh4 {+1.00/9 0.26s} 48. Kh1 {-1.00/9 0.26s} Kg5 {+1.00/9 0.25s}
+49. Kg1 {-1.00/9 0.26s} Kh5 {+1.00/9 0.26s} 50. Kh1 {-1.00/9 0.25s}
+Kh4 {+1.00/9 0.26s} 51. Kg1 {-1.00/9 0.26s} Kg5 {+1.00/9 0.25s}
+52. Kh1 {-1.00/9 0.25s} Kf5 {+1.00/9 0.25s} 53. Kg1 {-1.00/9 0.25s}
+Ke4 {+1.00/9 0.25s} 54. Kh1 {-1.00/8 0.25s} Kd3 {+1.00/7 0.45s}
+55. Kg1 {-1.00/8 0.26s} Ke2 {+1.00/8 0.25s} 56. Kh1 {-1.00/8 0.26s}
+Kf1 {+1.00/9 0.26s} 57. Be5 {-1.00/9 0.26s} Nxg2 {+1.00/9 0.25s}
+58. Bxg7 {-1.00/9 0.25s} Kf2 {+1.00/10 0.26s} 59. Bxh6 {-1.00/9 0.26s}
+Kg3 {+1.00/10 0.25s} 60. Kg1 {-1.00/10 0.26s} Kxh3 {+1.00/10 0.25s}
+61. Kh1 {-1.00/11 0.25s} Kg3 {+1.00/11 0.26s} 62. Kg1 {-1.00/11 0.25s}
+Kh3 {+1.00/11 0.25s} 63. Kh1 Ne1 {+1.00/12 0.25s} 64. Kg1 {-1.00/11 0.25s}
+Kg3 {+1.00/11 0.26s} 65. Kh1 {-1.00/10 0.26s} Kf2 {+1.00/11 0.25s}
+66. Kh2 {-1.00/10 0.26s} Kf1 {+1.00/11 0.25s} 67. Kh1 {-1.00/10 0.26s}
+Ke2 {+1.00/11 0.26s} 68. Kg1 {-1.00/9 0.47s} Kd1 {+1.00/10 0.25s}
+69. Kf1 {-1.00/9 0.26s} Nc2 {+1.00/10 0.26s} 70. Bf8 {-1.00/9 0.26s}
+Kc1 {+2.00/10 0.26s} 71. Kg1 {-2.00/9 0.26s} Kb1 {+2.00/9 0.25s}
+72. a4 {-2.00/9 0.26s} Kb2 {+2.00/10 0.25s} 73. Kh1 {-2.00/9 0.25s}
+a5 {+3.00/10 0.25s} 74. Be7 {-3.00/10 0.26s} Ne3 {+3.00/10 0.26s}
+75. Kg1 {-3.00/10 0.26s} Kxb3 {+3.00/10 0.25s} 76. Kh1 {-3.00/10 0.25s}
+Kxa4 {+3.00/10 0.26s} 77. Kg1 {-3.00/10 0.26s} Kb3 {+3.50/10 0.26s}
+78. Bd8 {-3.50/10 0.26s} Nc2 {+4.50/10 0.25s} 79. Bxb6 {-4.50/11 0.25s}
+a4 {+4.50/10 0.26s} 80. Bxc5 {-3.50/11 0.25s} a3 {+3.50/12 0.26s}
+81. Bxa3 {-3.50/10 0.25s}
+Kxa3 {+3.50/13 0.25s, Draw by insufficient mating material} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "6"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:21"]
+[GameEndTime "2022-02-11T20:23:32.266 GMT"]
+[GameStartTime "2022-02-11T20:23:11.074 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "143"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. g4 {book} hxg4 {book}
+16. hxg4 {book} Ne7 {book} 17. Nxe6 {book} Rxe6 {book} 18. Kg2 {book}
+Bxc3 {book} 19. bxc3 {book} Rd8 {book} 20. Rxd8+ {book} Kxd8 {book}
+21. Rh1 {book} Nd5 {book} 22. Bg3 {book} g5 {book} 23. Rh8+ {book} Kd7 {book}
+24. Rg8 {book} Nf4+ {book} 25. Bxf4 {book} gxf4 {book} 26. Rg5 {book} Rg6 {book}
+27. Rh5 {book} Rxg4+ {book} 28. Kf3 {book} Rg1 {book} 29. Kxf4 {book} Rf1 {book}
+30. Ke3 {book} Ra1 {book} 31. Rf5 {-1.00/8 0.25s} Ke6 {+1.00/8 0.25s}
+32. Ke4 {-1.00/8 0.25s} Re1+ {+2.00/8 0.25s} 33. Kf4 {-1.00/9 0.26s}
+Rc1 {+1.00/8 0.26s} 34. Kg5 {-1.00/8 0.25s} Ke7 {+1.00/8 0.26s}
+35. Kh5 {-1.00/8 0.26s} Ke8 {+1.00/8 0.25s} 36. Kh6 {-1.00/8 0.25s}
+Rxc2 {+1.00/9 0.26s} 37. Kg7 {-1.00/8 0.25s} Rxa2 {+1.00/9 0.25s}
+38. Kg8 {-1.00/8 0.25s} Ke7 {+1.00/9 0.26s} 39. Kg7 {-1.00/9 0.25s}
+Ke6 {+1.00/9 0.25s} 40. Rxf7 {-1.00/9 0.25s} Kxe5 {+1.00/9 0.25s}
+41. Rxc7 {-1.00/8 0.25s} Rxf2 {+1.00/8 0.25s} 42. Re7+ {-1.00/9 0.26s}
+Kf4 {+1.00/10 0.26s} 43. Rf7+ {-1.00/8 0.25s} Kg3 {+1.00/10 0.26s}
+44. Rxb7 {-1.00/9 0.25s} Rc2 {+1.00/8 0.26s} 45. Kh6 {-1.00/9 0.25s}
+Kh2 {+1.00/9 0.26s} 46. Kh5 {-1.00/10 0.26s} Kh1 {+1.00/10 0.25s}
+47. Kh4 {-1.00/10 0.25s} Kg1 {+1.00/10 0.26s} 48. Kg4 {-1.00/10 0.25s}
+Kg2 {+1.00/9 0.25s} 49. Kh4 {-1.00/10 0.25s} Kh1 {+1.00/10 0.26s}
+50. Kg4 {-1.00/11 0.26s} Kg1 {+1.00/10 0.26s} 51. Kh4 {-1.00/10 0.25s}
+Kf1 {+1.00/11 0.26s} 52. Kg4 {-1.00/10 0.25s} Ke1 {+1.00/10 0.25s}
+53. Kh4 {-1.00/9 0.26s} Kd1 {+1.00/9 0.25s} 54. Kg4 {-1.00/10 0.25s}
+Kc1 {+1.00/9 0.26s} 55. Kh4 {-1.00/10 0.26s} Kd2 {+1.00/10 0.25s}
+56. Rg7 {-1.00/10 0.25s} Kd1 {+1.00/10 0.26s} 57. Kh5 {-1.00/10 0.26s}
+Ke1 {+1.00/10 0.25s} 58. Kh4 {-1.00/10 0.25s} Kf2 {+1.00/10 0.26s}
+59. Kg4 {-1.00/10 0.26s} Kg2 {+1.00/10 0.25s} 60. Kf5+ {0.00/10 0.26s}
+Kh1 {0.00/11 0.26s} 61. Rxa7 {0.00/9 0.25s} Kg1 {0.00/9 0.25s}
+62. Ra1+ {0.00/9 0.25s} Kh2 {0.00/11 0.25s} 63. Ke6 {0.00/9 0.25s}
+Kg2 {0.00/9 0.26s} 64. Ra3 {0.00/9 0.25s} Kf1 {0.00/10 0.25s}
+65. Kf5 {0.00/10 0.25s} Kg1 {0.00/9 0.26s} 66. Kg4 {0.00/10 0.26s}
+Kh1 {0.00/10 0.26s} 67. Kh3 {0.00/11 0.26s} Kg1 {0.00/11 0.25s}
+68. Kg3 {0.00/11 0.26s} Kf1 {0.00/10 0.25s} 69. Kf3 {0.00/11 0.25s}
+Kg1 {0.00/10 0.25s} 70. Kg3 {0.00/11 0.25s} Kf1 {0.00/11 0.26s}
+71. Kf3 {0.00/12 0.26s} Kg1 {0.00/11 0.26s} 72. Kg3 {Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "7"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:05"]
+[GameEndTime "2022-02-11T20:23:38.181 GMT"]
+[GameStartTime "2022-02-11T20:23:32.267 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "83"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Bxa6 {book} Rxa6 {book} 15. Qe2 {book} Rfa8 {book}
+16. b5 {book} cxb5 {book} 17. c6 {book} Qxc6 {book} 18. Nxb5 {book} Rc8 {book}
+19. Rac1 {book} Qxc1 {book} 20. Rxc1 {book} Rxc1+ {book} 21. Kg2 {book}
+Ra8 {book} 22. f5 {book} Rc6 {book} 23. h4 {book} a4 {book} 24. h5 {book}
+h6 {book} 25. fxe6 {book} fxe6 {book} 26. Ne5 {book} Nxe5 {book} 27. dxe5 {book}
+Bc5 {book} 28. Qg4 {book} d4 {book} 29. Qf3 {book} Rcc8 {book} 30. Nc7 {book}
+d3 {book} 31. Nxa8 {0.00/7 0.26s} d2 {0.00/8 0.25s} 32. Kh2 {0.00/7 0.25s}
+Rd8 {+1.00/7 0.26s} 33. Qd1 {0.00/7 0.25s} Rxa8 {0.00/8 0.26s}
+34. Qxd2 {0.00/7 0.26s} Kh7 {0.00/7 0.26s} 35. Qc2+ {0.00/8 0.25s}
+Kh8 {0.00/9 0.26s} 36. Kh1 {0.00/8 0.25s} Kg8 {0.00/8 0.26s}
+37. Qb2 {0.00/8 0.25s} Kh7 {0.00/8 0.25s} 38. Kg1 {0.00/8 0.26s}
+Kh8 {0.00/8 0.26s} 39. Kf1 {0.00/8 0.25s} Kh7 {0.00/8 0.25s}
+40. Kg1 {0.00/9 0.26s} Kh8 {0.00/9 0.26s} 41. Kf1 {0.00/9 0.26s} Kh7
+42. Kg1 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "8"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:23:41.583 GMT"]
+[GameStartTime "2022-02-11T20:23:38.182 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "52"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} Re8 {book}
+10. Nc3 {book} h6 {book} 11. a3 {book} Bc5 {book} 12. Nd5 {book} Nd4 {book}
+13. Nxd4 {book} Bxd4 {book} 14. c3 {book} Bc5 {book} 15. Ne3 {book} d5 {book}
+16. exd5 {book} Nxd5 {book} 17. Qf3 {book} Bxe3 {book} 18. Bxe3 {book}
+Qd6 {book} 19. Rad1 {book} Rab8 {book} 20. d4 {book} e4 {book} 21. Qg3 {book}
+Kh8 {0.00/5 0.25s} 22. Kh1 {0.00/6 0.25s} Re6 {0.00/5 0.26s}
+23. Kg1 {0.00/6 0.26s} Kg8 {0.00/5 0.25s} 24. Kh1 {0.00/6 0.25s}
+Kh8 {0.00/5 0.25s} 25. Kg1 {0.84s} Kg8 26. Kh1
+Kh8 {0.00/6 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "9"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:23:44.396 GMT"]
+[GameStartTime "2022-02-11T20:23:41.584 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "70"]
+[TimeControl "0.25/move"]
+[Variation "Marshall counter-attack, 11...c6"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. c3 {book} d5 {book} 9. exd5 {book} Nxd5 {book}
+10. Nxe5 {book} Nxe5 {book} 11. Rxe5 {book} c6 {book} 12. d3 {book} Bd6 {book}
+13. Re1 {book} Bf5 {book} 14. Qf3 {book} Qh4 {book} 15. g3 {book} Qh3 {book}
+16. Be3 {book} Bxd3 {book} 17. Nd2 {book} Qf5 {book} 18. Bd4 {book} Rfe8 {book}
+19. a4 {book} h6 {book} 20. Kg2 {book} Qxf3+ {book} 21. Kxf3 {book} Rxe1 {book}
+22. Rxe1 {book} bxa4 {book} 23. Bxa4 {book} c5 {book} 24. Be5 {book} Bf8 {book}
+25. Bb3 {book} Nb6 {book} 26. c4 {book} Ra7 {book} 27. Bb8 {book} Rd7 {book}
+28. Bf4 {book} g5 {book} 29. Be3 {book} Rd6 {book} 30. Kg2 {book}
+Rg6 {0.00/6 0.25s} 31. Kh1 {0.00/6 0.25s} Kh7 {0.00/6 0.25s}
+32. Kg1 {0.00/6 0.26s} Kg7 {0.00/6 0.25s} 33. Kh1 {0.00/7 0.25s}
+Kh7 {0.00/7 0.25s} 34. Kg1 {0.00/7 0.26s} Kg7 {0.00/7 0.25s} 35. Kh1
+Kh7 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "10"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:16"]
+[GameEndTime "2022-02-11T20:24:00.478 GMT"]
+[GameStartTime "2022-02-11T20:23:44.397 GMT"]
+[Opening "Sicilian"]
+[PlyCount "76"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} Ng4 {book}
+7. Bc1 {book} Rg8 {0.00/5 0.25s} 8. Ke2 {0.00/4 0.26s} Kd7 {0.00/5 0.25s}
+9. Ke1 {0.00/5 0.25s} Ke8 {0.00/5 0.25s} 10. Ke2 {0.00/4 0.25s}
+Kd7 {0.00/6 0.25s} 11. Ke1 {0.00/6 0.26s} Kc7 {0.00/6 0.25s}
+12. Nd5+ {+3.50/5 0.26s} Kd7 {-3.50/7 0.26s} 13. Qxg4+ {+3.50/5 0.26s}
+Ke8 {-3.50/6 0.25s} 14. Qg3 {+3.50/5 0.25s} Rh8 {-3.50/5 0.25s}
+15. Kd1 {+3.50/4 0.25s} Kd7 {-3.50/5 0.25s} 16. Ke2 {+3.50/5 0.25s}
+Ke8 {-3.50/6 0.26s} 17. Ke1 {+3.50/5 0.25s} Rg8 {-3.50/5 0.25s}
+18. Kd1 {+3.50/4 0.26s} Rh8 {-3.50/5 0.26s} 19. Ke2 {+3.50/5 0.25s}
+Kd7 {-3.50/5 0.25s} 20. Kd2 {+3.50/5 0.25s} h6 {-3.50/6 0.25s}
+21. Ke1 {+3.50/5 0.25s} Ke8 {-3.50/5 0.25s} 22. Kd1 {+3.50/4 0.26s}
+h5 {-3.50/5 0.25s} 23. Ke1 {+3.50/4 0.25s} Kd7 {-3.50/5 0.26s}
+24. Kd1 {+3.50/5 0.25s} Ke8 {0.00/5 0.25s} 25. Ke2 {+3.50/5 0.26s}
+Kd7 {-3.50/5 0.25s} 26. Ke1 {+3.50/5 0.25s} e6 {-3.50/5 0.26s}
+27. Ne3 {+3.50/5 0.25s} Ke7 {-3.50/5 0.26s} 28. Kd1 {+3.50/5 0.25s}
+Kd7 {-3.50/5 0.26s} 29. Ke2 {+3.50/5 0.25s} Ke7 {-3.50/6 0.26s}
+30. Ke1 {+3.50/5 0.25s} Kd7 {-3.50/6 0.26s} 31. Kd1 {+3.50/5 0.25s}
+Ke7 {-3.50/6 0.25s} 32. Ke2 {+3.50/5 0.26s} Kd7 {-3.50/6 0.25s}
+33. Kd2 {+3.50/5 0.26s} Ke7 {-3.50/6 0.27s} 34. Kd3 {+3.50/5 0.26s}
+Kd7 {-3.50/6 0.26s} 35. Kc3 {+3.50/5 0.25s} Ke8 {-3.50/5 0.25s}
+36. Kd3 {+3.50/4 0.26s} Kd7 {0.00/5 0.26s} 37. Kc4 {+3.50/6 0.26s}
+Qa5 {-3.50/6 0.25s} 38. Kd3 {+3.50/5 0.25s}
+Qd8 {0.00/5 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "11"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "0-1"]
+[ECO "C88"]
+[GameDuration "00:00:13"]
+[GameEndTime "2022-02-11T20:24:13.732 GMT"]
+[GameStartTime "2022-02-11T20:24:00.479 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "109"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d6 {book}
+10. a3 {book} Na5 {book} 11. Ba2 {book} c5 {book} 12. Nbd2 {book} Nc6 {book}
+13. Nf1 {book} Bc8 {book} 14. c3 {book} Be6 {book} 15. Bxe6 {book} fxe6 {book}
+16. b4 {book} Qd7 {book} 17. Ng3 {book} a5 {book} 18. bxc5 {book} dxc5 {book}
+19. a4 {book} b4 {book} 20. Be3 {book} c4 {book} 21. dxc4 {book} Qxd1 {book}
+22. Rexd1 {book} bxc3 {book} 23. c5 {book} c2 {book} 24. Rdc1 {book} Nb4 {book}
+25. Ne1 {book} Rfc8 {book} 26. Nxc2 {book} Bxc5 {book} 27. Nxb4 {book}
+Bxe3 {book} 28. Rxc8+ {book} Rxc8 {book} 29. fxe3 {book} axb4 {book}
+30. Rb1 {book} Rb8 {book} 31. Kh1 {0.00/8 0.26s} Kf7 {0.00/8 0.26s}
+32. Kg1 {0.00/8 0.25s} Kg6 {0.00/8 0.25s} 33. Kh1 {0.00/8 0.25s}
+Kg5 {0.00/8 0.25s} 34. Kg1 {0.00/8 0.25s} h5 {+1.00/8 0.25s}
+35. Kh1 {-1.00/8 0.26s} h4 {+1.00/8 0.25s} 36. Ne2 {-1.00/8 0.25s}
+Nxe4 {+1.00/8 0.26s} 37. Kg1 {-1.00/8 0.25s} Kh5 {+1.00/8 0.25s}
+38. Kh1 {-1.00/8 0.26s} Kg5 {+1.00/8 0.26s} 39. Kg1 Kf5 40. Rf1+ {0.00/8 0.25s}
+Kg6 {+1.00/9 0.25s} 41. Kh1 {-1.00/7 0.25s} b3 {+3.50/8 0.25s}
+42. Rb1 {-1.00/7 0.25s} b2 {+3.50/8 0.26s} 43. Kg1 {-4.00/8 0.25s}
+Rb3 {+5.50/8 0.25s} 44. Kh1 {-4.50/8 0.26s} Nd2 {+5.50/8 0.26s}
+45. Nc1 {-5.50/8 0.25s} Rb4 {+6.50/9 0.25s} 46. Nd3 {-6.50/8 0.25s}
+Nxb1 {+8.00/8 0.26s} 47. Nxe5+ {-9.00/8 0.26s} Kh7 {+9.00/9 0.26s}
+48. Nf3 {-9.00/8 0.25s} Nc3 {+9.00/8 0.25s} 49. Nd2 {-9.00/7 0.99s}
+b1=Q+ {+10.00/8 0.25s} 50. Nxb1 {-10.00/7 0.25s} Rxb1+ {+10.00/9 0.25s}
+51. Kh2 {-10.00/9 0.27s} Nxa4 {+10.00/8 0.25s} 52. g4 {-11.00/9 0.25s}
+Re1 {+11.00/9 0.26s} 53. Kg2 {-12.00/10 0.26s} Rxe3 {+12.00/10 0.25s}
+54. g5 {-12.00/10 0.25s} Kg6 {+12.00/10 0.25s}
+55. Kg1 {-12.00/10 0.25s, Black wins by adjudication} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "12"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:24:16.021 GMT"]
+[GameStartTime "2022-02-11T20:24:13.733 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "33"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. d3 {book} Bc5 {book} 5. c3 {book} O-O {book} 6. O-O {book} Re8 {book}
+7. Nbd2 {book} a6 {book} 8. Ba4 {book} b5 {book} 9. Bb3 {book} d6 {book}
+10. Re1 {book} Be6 {book} 11. Nf1 {book} Bxb3 {book} 12. axb3 {book} d5 {book}
+13. N1d2 {0.00/4 0.26s} Kh8 {0.00/4 0.25s} 14. Kf1 {0.00/5 0.25s}
+Kg8 {0.00/4 0.25s} 15. Kg1 {0.00/5 0.25s} Kh8 16. Kf1 Kg8 {0.00/5 0.25s}
+17. Kg1 {0.00/6 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "13"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:24:19.353 GMT"]
+[GameStartTime "2022-02-11T20:24:16.022 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "66"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d6 {book}
+10. a3 {book} Qd7 {book} 11. Nc3 {book} Nd8 {book} 12. d4 {book} exd4 {book}
+13. Nxd4 {book} Re8 {book} 14. Nf5 {book} Ne6 {book} 15. Nxe7+ {book}
+Rxe7 {book} 16. f3 {book} Rd8 {book} 17. Bxe6 {book} fxe6 {book} 18. e5 {book}
+dxe5 {book} 19. Qxd7 {book} Rdxd7 {book} 20. Rxe5 {book} h6 {book}
+21. Be3 {book} Nd5 {book} 22. Nxd5 {book} Rxd5 {book} 23. Rxd5 {book}
+Bxd5 {book} 24. a4 {book} Kf7 {book} 25. axb5 {book} axb5 {book} 26. Ra7 {book}
+c6 {book} 27. Rxe7+ {book} Kxe7 {0.00/8 0.25s} 28. Kh1 {0.00/8 0.26s}
+Kf6 {0.00/8 0.25s} 29. Kg1 {0.00/9 0.25s} Kf5 {0.00/8 0.25s}
+30. Kh1 {0.00/9 0.26s} Ke5 {0.00/9 0.25s} 31. Kg1 {0.00/9 0.26s}
+Kf5 {0.00/9 0.25s} 32. Kh1 {0.00/10 0.26s} Ke5 {0.00/10 0.25s} 33. Kg1
+Kf5 {0.00/10 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "14"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:24:22.659 GMT"]
+[GameStartTime "2022-02-11T20:24:19.355 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "71"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Bb4 {book} 5. cxd5 {book} exd5 {book} 6. Bg5 {book} h6 {book}
+7. Bh4 {book} c5 {book} 8. dxc5 {book} Nbd7 {book} 9. Qb3 {book} Qa5 {book}
+10. a3 {book} Bxc3+ {book} 11. Qxc3 {book} Qxc3+ {book} 12. bxc3 {book}
+Nxc5 {book} 13. Nd4 {book} g5 {book} 14. Bg3 {book} Nfe4 {book} 15. f3 {book}
+Nxg3 {book} 16. hxg3 {book} f5 {book} 17. e3 {book} Ke7 {book} 18. Kd2 {book}
+Bd7 {book} 19. Bd3 {book} Kf6 {book} 20. Bc2 {book} h5 {book} 21. Rh2 {book}
+Rh6 {book} 22. a4 {book} b6 {book} 23. a5 {book} b5 {book} 24. Rf1 {book}
+Ke5 {book} 25. Rfh1 {book} Rah8 {book} 26. Bd3 {book} a6 {book} 27. Be2 {book}
+Kf6 {book} 28. Rb1 {book} Nb7 {book} 29. Ra1 {book} Nc5 {book}
+30. Ke1 {0.00/6 0.25s} Ke5 {0.00/6 0.25s} 31. Kf1 {0.00/6 0.25s}
+Kf6 {0.00/7 0.25s} 32. Kg1 {0.00/6 0.26s} Ke5 {0.00/6 0.26s}
+33. Kh1 {0.00/6 0.25s} Kf6 {0.00/7 0.25s} 34. Kg1 {0.00/6 0.25s} Ke5
+35. Kh1 {0.00/7 0.25s} Kf6 36. Kg1 {0.00/7 0.25s, Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "15"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:24:24.981 GMT"]
+[GameStartTime "2022-02-11T20:24:22.660 GMT"]
+[Opening "Sicilian"]
+[PlyCount "35"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} e5 {book}
+7. Nf3 {book} Be7 {book} 8. Bc4 {book} O-O {book} 9. O-O {book} Nc6 {book}
+10. Re1 {book} b5 {book} 11. Bf1 {book} Rb8 {book} 12. Bg5 {book} Ng4 {book}
+13. Bxe7 {book} Nxe7 {0.00/4 0.25s} 14. Qd2 {book} Kh8 {0.00/3 0.26s}
+15. Kh1 {0.00/3 0.26s} Kg8 {0.00/3 0.25s} 16. Kg1 {0.00/4 0.26s}
+Kh8 {0.00/4 0.26s} 17. Kh1 {0.00/4 0.26s} Kg8 {0.00/4 0.25s}
+18. Kg1 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "16"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:24:28.071 GMT"]
+[GameStartTime "2022-02-11T20:24:24.982 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "72"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. Re1 {book} Nd6 {book} 6. Nxe5 {book} Be7 {book}
+7. Bf1 {book} Nxe5 {book} 8. Rxe5 {book} O-O {book} 9. d4 {book} Bf6 {book}
+10. Re1 {book} Re8 {book} 11. Bf4 {book} Rxe1 {book} 12. Qxe1 {book} Ne8 {book}
+13. c3 {book} d5 {book} 14. Bd3 {book} g6 {book} 15. Nd2 {book} Ng7 {book}
+16. Nf3 {book} Bf5 {book} 17. Bxf5 {book} Nxf5 {book} 18. Qe2 {book} c6 {book}
+19. Re1 {book} Ng7 {book} 20. Be5 {book} Ne6 {book} 21. Bxf6 {book} Qxf6 {book}
+22. Ne5 {book} Re8 {book} 23. Ng4 {book} Qd8 {book} 24. Qe5 {book} Ng7 {book}
+25. Qxe8+ {book} Nxe8 {book} 26. Rxe8+ {book} Qxe8 {book} 27. Nf6+ {book}
+Kf8 {book} 28. Nxe8 {book} Kxe8 {book} 29. f4 {book} f5 {book} 30. Kf2 {book}
+b5 {book} 31. Kg1 {0.00/11 0.26s} Kf7 {0.00/10 0.26s} 32. Kh1 {0.00/12 0.25s}
+Kf6 {0.00/11 0.26s} 33. Kg1 {0.00/12 0.26s} Ke6 {0.00/11 0.25s}
+34. Kh1 {0.00/12 0.25s} Kf6 {0.00/12 0.26s} 35. Kg1 {0.00/14 0.25s} Ke6
+36. Kh1 {0.00/13 0.25s} Kf6 {0.00/13 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "17"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:24:30.903 GMT"]
+[GameStartTime "2022-02-11T20:24:28.072 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "71"]
+[TimeControl "0.25/move"]
+[Variation "Closed"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} d6 {book} 8. c3 {book} O-O {book} 9. h3 {book} Nb8 {book}
+10. d4 {book} Nbd7 {book} 11. Nbd2 {book} Bb7 {book} 12. Bc2 {book} Re8 {book}
+13. a4 {book} Bf8 {book} 14. Bd3 {book} c6 {book} 15. b4 {book} Nb6 {book}
+16. axb5 {book} cxb5 {book} 17. d5 {book} Rc8 {book} 18. Ra3 {book} Nh5 {book}
+19. Nf1 {book} g6 {book} 20. N1h2 {book} Bg7 {book} 21. Bg5 {book} Qd7 {book}
+22. Be3 {book} Nc4 {book} 23. Bxc4 {book} Rxc4 {book} 24. Nd2 {book} Rc7 {book}
+25. Nhf1 {book} Nf4 {book} 26. Bb6 {book} Rcc8 {book} 27. Ne3 {book} f5 {book}
+28. f3 {book} Rf8 {book} 29. Kh2 {book} Rf7 {book} 30. c4 {book} bxc4 {book}
+31. Ndxc4 {0.00/2 0.25s} Kh8 {0.00/2 0.25s} 32. Kh1 {0.00/2 0.25s}
+Kg8 {0.00/2 0.26s} 33. Kg1 {0.00/2 0.26s} Kh8 {0.00/2 0.26s}
+34. Kh1 {0.00/2 0.25s} Kg8 {0.00/3 0.26s} 35. Kg1 Kh8 {0.00/3 0.26s}
+36. Kh1 {0.00/3 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "18"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1-0"]
+[ECO "D15"]
+[GameDuration "00:00:25"]
+[GameEndTime "2022-02-11T20:24:55.932 GMT"]
+[GameStartTime "2022-02-11T20:24:30.904 GMT"]
+[Opening "QGD Slav"]
+[PlyCount "158"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "4.Nc3"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. Nf3 {book} Nf6 {book}
+4. Nc3 {book} e6 {book} 5. e3 {book} Nbd7 {book} 6. Qc2 {book} Bd6 {book}
+7. Bd3 {book} O-O {book} 8. O-O {book} dxc4 {book} 9. Bxc4 {book} b5 {book}
+10. Be2 {book} Bb7 {book} 11. e4 {book} e5 {book} 12. dxe5 {book} Nxe5 {book}
+13. Nh4 {book} b4 {book} 14. Nf5 {book} bxc3 {book} 15. Rd1 {book} Ne8 {book}
+16. Qxc3 {book} Qf6 {book} 17. f4 {book} Bc7 {book} 18. fxe5 {book} Qxe5 {book}
+19. Qxe5 {book} Bxe5 {book} 20. Rd7 {book} Bc8 {book} 21. Ne7+ {book} Kh8 {book}
+22. Rd3 {book} Ba6 {book} 23. Re3 {book} Bb7 {book} 24. Rb3 {book} Nd6 {book}
+25. Nf5 {book} Nxf5 {book} 26. exf5 {book} Bc8 {book} 27. g4 {book} g6 {book}
+28. Bf3 {book} gxf5 {book} 29. Bxc6 {book} Be6 {book} 30. Bxa8 {book}
+Bxb3 {book} 31. axb3 {+1.00/7 0.25s} Rxa8 {-1.00/7 0.26s}
+32. gxf5 {+1.00/7 0.26s} Kg7 {0.00/7 0.26s} 33. Kh1 {0.00/8 0.26s}
+Kf6 {0.00/7 0.25s} 34. Kg1 {0.00/9 0.26s} Kxf5 {0.00/8 0.26s}
+35. Kh1 {0.00/8 0.26s} Kg4 {0.00/7 0.26s} 36. Kg2 {0.00/8 0.25s}
+Kh4 {0.00/7 0.25s} 37. Ra4+ {+1.00/8 0.26s} Kh5 {0.00/9 0.25s}
+38. Ra5 {+1.00/8 0.25s} f6 {-1.00/8 0.25s} 39. Bf4 {+1.00/8 0.26s}
+Kh4 {-1.00/8 0.26s} 40. Bxe5 {+1.00/8 0.26s} fxe5 {-1.00/7 0.25s}
+41. Rxe5 {+1.00/9 0.26s} Kg4 {-1.00/8 0.26s} 42. Kh1 {+1.00/9 0.25s}
+Kf3 {-1.00/9 0.26s} 43. Kg1 {+1.00/9 0.25s} Kg4 {-1.00/9 0.25s}
+44. Kf1 {+1.00/9 0.25s} Kf3 {-1.00/9 0.25s} 45. Ke1 {+1.00/9 0.25s}
+Kg2 {-1.00/9 0.25s} 46. Re2+ {+1.00/9 0.25s} Kh1 {-1.00/10 0.26s}
+47. Kd1 {+1.00/9 0.25s} Kg1 {-1.00/9 0.25s} 48. Kc1 {+1.00/9 0.25s}
+Kh1 {-1.00/9 0.26s} 49. Kb1 {+1.00/9 0.26s} Kg1 {-1.00/9 0.25s}
+50. Ka1 {+1.00/9 0.25s} Kh1 {-1.00/10 0.25s} 51. Ka2 {+1.00/10 0.25s}
+Rg8 {-1.00/10 0.25s} 52. Kb1 {+1.00/9 0.25s} Kg1 {0.00/9 0.25s}
+53. Kc1 {+1.00/9 0.25s} Kh1 {-1.00/9 0.26s} 54. Kd1 {+1.00/9 0.25s}
+Kg1 {-1.00/9 0.25s} 55. Kd2 {+1.00/9 0.26s} Rg2 {0.00/9 0.25s}
+56. Rxg2+ {+1.00/10 0.26s} Kxg2 {-1.00/10 0.26s} 57. h4 {+1.00/13 0.25s}
+Kg3 {-1.00/13 0.26s} 58. h5 {0.00/15 0.26s} Kh2 {-1.00/16 0.25s}
+59. Kd3 {+1.00/12 0.25s} Kg1 {-1.00/15 0.25s} 60. Ke2 {+1.00/13 0.25s}
+Kh1 {-1.00/15 0.25s} 61. Ke1 {+1.00/15 0.25s} Kg1 {-1.00/14 0.25s}
+62. Kd1 {+1.00/16 0.25s} Kh1 {-1.00/17 0.25s} 63. Kc1 {+1.00/16 0.25s}
+Kg1 {-1.00/16 0.26s} 64. Kc2 {+1.00/17 0.25s} Kh1 {-1.00/17 0.25s}
+65. Kd1 {+1.00/17 0.25s} Kg1 {-1.00/17 0.26s} 66. Ke1 {+1.00/18 0.25s}
+Kh1 {-1.00/16 0.25s} 67. Kf1 {+1.00/18 0.25s} Kh2 68. b4 {+1.00/18 0.26s}
+h6 {-1.00/13 0.26s} 69. Kf2 {+1.00/18 0.25s} Kh1 {-1.00/15 0.25s}
+70. Kg3 {+8.00/16 0.25s} Kg1 {-8.00/15 0.25s} 71. Kg4 {+3.00/15 0.25s}
+Kg2 {-9.00/16 0.25s} 72. Kf4 {+3.00/15 0.25s} Kh3 {-9.00/13 0.26s}
+73. Kf5 {+9.00/12 0.25s} Kg2 {-9.00/15 0.25s} 74. Kg6 {+9.00/15 0.25s}
+a6 {-9.00/15 0.26s} 75. Kxh6 {+9.00/15 0.25s} Kf1 {-9.00/13 0.26s}
+76. Kg5 {+10.00/15 0.26s} Ke2 {-9.00/13 0.25s} 77. h6 {+10.00/12 0.25s}
+Kd3 {-9.00/11 0.25s} 78. h7 {+10.00/12 0.25s} Kd2 {-10.00/10 0.26s}
+79. h8=Q {+11.00/10 0.25s} Kc1 {-11.00/9 0.25s, White wins by adjudication} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "19"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:24:58.999 GMT"]
+[GameStartTime "2022-02-11T20:24:55.934 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "72"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. Re1 {book} Nd6 {book} 6. Nxe5 {book} Be7 {book}
+7. Bf1 {book} Nxe5 {book} 8. Rxe5 {book} O-O {book} 9. d4 {book} Bf6 {book}
+10. Re1 {book} Re8 {book} 11. c3 {book} Rxe1 {book} 12. Qxe1 {book} Ne8 {book}
+13. Bf4 {book} d5 {book} 14. Bd3 {book} g6 {book} 15. Nd2 {book} Ng7 {book}
+16. Nf3 {book} Bf5 {book} 17. Bxf5 {book} Nxf5 {book} 18. Qe2 {book} c6 {book}
+19. Re1 {book} Ng7 {book} 20. Be5 {book} Ne6 {book} 21. Bxf6 {book} Qxf6 {book}
+22. Ne5 {book} Re8 {book} 23. Ng4 {book} Qd8 {book} 24. Qe5 {book} Ng7 {book}
+25. Qxe8+ {book} Nxe8 {book} 26. Rxe8+ {book} Qxe8 {book} 27. Nf6+ {book}
+Kf8 {book} 28. Nxe8 {book} Kxe8 {book} 29. f4 {book} f5 {book} 30. Kf2 {book}
+b5 {book} 31. Kg1 {0.00/10 0.26s} Kf7 {0.00/10 0.25s} 32. Kh1 {0.00/10 0.25s}
+Kf6 {0.00/10 0.25s} 33. Kg1 {0.00/11 0.25s} Ke6 {0.00/11 0.26s}
+34. Kh1 {0.00/10 0.25s} Kf6 {0.00/11 0.25s} 35. Kg1 {0.00/12 0.26s}
+Ke6 {0.00/11 0.25s} 36. Kh1 {0.00/11 0.26s}
+Kf6 {0.00/12 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "20"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:25:01.319 GMT"]
+[GameStartTime "2022-02-11T20:24:59.000 GMT"]
+[Opening "Nimzo-Indian"]
+[PlyCount "57"]
+[TimeControl "0.25/move"]
+[Variation "Classical Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nc3 {book} Bb4 {book}
+4. Qc2 {book} O-O {book} 5. a3 {book} Bxc3+ {book} 6. Qxc3 {book} d5 {book}
+7. Nf3 {book} dxc4 {book} 8. Qxc4 {book} b6 {book} 9. Bg5 {book} Ba6 {book}
+10. Qa4 {book} Qd7 {book} 11. Qc2 {book} c5 {book} 12. dxc5 {book} Rc8 {book}
+13. Bxf6 {book} gxf6 {book} 14. Qe4 {book} Qb5 {book} 15. b4 {book} bxc5 {book}
+16. e3 {book} Qb7 {book} 17. Qg4+ {book} Kf8 {book} 18. b5 {book} Bxb5 {book}
+19. Rb1 {book} a6 {book} 20. a4 {book} f5 {book} 21. Qf4 {book} Qe4 {book}
+22. Qh6+ {book} Ke7 {book} 23. Qg5+ {book} Kf8 {book} 24. Qh6+ {0.00/6 0.26s}
+Kg8 {0.00/8 0.26s} 25. Qg5+ {0.00/6 0.26s} Kh8 {0.00/8 0.25s}
+26. Qf6+ {0.00/6 0.26s} Kg8 {0.00/8 0.26s} 27. Qg5+ {0.00/6 0.25s} Kh8
+28. Qf6+ {0.00/7 0.26s} Kg8 29. Qg5+ {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "21"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "0-1"]
+[ECO "B90"]
+[GameDuration "00:00:27"]
+[GameEndTime "2022-02-11T20:25:28.623 GMT"]
+[GameStartTime "2022-02-11T20:25:01.321 GMT"]
+[Opening "Sicilian"]
+[PlyCount "167"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} e6 {book}
+7. f3 {book} b5 {book} 8. Qd2 {book} Nbd7 {book} 9. g4 {book} h6 {book}
+10. O-O-O {book} b4 {book} 11. Nce2 {book} Qc7 {book} 12. h4 {book} d5 {book}
+13. Bf4 {book} e5 {book} 14. Bh2 {book} dxe4 {book} 15. g5 {book} hxg5 {book}
+16. hxg5 {book} Rxh2 {book} 17. Rxh2 {book} exd4 {book} 18. Rh4 {book} b3 {book}
+19. axb3 {book} Nc5 {book} 20. Nxd4 {book} Nd5 {book} 21. fxe4 {book} Nb4 {book}
+22. c3 {book} Be6 {book} 23. Kb1 {book} Nxb3 {book} 24. Nxb3 {book} Bxb3 {book}
+25. cxb4 {book} Qc6 {book} 26. Rh3 {book} Bxd1 {book} 27. Qxd1 {book} Rb8 {book}
+28. Qd4 {book} Rxb4 {book} 29. Qe5+ {book} Qe6 {book} 30. Qxe6+ {book}
+fxe6 {book} 31. Kc1 {0.00/8 0.25s} Kf7 {0.00/8 0.26s} 32. Kb1 {0.00/7 0.25s}
+Kg6 {0.00/8 0.25s} 33. Rg3 {0.00/7 0.25s} Kh5 {0.00/8 0.25s}
+34. Kc1 {0.00/7 0.26s} Rxe4 {+1.00/8 0.25s} 35. Bxa6 {-1.00/8 0.25s}
+Bd6 {+1.00/8 0.25s} 36. Rg1 {-1.00/8 0.25s} Bf4+ {+1.00/8 0.25s}
+37. Kd1 {-1.00/9 0.25s} Rd4+ {+1.00/8 0.25s} 38. Kc2 {-1.00/9 0.25s}
+Bxg5 {+1.00/8 0.25s} 39. Re1 {-1.00/8 0.26s} Rd2+ {+1.00/8 0.26s}
+40. Kb1 {-1.00/9 0.25s} Bf6 {+1.00/8 0.25s} 41. Kc1 {-1.00/8 0.25s}
+Rf2 {+1.00/8 0.25s} 42. Kd1 {-1.00/8 0.26s} Kh4 {+1.00/8 0.25s}
+43. Rh1+ {-1.00/8 0.25s} Kg3 {+1.00/10 0.25s} 44. Rg1+ {-1.00/8 0.25s}
+Kh2 {+1.00/10 0.25s} 45. Re1 {-1.00/8 0.25s} Kg2 {+1.00/8 0.25s}
+46. Re3 {-1.00/8 0.25s} Kh1 {+1.00/8 0.25s} 47. b3 {-1.00/8 0.25s}
+Rb2 {+1.00/8 0.25s} 48. Kc1 {-1.00/8 0.26s} Bg5 {+1.00/9 0.26s}
+49. Kxb2 {-1.00/9 0.26s} Bxe3 {+1.00/8 0.25s} 50. Kb1 {-1.00/10 0.26s}
+Kg1 {+1.00/10 0.26s} 51. Ka1 {-1.00/10 0.25s} Kh2 {+1.00/11 0.26s}
+52. Kb1 {-1.00/10 0.25s} Kh1 {+1.00/11 0.25s} 53. Ka1 {-1.00/11 0.26s}
+Kg1 {+1.00/12 0.25s} 54. Kb1 {-1.00/11 0.26s} Kh2 {+1.00/11 0.25s}
+55. Ka1 {-1.00/11 0.26s} Kg2 {+1.00/12 0.25s} 56. Kb1 {-1.00/11 0.25s}
+Kf2 {+1.00/11 0.25s} 57. Kc2 {-1.00/10 0.26s} Ke1 {+2.50/10 0.26s}
+58. Kb1 {-1.00/11 0.25s} g5 {+2.00/11 0.25s} 59. Kc2 {-1.00/10 0.26s}
+g4 {+3.50/10 0.25s} 60. Bd3 {-3.50/10 0.25s} Kf2 {+3.50/9 0.25s}
+61. Kd1 {-3.50/10 0.25s} Bf4 {+3.50/10 0.26s} 62. Bb1 {-3.50/10 0.25s}
+g3 {+3.50/10 0.25s} 63. Be4 {-3.50/9 0.26s} Be5 {+3.50/11 0.26s}
+64. Kc1 {-3.50/10 0.26s} Bd4 {+3.50/11 0.25s} 65. Kd1 {-3.50/9 0.26s}
+Kf1 {+3.50/11 0.25s} 66. Bd3+ {-3.50/9 0.25s} Kg1 {+3.50/12 0.25s}
+67. Bc2 {-3.50/9 0.25s} Kh1 {+3.50/11 0.25s} 68. Ke1 {-3.50/11 0.26s}
+Kh2 {+3.50/12 0.25s} 69. Be4 {-3.50/10 0.26s} g2 {+3.50/10 0.25s}
+70. Bxg2 {-3.50/8 0.25s} Kxg2 {+3.50/11 0.25s} 71. Kd1 {-3.50/12 0.25s}
+Kh1 {+6.00/12 0.25s} 72. Ke1 {-3.50/12 0.25s} Kg1 {+3.50/14 0.25s}
+73. Kd1 {-3.50/13 0.25s} e5 {+4.50/14 0.25s} 74. Ke1 {-3.50/12 0.25s}
+e4 {+11.50/13 0.25s} 75. Ke2 {-8.00/12 0.26s} Kg2 {+11.50/11 0.25s}
+76. b4 {-11.50/13 0.25s} Bb6 {+11.50/11 0.25s} 77. Ke1 {-11.50/13 0.26s}
+Kf3 {+11.50/12 0.25s} 78. Kd1 {-12.50/12 0.26s} Kf2 {+12.50/11 0.25s}
+79. Kc1 {-12.50/12 0.26s} e3 {+12.50/11 0.25s} 80. Kd1 {-12.50/11 0.25s}
+Kf3 {+12.50/11 0.25s} 81. Ke1 {-12.50/11 0.25s} e2 {+12.50/11 0.25s}
+82. Kd2 {-12.50/10 0.26s} Bd8 {+12.50/10 0.25s} 83. Kc2 {-12.50/9 0.27s}
+e1=Q {+12.50/9 0.25s} 84. Kb2 {-12.50/8 0.26s, Black wins by adjudication} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "22"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:25:31.707 GMT"]
+[GameStartTime "2022-02-11T20:25:28.624 GMT"]
+[Opening "Queen's Indian"]
+[PlyCount "72"]
+[TimeControl "0.25/move"]
+[Variation "Nimzovich Variation (exaggerated Fianchetto)"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} b6 {book}
+4. g3 {book} Ba6 {book} 5. b3 {book} Bb4+ {book} 6. Bd2 {book} Be7 {book}
+7. Bg2 {book} c6 {book} 8. Bc3 {book} d5 {book} 9. Ne5 {book} Nfd7 {book}
+10. Nxd7 {book} Nxd7 {book} 11. Nd2 {book} O-O {book} 12. O-O {book} Rc8 {book}
+13. e4 {book} c5 {book} 14. exd5 {book} exd5 {book} 15. dxc5 {book} dxc4 {book}
+16. c6 {book} cxb3 {book} 17. Re1 {book} b2 {book} 18. Bxb2 {book} Nc5 {book}
+19. Nc4 {book} Bxc4 {book} 20. Qg4 {book} Bg5 {book} 21. Qxc4 {book} Nd3 {book}
+22. Be5 {book} Nxe1 {book} 23. Rxe1 {book} Bf6 {book} 24. Bxf6 {book}
+Qxf6 {book} 25. c7 {book} Qd6 {book} 26. Rc1 {book} b5 {book} 27. Qc2 {book}
+g6 {book} 28. Bb7 {book} b4 {book} 29. h4 {book} h5 {book} 30. Kf1 {book}
+a5 {book} 31. Bxc8 {0.00/6 0.26s} Rxc8 {0.00/6 0.25s} 32. Kg1 {0.00/7 0.25s}
+Kh7 {0.00/7 0.26s} 33. Kh1 {0.00/7 0.25s} Kh6 {0.00/7 0.26s}
+34. Kg1 {0.00/7 0.26s} Kh7 {0.00/7 0.26s} 35. Kh1 {0.00/8 0.26s} Kh6
+36. Kg1 {0.00/8 0.25s} Kh7 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "23"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1-0"]
+[ECO "B90"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:25:34.765 GMT"]
+[GameStartTime "2022-02-11T20:25:31.709 GMT"]
+[Opening "Sicilian"]
+[PlyCount "43"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} Ng4 {book}
+7. Bg5 {book} h6 {book} 8. Bh4 {book} g5 {book} 9. Bg3 {book} Bg7 {book}
+10. h3 {book} Ne5 {book} 11. f3 {book} Nbc6 {book} 12. Bf2 {book} Nxd4 {book}
+13. Bxd4 {book} Be6 {book} 14. Qd2 {book} Qa5 {book} 15. a3 {book} Rc8 {book}
+16. O-O-O {0.00/3 0.26s} O-O {book} 17. Kb1 {0.00/2 0.25s} Kh7 {0.00/2 0.26s}
+18. Kc1 {0.00/2 0.25s} Kg6 {0.00/2 0.25s} 19. Kb1 {0.00/3 0.26s}
+Kh5 {0.00/2 0.25s} 20. Kc1 {0.00/3 0.25s} Kh4 {0.00/3 0.25s}
+21. Kb1 {+3.50/3 0.25s} Kg3 {0.00/2 0.25s}
+22. Bf2# {+299.99/3 0.25s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "24"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[GameDuration "00:00:15"]
+[GameEndTime "2022-02-11T20:25:50.278 GMT"]
+[GameStartTime "2022-02-11T20:25:34.766 GMT"]
+[Opening "Reti Opening"]
+[PlyCount "110"]
+[TimeControl "0.25/move"]
+
+1. Nf3 {book} Nf6 {book} 2. c4 {book} c5 {book} 3. Nc3 {book} Nc6 {book}
+4. g3 {book} d5 {book} 5. d4 {book} e6 {book} 6. cxd5 {book} Nxd5 {book}
+7. Bg2 {book} cxd4 {book} 8. Nxd4 {book} Nxc3 {book} 9. bxc3 {book} Nxd4 {book}
+10. Qxd4 {book} Qxd4 {book} 11. cxd4 {book} Bd6 {book} 12. a4 {book} Rb8 {book}
+13. a5 {book} Bd7 {book} 14. Be3 {book} a6 {book} 15. d5 {book} Bb4+ {book}
+16. Bd2 {book} Bxd2+ {book} 17. Kxd2 {book} exd5 {book} 18. Bxd5 {book}
+Bc6 {book} 19. Bxc6+ {book} bxc6 {book} 20. Rhc1 {book} Kd7 {book}
+21. Rc2 {book} Rhe8 {book} 22. Ra4 {book} Re6 {book} 23. Rd4+ {book} Rd6 {book}
+24. Kc3 {book} Rb5 {book} 25. Rcd2 {book} Rxd4 {book} 26. Rxd4+ {book}
+Ke6 {book} 27. Re4+ {book} Kd6 {book} 28. Rd4+ {book} Ke5 {0.00/8 0.25s}
+29. Rh4 {0.00/7 0.25s} Kf6 {0.00/8 0.25s} 30. Kd2 {0.00/8 0.26s}
+Kg6 {0.00/8 0.26s} 31. Rg4+ {0.00/8 0.25s} Kh6 {0.00/9 0.25s}
+32. Rh4+ {0.00/8 0.25s} Kg6 {0.00/11 0.26s} 33. Rg4+ {0.00/9 0.25s}
+Kh6 {0.00/11 0.26s} 34. Rh4+ Kg5 35. Ke1 {0.00/8 0.25s} Kg6 {0.00/8 0.25s}
+36. Rg4+ {0.00/9 0.25s} Kh6 {0.00/10 0.26s} 37. Rh4+ {0.00/9 0.26s}
+Kg6 {0.00/11 0.26s} 38. Rg4+ Kh6 39. Rh4+ {0.00/10 0.26s} Kg5 {0.00/11 0.26s}
+40. Kf1 {0.00/9 0.25s} Kg6 {0.00/8 0.26s} 41. Rg4+ {0.00/9 0.25s}
+Kh6 {0.00/10 0.25s} 42. Rh4+ {0.00/9 0.25s} Kg6 {0.00/12 0.26s}
+43. Rg4+ {0.00/10 0.27s} Kh6 44. Rh4+ {0.00/10 0.26s} Kg5 45. Kg1 {0.00/9 0.25s}
+Kg6 {0.00/8 0.26s} 46. Rg4+ {0.00/9 0.25s} Kh6 {0.00/11 0.25s}
+47. Rh4+ {0.00/10 0.26s} Kg6 {0.00/12 0.25s} 48. Rg4+ Kh6 {0.00/12 0.25s}
+49. Rh4+ Kg5 {0.00/12 0.26s} 50. Kh1 {0.00/9 0.25s} Kg6 {0.00/9 0.25s}
+51. Rg4+ {0.00/10 0.26s} Kh6 {0.00/11 0.26s} 52. Rh4+ {0.00/10 0.25s}
+Kg6 {0.00/12 0.25s} 53. Rg4+ Kh6 54. Rh4+ {1.7s} Kg5 {0.00/12 0.25s}
+55. Kg1 {0.00/9 0.26s} Kg6 {0.00/9 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "25"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "0-1"]
+[ECO "E35"]
+[GameDuration "00:00:17"]
+[GameEndTime "2022-02-11T20:26:07.925 GMT"]
+[GameStartTime "2022-02-11T20:25:50.279 GMT"]
+[Opening "Nimzo-Indian"]
+[PlyCount "113"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Classical, Noa Variation , 5.cd ed"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nc3 {book} Bb4 {book}
+4. Qc2 {book} d5 {book} 5. cxd5 {book} exd5 {book} 6. Bg5 {book} h6 {book}
+7. Bh4 {book} c5 {book} 8. dxc5 {book} g5 {book} 9. Bg3 {book} Ne4 {book}
+10. e3 {book} Qa5 {book} 11. Ne2 {book} Bf5 {book} 12. Be5 {book} O-O {book}
+13. Nd4 {book} Re8 {book} 14. Bxb8 {book} Nxc3 {book} 15. Nxf5 {book}
+Ne4+ {book} 16. Kd1 {book} Raxb8 {book} 17. f3 {book} Rbc8 {book}
+18. fxe4 {book} dxe4 {book} 19. Bc4 {book} Qxc5 {book} 20. Bxf7+ {book}
+Kxf7 {book} 21. Qxc5 {book} Bxc5 {book} 22. Rc1 {book} Red8+ {book}
+23. Ke1 {0.00/7 0.25s} Kg6 {+1.00/7 0.26s} 24. Kf1 {0.00/6 0.26s}
+Kxf5 {+3.50/7 0.26s} 25. Ke2 {-3.50/7 0.26s} Kg4 {+3.50/6 0.25s}
+26. Rc4 {-2.50/7 0.25s} Rc6 {+2.50/6 0.25s} 27. Rhc1 {-2.50/6 0.25s}
+Rd5 {+2.50/7 0.26s} 28. Rxe4+ {-2.50/7 0.26s} Kh5 {+2.50/7 0.26s}
+29. Kf1 {-2.50/6 0.25s} Kg6 {+2.50/6 0.25s} 30. Ke2 {-2.50/6 0.25s}
+Kf5 {+2.50/6 0.26s} 31. Kf3 {-2.50/6 0.26s} Kf6 {+2.50/6 0.25s}
+32. h3 {-2.50/6 0.25s} Kf5 {+2.50/6 0.25s} 33. Rh1 {-2.50/6 0.26s}
+Kg6 {+2.50/6 0.25s} 34. Ke2 {-2.50/6 0.26s} Kh5 {+2.50/6 0.26s}
+35. Kf3 {-2.50/6 0.25s} Rd2 {+3.50/6 0.25s} 36. Kg3 {-3.50/6 0.25s}
+Re2 {+3.50/6 0.25s} 37. Re5 {-3.50/7 0.26s} Kg6 {+3.50/7 0.26s}
+38. Rb1 {-3.50/7 0.25s} Rxe3+ {+3.50/7 0.26s} 39. Rxe3 {-3.50/8 0.25s}
+Bxe3 {+3.50/7 0.25s} 40. Kh2 {-3.50/7 0.25s} Kh5 {+3.50/7 0.25s}
+41. Kh1 {-3.50/7 0.25s} Kh4 {+3.50/8 0.25s} 42. Re1 {-3.50/7 0.26s}
+Rc1 {+3.50/8 0.26s} 43. Rxc1 {-3.50/8 0.26s} Bxc1 {+3.50/8 0.25s}
+44. b3 {-4.50/10 0.25s} Kg3 {+5.50/11 0.25s} 45. Kg1 {-5.50/10 0.26s}
+Be3+ {+5.50/10 0.25s} 46. Kf1 {-5.50/10 0.25s} Bc5 {+5.50/10 0.25s}
+47. Ke1 {-5.50/10 0.25s} Kxg2 {+6.50/10 0.25s} 48. Kd1 {-6.50/9 0.25s}
+Kxh3 {+9.00/10 0.25s} 49. b4 {-10.00/10 0.26s} Bb6 {+11.00/10 0.25s}
+50. Ke2 {-10.00/10 0.26s} g4 {+12.50/10 0.26s} 51. a4 {-11.00/10 0.25s}
+g3 {+11.00/9 0.26s} 52. a5 {-13.50/10 0.26s} Bc7 {+13.50/10 0.26s}
+53. Kf1 {-14.50/10 0.26s} g2+ {+14.50/10 0.25s} 54. Kf2 {-14.50/9 0.27s}
+Kh2 {+15.50/9 0.25s} 55. Ke1 {-15.50/9 0.25s} g1=Q+ {+15.50/8 0.26s}
+56. Kd2 {-15.50/8 0.25s} Qd4+ {+15.50/7 0.25s}
+57. Kc1 {-15.50/7 0.26s, Black wins by adjudication} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "26"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:26:10.998 GMT"]
+[GameStartTime "2022-02-11T20:26:07.926 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "72"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} c6 {book} 8. h3 {book} b6 {book} 9. b4 {book} a5 {book}
+10. a3 {book} h6 {book} 11. Bd3 {book} Ba6 {book} 12. O-O {book} Qc8 {book}
+13. Rb1 {book} axb4 {book} 14. axb4 {book} Bxd3 {book} 15. Qxd3 {book}
+Qb7 {book} 16. Ra1 {book} Rxa1 {book} 17. Rxa1 {book} Ra8 {book} 18. Qb1 {book}
+Bd8 {book} 19. Ra2 {book} bxc5 {book} 20. Rxa8 {book} Qxa8 {book}
+21. bxc5 {book} Qa3 {book} 22. Ne2 {book} Qa6 {book} 23. Nc1 {book} Ne4 {book}
+24. Nd3 {book} Bf6 {book} 25. Qc2 {book} Qa3 {book} 26. Nd2 {book} Nxd2 {book}
+27. Qxd2 {book} e5 {book} 28. dxe5 {book} Nxe5 {book} 29. Nxe5 {book}
+Qa1+ {book} 30. Kh2 {book} Bxe5 {book} 31. Kg3 {0.00/8 0.26s} Kh7 {0.00/7 0.25s}
+32. Kh2 {0.00/8 0.25s} Kg6 {0.00/7 0.26s} 33. Kg3 {0.00/8 0.25s}
+Kh5 {0.00/7 0.25s} 34. Kh2 {0.00/8 0.26s} Kg6 {0.00/7 0.26s}
+35. Kg3 {0.00/9 0.25s} Kh5 {0.00/8 0.26s} 36. Kh2 {0.00/9 0.26s}
+Kg6 {0.00/8 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "27"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:26:13.060 GMT"]
+[GameStartTime "2022-02-11T20:26:11.000 GMT"]
+[Opening "Queen's Indian"]
+[PlyCount "64"]
+[TimeControl "0.25/move"]
+[Variation "Nimzovich Variation (exaggerated Fianchetto)"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} b6 {book}
+4. g3 {book} Ba6 {book} 5. b3 {book} Bb4+ {book} 6. Bd2 {book} Be7 {book}
+7. Bg2 {book} c6 {book} 8. Bc3 {book} d5 {book} 9. Ne5 {book} Nfd7 {book}
+10. Nxd7 {book} Nxd7 {book} 11. Nd2 {book} O-O {book} 12. O-O {book} Rc8 {book}
+13. e4 {book} b5 {book} 14. Re1 {book} dxe4 {book} 15. Bxe4 {book} bxc4 {book}
+16. bxc4 {book} c5 {book} 17. d5 {book} exd5 {book} 18. Bxd5 {book} Bf6 {book}
+19. Ne4 {book} Bxc3 {book} 20. Nxc3 {book} Nb6 {book} 21. Re4 {book} Re8 {book}
+22. Qf3 {book} Nxd5 {book} 23. Nxd5 {book} Re6 {book} 24. Rd1 {book} Qe8 {book}
+25. Rg4 {book} Kh8 {book} 26. Qc3 {book} f6 {book} 27. Rf4 {book} Bb7 {book}
+28. Rf3 {book} h6 {book} 29. Kh1 {0.00/5 0.26s} Kh7 {0.00/5 0.26s}
+30. Kg1 {0.00/5 0.26s} Kh8 {0.00/5 0.26s} 31. Kh1 {0.00/6 0.25s}
+Kh7 {0.00/6 0.25s} 32. Kg1 {0.00/6 0.26s}
+Kh8 {0.00/6 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "28"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:26:16.391 GMT"]
+[GameStartTime "2022-02-11T20:26:13.061 GMT"]
+[Opening "Sicilian"]
+[PlyCount "36"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} Ng4 {book}
+7. Bg5 {book} h6 {book} 8. Bh4 {book} g5 {book} 9. Bg3 {book} Bg7 {book}
+10. Qd2 {book} Nc6 {book} 11. Nb3 {book} Be6 {book} 12. h4 {book}
+Kd7 {0.00/3 0.25s} 13. O-O-O {0.00/2 0.25s} Rg8 {0.00/3 0.25s}
+14. Kb1 {0.00/2 0.25s} Kc7 {0.00/3 0.26s} 15. Kc1 {0.00/2 0.25s}
+Kb6 {0.00/3 0.26s} 16. Kb1 {0.00/2 0.26s} Kc7 {0.00/3 0.26s} 17. Kc1 Kb6 18. Kb1
+Kc7 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "29"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:08"]
+[GameEndTime "2022-02-11T20:26:24.802 GMT"]
+[GameStartTime "2022-02-11T20:26:16.392 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "93"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. a3 {book} Bxc3 {book}
+16. bxc3 {book} h4 {book} 17. Ne4 {book} Rg6 {book} 18. g4 {book} hxg3 {book}
+19. fxg3 {book} Kf8 {book} 20. Kh2 {book} Ne7 {book} 21. g4 {book} Re8 {book}
+22. Rd3 {book} Kg8 {book} 23. Ng3 {book} Bd5 {book} 24. Rde3 {book} c5 {book}
+25. e6 {book} Rxe6 {book} 26. Bxc7 {book} Rxe3 {book} 27. Rxe3 {book} Be6 {book}
+28. Bd6 {book} Nd5 {book} 29. Rf3 {book} b6 {book} 30. Kg1 {book} f6 {book}
+31. Kh1 {0.00/6 0.25s} Bf7 {+1.00/6 0.25s} 32. Rd3 {-1.00/7 0.25s}
+Re1+ {+1.00/7 0.25s} 33. Kh2 {-1.00/8 0.25s} Rc1 {+1.00/7 0.25s}
+34. Rd2 {-1.00/7 0.25s} Nxc3 {+1.00/7 0.25s} 35. Ne2 {-1.00/6 0.25s}
+Rd1 {+1.00/7 0.25s} 36. Rxd1 {0.00/7 0.25s} Nxd1 {0.00/7 0.26s}
+37. Bb8 {0.00/7 0.25s} Nb2 {0.00/8 0.26s} 38. Bxa7 {0.00/8 0.25s}
+Nc4 {0.00/9 0.25s} 39. Kh1 {0.00/8 0.25s} Kh7 {0.00/9 0.27s}
+40. Kg1 {0.00/9 0.25s} Kh6 {0.00/9 0.26s} 41. Kh1 {0.00/8 0.25s}
+Kg5 {0.00/9 0.26s} 42. Kg1 {0.00/8 0.25s} Kh4 {0.00/9 0.25s}
+43. Kh2 {0.00/8 0.26s} Kg5 {0.00/9 0.26s} 44. Kh1 {0.00/9 0.25s}
+Kh4 {0.00/9 0.26s} 45. Kh2 {0.00/9 0.25s} Kg5 46. Kh1 Kh4 {0.00/10 0.25s}
+47. Kh2 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "30"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "0-1"]
+[ECO "E10"]
+[GameDuration "00:00:04"]
+[GameEndTime "2022-02-11T20:26:28.887 GMT"]
+[GameStartTime "2022-02-11T20:26:24.803 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "38"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bg5 {book} h6 {book} 6. Bh4 {book} O-O {book}
+7. e3 {book} b6 {book} 8. Bd3 {book} Bb7 {book} 9. O-O {book} Nbd7 {book}
+10. Qe2 {book} c5 {book} 11. Rfd1 {book} Ne4 {book} 12. Bxe4 {0.00/5 0.25s}
+dxe4 {0.00/4 0.25s} 13. Bxe7 {-2.50/6 0.25s} exf3 {+2.50/6 0.25s}
+14. Re1 {-2.50/6 0.26s} Qxe7 {+3.50/6 0.25s} 15. gxf3 {-3.50/6 0.26s}
+Qf6 {+3.50/6 0.26s} 16. Kf1 {-3.50/6 0.25s} Bxf3 {+3.50/6 0.26s}
+17. Qd2 {-4.50/6 0.25s} Qg6 {+299.95/5 0.26s} 18. Rec1 {-299.96/5 0.25s}
+Qg2+ {+299.97/5 0.25s} 19. Ke1 {-299.98/6 0.25s}
+Qg1# {+299.99/6 0.26s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "31"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:01:03"]
+[GameEndTime "2022-02-11T20:27:32.803 GMT"]
+[GameStartTime "2022-02-11T20:26:28.889 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "305"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. a3 {book} Bxc3 {book}
+16. bxc3 {book} h4 {book} 17. Ne4 {book} Rg6 {book} 18. g4 {book} hxg3 {book}
+19. fxg3 {book} Kf8 {book} 20. Kh2 {book} Ne7 {book} 21. g4 {book} Re8 {book}
+22. Rd3 {book} Kg8 {book} 23. Ng3 {book} Bd5 {book} 24. Rde3 {book} c5 {book}
+25. e6 {book} Rxe6 {book} 26. Bxc7 {book} Rxe3 {book} 27. Rxe3 {book} Be6 {book}
+28. Bd6 {book} Nd5 {book} 29. Rf3 {book} b6 {book} 30. Kg1 {book} f6 {book}
+31. Kh1 {0.00/7 0.25s} Bf7 {+1.00/7 0.25s} 32. Kg1 {-1.00/7 0.25s}
+Ne3 {+1.00/6 0.25s} 33. Kh2 {-1.00/6 0.26s} Nxc2 {+1.00/6 0.25s}
+34. a4 {-1.00/6 0.25s} Kh7 {+1.00/6 0.25s} 35. Kg1 {-1.00/6 0.26s}
+Kh6 {+1.00/6 0.25s} 36. Kf1 {-1.00/6 0.25s} Kg5 {+1.00/6 0.25s}
+37. Kg1 {-1.00/6 0.26s} Kg6 {+1.00/6 0.25s} 38. Rf2 {-1.00/6 1.5s}
+Re1+ {+1.00/6 0.25s} 39. Kh2 {-1.00/7 0.26s} Na1 {+1.00/6 0.25s}
+40. Kg2 {-1.00/6 0.27s} Kh6 {+1.00/6 0.26s} 41. Bf4+ {-1.00/6 0.25s}
+Kh7 {+1.00/7 0.26s} 42. g5 {-1.00/6 0.26s} Kg6 {+1.00/6 0.25s}
+43. Bd2 {-1.00/7 0.25s} Rd1 {+1.00/7 0.25s} 44. h4 {-1.00/7 0.26s}
+Kh7 {+1.00/7 0.25s} 45. Kh2 {-1.00/7 0.25s} Kh8 {+1.00/7 0.25s}
+46. gxf6 {-1.00/7 0.26s} gxf6 {+1.00/7 0.26s} 47. Kg2 {-1.00/7 0.25s}
+Kh7 {+1.00/7 0.25s} 48. Kh2 {-1.00/7 0.26s} Kg6 {+1.00/7 0.25s}
+49. Kg2 {0.00/7 0.25s} Kg7 {+2.00/7 0.26s} 50. Nf5+ {-1.00/7 0.25s}
+Kg6 {0.00/9 0.25s} 51. Ng3 {0.00/7 0.26s} Nb3 {+1.00/8 0.25s}
+52. Bf4 {-1.00/7 0.25s} Kg7 {+1.00/6 0.25s} 53. Kh2 {-1.00/6 0.25s}
+Kg8 {+1.00/6 0.26s} 54. Kg2 {-1.00/7 0.25s} Ra1 {+1.00/7 0.25s}
+55. Bb8 {-1.00/7 0.25s} Rxa4 {+1.00/7 0.25s} 56. Rxf6 {-1.00/7 0.26s}
+Ra1 {+1.00/6 0.25s} 57. Kh2 {-1.00/7 0.25s} Kg7 {+1.00/7 0.25s}
+58. Rf1 {-1.00/7 0.26s} Rxf1 {+1.00/7 0.25s} 59. Nxf1 {-1.00/8 0.26s}
+a5 {+1.00/9 0.25s} 60. Kg2 {-1.00/8 0.25s} Kh6 {+1.00/8 0.26s}
+61. Kh1 {-1.00/8 0.25s} Kh5 {+1.00/9 0.25s} 62. Bg3 {-1.00/8 0.25s}
+Kg4 {+1.00/9 0.25s} 63. Kg1 {-1.00/9 0.25s} Kh3 {+1.00/9 0.25s}
+64. Kf2 {-1.00/8 0.25s} Nc1 {+1.00/8 0.25s} 65. Ke1 {-1.00/8 0.26s}
+Kg4 {+1.00/8 0.25s} 66. Kd1 {-1.00/8 0.25s} Na2 {+1.00/9 0.26s}
+67. Kd2 {-1.00/8 0.25s} Kh3 {+1.00/8 0.25s} 68. Be1 {-1.00/8 0.26s}
+Kg2 {+1.00/9 0.26s} 69. Ng3 {-1.00/9 0.25s} Kg1 {+1.00/9 0.25s}
+70. Kd1 {-1.00/9 0.26s} Kh2 {+1.00/9 0.25s} 71. Kd2 {-1.00/9 0.25s}
+Kg2 {+1.00/9 0.26s} 72. Kc2 {-1.00/9 0.25s} Kh3 {+1.00/9 0.26s}
+73. h5 {-1.00/8 0.25s} Kh4 {+1.00/8 0.25s} 74. h6 {+1.50/8 0.25s}
+Kg4 {-0.50/8 0.25s} 75. h7 {+1.50/8 0.25s} Bg6+ {-1.50/8 0.26s}
+76. Kb2 {+1.50/9 0.26s} Bxh7 {-1.50/8 0.25s} 77. Kxa2 {+1.50/9 0.26s}
+Kh3 {-1.50/9 0.26s} 78. Ka1 {+1.50/9 0.26s} Kh2 {-1.50/10 0.26s}
+79. Kb2 {+1.50/9 0.26s} Kg1 {-1.50/10 0.25s} 80. Kc1 {+1.50/10 0.26s}
+Kh2 {-1.50/10 0.25s} 81. Kd1 {+1.50/10 0.26s} Kg1 {-1.50/10 0.25s}
+82. Ke2 {+1.50/10 0.25s} Kh2 {-1.50/10 0.26s} 83. Kf1 {+1.50/9 0.25s}
+Kh3 {-1.50/10 0.26s} 84. Kg1 {+1.50/10 0.25s} Kg4 {-1.50/10 0.26s}
+85. Kh1 {+1.50/9 0.26s} Kh3 {-1.50/10 0.26s} 86. Nf1 {+1.50/10 0.25s}
+Kg4 {-1.50/10 0.26s} 87. Kg1 {+1.50/9 0.25s} Kh3 {-1.50/10 0.25s}
+88. Kf2 {+1.50/9 0.26s} Kh4 {-1.50/10 0.26s} 89. Kg2+ {+1.50/10 0.25s}
+Kh5 {-1.50/9 0.26s} 90. Kg1 {+1.50/9 0.26s} Kg5 {-1.50/9 0.26s}
+91. Kh2 {+1.50/9 0.26s} Kg4 {-2.50/10 0.26s} 92. Ne3+ {+2.50/10 0.26s}
+Kf3 {-2.50/10 0.25s} 93. Nc4 {+2.50/9 0.25s} Ke2 {-2.50/10 0.26s}
+94. Bg3 {+2.50/9 0.26s} Kd1 {-2.50/9 0.25s} 95. Nxb6 {+2.50/8 0.25s}
+Kd2 {-2.50/8 0.25s} 96. Nc4+ {+2.50/8 0.26s} Kc2 {-2.50/9 0.26s}
+97. Kh1 {+2.50/9 0.26s} Kd3 {-2.50/10 0.25s} 98. Nxa5 {+2.50/9 0.26s}
+Kxc3 {-2.50/9 0.25s} 99. Kg1 {+2.50/9 0.26s} Kd3 {-2.50/9 0.25s}
+100. Kf1 {+2.50/9 0.25s} Kc2 {-2.50/9 0.25s} 101. Ke1 {+2.50/9 0.26s}
+Kd3 {-2.50/10 0.26s} 102. Kd1 {+2.50/10 0.26s} Kc3 {-2.50/10 0.25s}
+103. Kc1 {+2.50/10 0.25s} Kd3 {-2.50/9 0.25s} 104. Kb1 {+2.50/10 0.26s}
+Ke2+ {-2.50/10 0.26s} 105. Ka1 {+2.50/10 0.25s} Kd3 {-2.50/10 0.26s}
+106. Kb2 {+2.50/10 0.26s} Ke4 {-2.50/9 0.25s} 107. Ka2 {+2.50/9 0.25s}
+Ke3 {-2.50/10 0.25s} 108. Kb3 {+2.50/9 0.26s} Kd3 {-2.50/9 0.26s}
+109. Ka2 {+2.50/10 0.25s} Ke3 {0.00/10 0.25s} 110. Ka3 {+2.50/10 0.25s}
+Kd3 {-2.50/9 0.25s} 111. Kb3 {+2.50/10 0.26s} Kd4 {-2.50/10 0.25s}
+112. Ka4 {+2.50/10 0.25s} Ke4 {-2.50/9 0.26s} 113. Kb3 {+2.50/9 0.26s}
+Kd3 {0.00/10 0.26s} 114. Ka3 {+2.50/11 0.25s} Kc3 {-2.50/10 0.26s}
+115. Ka2 {+2.50/10 0.26s} Kc2 {-2.50/10 0.25s} 116. Nc6 {+2.50/10 0.25s}
+Kd2 {-2.50/9 0.25s} 117. Ka1 {+2.50/9 0.26s} Kd1 {-2.50/9 0.26s}
+118. Kb2 {+2.50/9 0.25s} Kd2 {-2.50/9 0.25s} 119. Ka2 {+2.50/9 0.26s}
+Ke2 {-2.50/9 0.25s} 120. Kb3 {+2.50/9 0.26s} Kd3 {-2.50/9 0.25s}
+121. Ka3 {+2.50/9 0.25s} Kd2 {-2.50/9 0.25s} 122. Kb2 {+2.50/9 0.25s}
+Kd3 {-2.50/9 0.26s} 123. Kc1 {+2.50/9 0.26s} Ke2 {-3.50/10 0.25s}
+124. Ne5 {+2.50/9 0.26s} Ke3 {-2.50/9 0.25s} 125. Kd1 {+2.50/9 0.25s}
+Ke4 {-2.50/9 0.26s} 126. Nd7 {+3.50/9 0.25s} c4 {-3.50/9 0.25s}
+127. Nf6+ {+3.50/9 0.26s} Kf3 {-3.50/10 0.25s} 128. Nxh7 {+3.50/9 0.25s}
+Kxg3 {-3.50/12 0.25s} 129. Kd2 {+3.50/13 0.26s} Kh2 {-3.50/21 0.25s}
+130. Ke1 {+3.50/16 0.25s} Kg3 {-3.50/12 0.25s} 131. Kd1 {+3.50/15 0.25s}
+Kg2 {-3.50/15 0.25s} 132. Kc1 {+3.50/16 0.25s} Kh1 {-3.50/15 0.25s}
+133. Kb1 {+3.50/18 0.25s} Kg1 {-3.50/16 0.25s} 134. Kb2 {+3.50/19 0.26s}
+Kh1 {-3.50/17 0.26s} 135. Ka1 {+3.50/19 0.26s} Kg1 {-3.50/17 0.26s}
+136. Kb1 {+3.50/17 0.26s} Kh1 {-3.50/17 0.25s} 137. Kc1 {+3.50/16 0.26s}
+Kg1 {-3.50/16 0.25s} 138. Kc2 {+3.50/20 0.25s} Kh1 {-3.50/16 0.25s}
+139. Kb2 {+3.50/19 0.26s} Kg1 {-3.50/16 0.25s} 140. Ka1 {+3.50/19 0.26s}
+Kf1 {-3.50/16 0.25s} 141. Kb2 {+3.50/12 0.25s} Kg1 {0.00/18 0.25s} 142. Ka2
+Kf1 {-3.50/13 0.26s} 143. Ka3 {+3.50/12 0.25s} Ke2 {-2.50/12 0.25s}
+144. Kb4 {+3.50/12 0.26s} Kd3 {-2.50/11 0.26s} 145. Ng5 {+2.50/11 0.25s}
+c3 {-2.50/12 0.25s} 146. Kb3 {+2.50/10 0.25s} c2 {-2.50/13 0.26s}
+147. Kb2 {+2.50/9 0.25s} Kd2 {0.00/14 0.26s} 148. Ne4+ {+2.50/10 0.27s}
+Kd1 {0.00/14 0.25s} 149. Nc3+ {+2.50/10 0.25s} Kd2 {0.00/16 0.25s}
+150. Na2 {0.00/10 0.26s} Kd1 {0.00/15 0.26s} 151. Nc1 {0.00/13 0.25s}
+Kd2 {0.00/18 0.25s} 152. Ne2 {0.00/14 0.25s} Kxe2 {0.00/13 0.26s}
+153. Kxc2 {0.00/11 0.26s, Draw by insufficient mating material} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "32"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[GameDuration "00:00:24"]
+[GameEndTime "2022-02-11T20:27:56.983 GMT"]
+[GameStartTime "2022-02-11T20:27:32.805 GMT"]
+[Opening "Gruenfeld"]
+[PlyCount "127"]
+[TimeControl "0.25/move"]
+[Variation "Modern Exchange Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {book} d5 {book}
+4. cxd5 {book} Nxd5 {book} 5. e4 {book} Nxc3 {book} 6. bxc3 {book} Bg7 {book}
+7. Nf3 {book} c5 {book} 8. Rb1 {book} O-O {book} 9. Be2 {book} cxd4 {book}
+10. cxd4 {book} Qa5+ {book} 11. Bd2 {book} Qxa2 {book} 12. O-O {book} Bg4 {book}
+13. Be3 {book} Nc6 {book} 14. d5 {book} Na5 {book} 15. Bg5 {book} Qa3 {book}
+16. Re1 {book} Rfd8 {book} 17. Kh1 {-1.00/4 0.26s} Kh8 {+1.00/4 0.25s}
+18. Kg1 {-1.00/4 0.25s} Rd7 {+1.00/4 0.25s} 19. Kh1 {-1.00/4 0.25s}
+Kg8 {+1.00/4 0.25s} 20. Kg1 {-1.00/4 0.26s} Kf8 {+1.00/4 0.26s}
+21. Kh1 {-1.00/4 0.25s} Ke8 {+1.00/4 0.25s} 22. Kg1 {-1.00/4 0.26s}
+Kd8 {+1.00/4 0.25s} 23. Kh1 {-1.00/4 0.25s} Kc7 {+1.00/5 0.26s}
+24. Kg1 {-1.00/4 0.26s} Kc8 {+1.00/5 0.25s} 25. Kh1 {-1.00/4 0.25s}
+Kd8 {+1.00/5 0.25s} 26. Kg1 {-1.00/4 0.26s} Kc7 {+1.00/5 0.25s}
+27. Kh1 {-1.00/4 0.26s} Kc8 {+1.00/5 0.26s} 28. Kg1 {-1.00/4 0.26s}
+Kb8 {+1.00/5 0.26s} 29. Kh1 {-1.00/4 0.25s} Rd8 {+1.00/5 0.26s}
+30. Kg1 {-1.00/4 0.26s} Kc7 {+1.00/5 0.26s} 31. Kh1 {-1.00/4 0.25s}
+Kd6 {+1.00/5 0.26s} 32. Kg1 {-1.00/4 0.25s} Kd7 {+1.00/5 0.26s}
+33. Kh1 {-1.00/5 0.25s} Kc7 {+1.00/5 0.25s} 34. Kg1 {-1.00/4 0.25s}
+Kc8 {+1.00/5 0.26s} 35. Kh1 {-1.00/4 0.25s} Kd7 {+1.00/5 0.25s}
+36. Kg1 {-1.00/5 0.25s} Kd6 {+1.00/5 0.25s} 37. Kh1 {-1.00/5 0.25s}
+Rh8 {+1.00/5 0.26s} 38. Kg1 {-1.00/5 0.25s} Kd7 {+1.00/5 0.25s}
+39. Kh1 {-1.00/5 0.26s} Kc7 {+1.00/5 0.25s} 40. Kg1 {-1.00/5 0.25s}
+Kd6 {+1.00/5 0.25s} 41. Kh1 {-1.00/5 0.25s} Kd7 {+1.00/5 0.25s}
+42. Kg1 {-1.00/5 0.25s} Kc7 {+1.00/5 0.25s} 43. Kh1 {-1.00/5 0.25s}
+Kd8 {+1.00/5 0.25s} 44. Kg1 {-1.00/5 0.25s} Ke8 {+1.00/5 0.25s}
+45. Kh1 {-1.00/4 0.25s} Kf8 {+1.00/5 0.25s} 46. Kg1 {-1.00/4 0.25s}
+Kg8 {+1.00/5 0.26s} 47. Kh1 {-1.00/4 0.25s} Rf8 {+1.00/5 0.26s}
+48. Kg1 {-1.00/4 0.26s} Re8 {+1.00/5 0.25s} 49. Kh1 {-1.00/4 0.25s}
+Kf8 {+1.00/5 0.25s} 50. Kg1 {-1.00/4 0.25s} Rg8 {+1.00/5 0.25s}
+51. Kh1 {-1.00/4 0.25s} Rd8 {+1.00/5 0.25s} 52. Kg1 {-1.00/4 0.26s}
+Ke8 {+1.00/4 0.25s} 53. Kh1 {-1.00/4 0.26s} Kd7 {+1.00/4 0.25s}
+54. Kg1 {-1.00/4 0.25s} Kd6 {+1.00/5 0.25s} 55. Kh1 {-1.00/4 0.26s}
+Kc7 {+1.00/5 0.26s} 56. Kg1 {-1.00/4 0.25s} Kd7 {+1.00/5 0.25s}
+57. Kh1 {-1.00/5 0.25s} Ke8 {+1.00/5 0.25s} 58. Kg1 {-1.00/4 0.26s}
+Kf8 {+1.00/4 0.25s} 59. Kh1 {-1.00/4 0.25s} Rh8 {+1.00/4 0.25s}
+60. Kg1 {-1.00/4 0.25s} Kg8 {+1.00/4 0.25s} 61. Kh1 {-1.00/4 0.26s}
+Rd7 {+1.00/4 0.25s} 62. Kg1 {-1.00/4 0.26s} Kf8 {+1.00/4 0.25s}
+63. Kh1 {-1.00/4 0.25s} Ke8 {+1.00/5 0.26s}
+64. Kg1 {-1.00/4 0.25s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "33"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:27:59.536 GMT"]
+[GameStartTime "2022-02-11T20:27:56.984 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "69"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. g4 {book} hxg4 {book}
+16. hxg4 {book} Ne7 {book} 17. Nxe6 {book} Rxe6 {book} 18. Kg2 {book}
+Bxc3 {book} 19. bxc3 {book} Rd8 {book} 20. Rxd8+ {book} Kxd8 {book}
+21. Rh1 {book} Nd5 {book} 22. Rh8+ {book} Kd7 {book} 23. Bg3 {book} g5 {book}
+24. c4 {book} Nb6 {book} 25. Rf8 {book} Ke7 {book} 26. Rb8 {book} Nxc4 {book}
+27. Rxb7 {book} Kd7 {book} 28. Rxa7 {book} Nxe5 {book} 29. Ra4 {book} Ng6 {book}
+30. Ra7 {book} Ne5 {0.00/8 0.25s} 31. Kh1 {0.00/8 0.26s} Kd6 {0.00/9 0.25s}
+32. Kg1 {0.00/9 0.25s} Kd7 {0.00/9 0.25s} 33. Kh1 {0.00/8 0.25s} Kd6 34. Kg1
+Kd7 {0.00/10 0.26s} 35. Kh1 {0.00/9 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "34"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:28:01.578 GMT"]
+[GameStartTime "2022-02-11T20:27:59.537 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "33"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. d3 {book} Bc5 {book} 5. c3 {book} O-O {book} 6. O-O {book} d6 {book}
+7. h3 {book} Ne7 {book} 8. d4 {book} Bb6 {book} 9. Re1 {book} d5 {book}
+10. Nxe5 {book} Nxe4 {book} 11. Nd2 {book} Nd6 {book} 12. Bf1 {book} c6 {book}
+13. b3 {book} Kh8 {0.00/5 0.25s} 14. Kh1 {0.00/4 0.26s} Kg8 {0.00/5 0.25s}
+15. Kg1 {0.00/4 0.25s} Kh8 16. Kh1 Kg8 17. Kg1 {Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "35"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:28:04.646 GMT"]
+[GameStartTime "2022-02-11T20:28:01.579 GMT"]
+[Opening "Queen's Indian"]
+[PlyCount "72"]
+[TimeControl "0.25/move"]
+[Variation "Nimzovich Variation (exaggerated Fianchetto)"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} b6 {book}
+4. g3 {book} Ba6 {book} 5. b3 {book} Bb4+ {book} 6. Bd2 {book} Be7 {book}
+7. Bg2 {book} c6 {book} 8. Bc3 {book} d5 {book} 9. Ne5 {book} Nfd7 {book}
+10. Nxd7 {book} Nxd7 {book} 11. Nd2 {book} O-O {book} 12. O-O {book} Rc8 {book}
+13. e4 {book} c5 {book} 14. exd5 {book} exd5 {book} 15. dxc5 {book} dxc4 {book}
+16. c6 {book} cxb3 {book} 17. Re1 {book} b2 {book} 18. Bxb2 {book} Nc5 {book}
+19. Nc4 {book} Bxc4 {book} 20. Qg4 {book} Bg5 {book} 21. Qxc4 {book} Nd3 {book}
+22. Be5 {book} Nxe1 {book} 23. Rxe1 {book} Bf6 {book} 24. Bxf6 {book}
+Qxf6 {book} 25. c7 {book} Qd6 {book} 26. Rc1 {book} b5 {book} 27. Qc2 {book}
+g6 {book} 28. Bb7 {book} b4 {book} 29. h4 {book} h5 {book} 30. Kf1 {book}
+a5 {book} 31. Bxc8 {0.00/6 0.25s} Rxc8 {0.00/6 0.25s} 32. Kg1 {0.00/7 0.26s}
+Kh7 {0.00/6 0.25s} 33. Kh1 {0.00/6 0.25s} Kh6 {0.00/6 0.26s}
+34. Kg1 {0.00/6 0.25s} Kh7 {0.00/6 0.25s} 35. Kh1 {0.00/7 0.26s}
+Kh6 {0.00/7 0.25s} 36. Kg1 {0.00/7 0.26s}
+Kh7 {0.00/7 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "36"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:35"]
+[GameEndTime "2022-02-11T20:28:39.888 GMT"]
+[GameStartTime "2022-02-11T20:28:04.648 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "167"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Re1 {book} Bf6 {book} 15. Bc2 {book}
+axb4 {+1.00/2 0.25s} 16. axb4 {-1.00/3 0.26s} bxc5 {+1.00/2 0.26s}
+17. Rb1 {-1.00/3 0.25s} Kh8 {+1.00/4 0.26s} 18. Kh1 {-1.00/3 0.26s}
+Rg8 {+2.00/3 0.25s} 19. Kg1 {-1.00/3 0.25s} Rge8 {+1.00/4 0.26s}
+20. Kh1 {-2.00/4 0.26s} cxd4 {+2.00/3 0.26s} 21. Nxd4 {-2.00/4 0.26s}
+Qb6 {+2.00/4 0.25s} 22. Nce2 {-2.00/4 0.25s} Bxe2 {+2.00/5 0.26s}
+23. Nxe2 {-2.00/5 0.25s} Qxf2 {+2.00/4 0.25s} 24. Rg1 {-2.00/5 0.25s}
+Kg8 {+2.00/5 0.25s} 25. Rf1 {-2.00/5 0.25s} Qe3 {+2.00/5 0.26s}
+26. Kg2 {-2.00/5 0.25s} Kh8 {+2.00/5 0.25s} 27. Kh1 {-2.00/5 0.25s}
+Re7 {+2.00/5 0.25s} 28. Kg2 {-2.00/5 0.25s} Kg8 {+2.00/5 0.25s}
+29. Kh1 {-2.00/5 0.25s} Ra2 {+2.00/5 0.25s} 30. Kg2 {-2.00/5 0.25s}
+Kh8 {+2.00/5 0.26s} 31. Kh1 {-2.00/5 0.25s} Rb2 {+2.00/5 0.26s}
+32. Kg2 {-2.00/6 0.26s} Kg8 {+2.00/6 0.25s} 33. Kh1 {-2.00/6 0.25s}
+Rxb1 {+2.00/6 0.25s} 34. Bxb1 {-2.00/6 0.25s} Re8 {+2.00/5 0.26s}
+35. Kg2 {-2.00/5 0.25s} Re7 {+2.00/5 0.26s} 36. Kh1 {-2.00/6 0.26s}
+Kh8 {+2.00/6 0.25s} 37. Kg2 {-2.00/6 0.26s} Re8 {+2.00/5 0.26s}
+38. Kh1 {-2.00/5 0.26s} Rg8 {+2.00/5 0.25s} 39. Kg2 {-2.00/5 0.25s}
+Rf8 {+2.00/5 0.25s} 40. Kh1 {-2.00/5 0.25s} Re8 {+2.00/5 0.26s}
+41. Kg2 {-2.00/6 0.25s} Kg8 {+2.00/5 0.25s} 42. Kh1 {-2.00/5 0.25s}
+Rf8 {+2.00/5 0.26s} 43. Kg2 {-2.00/6 0.25s} Rd8 {+2.00/5 0.26s}
+44. Kh1 {-2.00/6 0.26s} Kh8 {+2.00/5 0.26s} 45. Kg2 {-2.00/6 0.26s}
+Rg8 {+2.00/5 0.26s} 46. Rf3 {-2.00/6 0.26s} Qb6 {+2.00/5 0.25s}
+47. Rb3 {-2.00/5 0.25s} Rf8 {+2.00/5 0.25s} 48. Kh1 {-2.00/5 0.25s}
+Kg8 {+2.00/5 0.26s} 49. Kg2 {-2.00/5 0.25s} Re8 {+2.00/5 0.25s}
+50. Kh1 {-2.00/5 0.25s} Kh8 {+2.00/5 0.25s} 51. Kg2 {-2.00/5 0.25s}
+Re7 {+2.00/5 0.25s} 52. Kh1 {-2.00/6 0.26s} Kg8 {+2.00/5 0.25s}
+53. Qd3 {-2.00/6 0.26s} Nf8 {+2.00/6 0.25s} 54. Kg2 {-2.00/6 0.25s}
+Kh8 {+2.00/6 0.25s} 55. Kh1 {-2.00/6 0.25s} Rd7 {+2.00/6 0.26s}
+56. Kg2 {-2.00/6 0.26s} Kg8 {+2.00/6 0.25s} 57. Kh1 {-2.00/6 0.26s}
+Rd6 {+2.00/6 0.26s} 58. Kg2 {-2.00/6 0.25s} Kh8 {+2.00/6 0.27s}
+59. Kh3 {-2.00/6 0.25s} Rd8 {+2.00/6 0.26s} 60. Kg2 {-2.00/6 0.25s}
+Kg8 {+2.00/6 0.25s} 61. Kh1 {-2.00/6 0.25s} Rd7 {+2.00/6 0.25s}
+62. Kg2 {-2.00/6 0.26s} Kh8 {+2.00/6 0.26s} 63. f5 {-2.00/6 0.25s}
+Kg8 {+2.00/6 0.25s} 64. Kh1 {-2.00/6 0.25s} Qf2 {+2.00/6 0.26s}
+65. Ng1 {-2.00/6 0.25s} Rd6 {+2.00/6 0.26s} 66. Ra3 {-2.00/6 0.25s}
+Kh8 {+2.00/6 0.25s} 67. Ra2 {-2.00/6 0.26s} Qxf5 {+2.00/6 0.25s}
+68. Qxf5 {-2.00/6 0.26s} exf5 {+2.00/6 0.25s} 69. Ra8 {-2.00/7 0.25s}
+Kg8 {+2.00/6 0.25s} 70. Bxf5 {-2.00/7 0.25s} Rd8 {+2.00/6 0.25s}
+71. Ra2 {-2.00/7 0.25s} Re8 {+2.00/6 0.25s} 72. Ra4 {-2.00/7 0.26s}
+Kh8 {+2.00/6 0.25s} 73. Ra7 {-2.00/7 0.26s} Re3 {+2.00/6 0.25s}
+74. Bd7 {-2.00/7 0.25s} Bd4 {+2.00/7 0.25s} 75. Ra8 {-2.00/7 0.25s}
+Kg8 {+2.00/6 0.26s} 76. Kg2 {-2.00/7 0.26s} Re1 {+2.00/6 0.25s}
+77. Nf3 {-1.00/7 0.25s} Rd1 {+1.00/6 0.26s} 78. Bxc6 {-1.00/7 0.26s}
+Bb2 {+1.00/6 0.25s} 79. Rd8 {0.00/7 0.26s} Rc1 {0.00/7 0.25s}
+80. Bxd5 {0.00/7 0.25s} Rc2+ {0.00/7 0.26s} 81. Kh1 {0.00/9 0.25s}
+Rc1+ {0.00/7 0.25s} 82. Kg2 {0.00/10 0.26s} Rc2+ {0.00/7 0.26s}
+83. Kh1 {0.00/10 0.25s} Rc1+ {0.00/8 0.26s}
+84. Kg2 {0.00/11 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "37"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:28:42.491 GMT"]
+[GameStartTime "2022-02-11T20:28:39.889 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "69"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. g4 {book} hxg4 {book}
+16. hxg4 {book} Ne7 {book} 17. Nxe6 {book} Rxe6 {book} 18. Kg2 {book}
+Bxc3 {book} 19. bxc3 {book} Rd8 {book} 20. Rxd8+ {book} Kxd8 {book}
+21. Rh1 {book} Nd5 {book} 22. Bg3 {book} g5 {book} 23. Rh8+ {book} Kd7 {book}
+24. c4 {book} Nb6 {book} 25. Rf8 {book} Ke7 {book} 26. Rb8 {book} Nxc4 {book}
+27. Rxb7 {book} Kd7 {book} 28. Rxa7 {book} Nxe5 {book} 29. Ra4 {book} Ng6 {book}
+30. Ra7 {book} Ne5 {0.00/9 0.25s} 31. Kh1 {0.00/9 0.25s} Kd6 {0.00/10 0.27s}
+32. Kg1 {0.00/10 0.25s} Kd7 {0.00/10 0.26s} 33. Kh1 Kd6 34. Kg1
+Kd7 {0.00/11 0.25s} 35. Kh1 {0.00/10 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "38"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "0-1"]
+[ECO "C67"]
+[GameDuration "00:01:05"]
+[GameEndTime "2022-02-11T20:29:47.528 GMT"]
+[GameStartTime "2022-02-11T20:28:42.492 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "302"]
+[Termination "time forfeit"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. h3 {book} Ke8 {book}
+10. Nc3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. a3 {book} Bxc3 {book}
+16. bxc3 {book} h4 {book} 17. g4 {book} hxg3 {book} 18. fxg3 {book} Ne7 {book}
+19. h4 {book} Nd5 {book} 20. Bc1 {book} Nxc3 {book} 21. Rd3 {book} Na4 {book}
+22. Rf3 {book} Bd5 {book} 23. Rf4 {book} Nb6 {book} 24. Ref1 {book} Rg6 {book}
+25. Rf5 {book} Bc4 {book} 26. Re1 {book} Ke7 {book} 27. h5 {book} Rh6 {book}
+28. g4 {book} Rhh8 {book} 29. a4 {book} Nxa4 {book} 30. Ba3+ {book} c5 {book}
+31. Rf4 {-1.00/5 0.25s} b5 {+1.00/6 0.25s} 32. Ne4 {-1.00/5 0.25s}
+Ke6 {+1.00/6 0.26s} 33. Ng5+ {-1.00/6 0.26s} Kd7 {+1.00/6 0.25s}
+34. Kh1 {-2.00/6 0.25s} Ke7 {+2.00/5 0.26s} 35. Kg1 {-2.00/6 0.25s}
+Rhd8 {+2.00/5 0.25s} 36. Kg2 {-2.00/6 0.25s} Ke8 {+2.00/5 0.26s}
+37. Kh1 {-2.00/6 0.26s} Kd7 {+2.00/6 0.26s} 38. Nxf7 {-2.00/6 0.25s}
+Rf8 {+2.00/6 0.25s} 39. e6+ {-2.00/6 0.25s} Bxe6 {+2.00/7 0.25s}
+40. Ref1 {-2.00/6 0.26s} Ke7 {+2.00/6 0.25s} 41. Ne5 {-2.00/7 0.26s}
+Rxf4 {+2.00/6 0.25s} 42. Rxf4 {-2.00/6 0.25s} Kd6 {+2.00/6 0.25s}
+43. Nf3 {-2.00/7 0.25s} Kd5 {+2.00/6 0.26s} 44. Kg1 {-2.00/7 0.26s}
+Kc6 {+2.00/6 0.26s} 45. Kh2 {-2.00/7 0.25s} Kb6 {+2.00/6 0.26s}
+46. Kh1 {-2.00/7 0.26s} Ka5 {+2.00/6 0.25s} 47. Kg1 {-2.00/7 0.25s}
+Rh8 {+2.00/6 0.25s} 48. Kf1 {-2.00/6 0.25s} Kb6 {+2.00/6 0.26s}
+49. Kg1 {-2.00/6 0.25s} Kc6 {+2.00/6 0.25s} 50. Kh2 {-2.00/7 0.26s}
+Kd6 {+2.00/6 0.25s} 51. Kh1 {-2.00/6 0.25s} Kd5 {+2.00/6 0.25s}
+52. Kg1 {-2.00/7 0.26s} Rg8 {+2.00/6 0.26s} 53. Kh1 {-2.00/7 0.25s}
+Kd6 {+2.00/6 0.26s} 54. Kg1 {-2.00/7 0.26s} Ke7 {+2.00/6 0.25s}
+55. Kh1 {-2.00/7 0.26s} Kd8 {+2.00/6 0.25s} 56. Ng1 {-2.00/7 0.26s}
+Kd7 {+2.00/7 0.25s} 57. Kh2 {-2.00/7 0.26s} Kd6 {+2.00/6 0.26s}
+58. Kg2 {-2.00/7 0.25s} Kd5 {+2.00/6 0.25s} 59. Kh2 {-2.00/7 0.26s}
+Kc6 {+2.00/7 0.25s} 60. Kg2 {-2.00/7 0.26s} Kb6 {+2.00/6 0.26s}
+61. Kf1 {-2.00/7 0.25s} Ka6 {+2.00/6 0.25s} 62. Ke1 {-2.00/7 0.26s}
+Kb7 {+2.00/6 0.25s} 63. Ke2 {-2.00/7 0.25s} Kc6 {+2.00/6 0.25s}
+64. Kf2 {-2.00/7 0.25s} Kd5 {+2.00/6 0.26s} 65. Kg2 {-2.00/7 0.25s}
+Ke5 {+2.00/7 0.25s} 66. Kg3 {-2.00/7 0.25s} Rh8 {+2.00/6 0.26s}
+67. Kf3 {-2.00/7 0.26s} Kd6 {+2.00/6 0.25s} 68. Kg2 {-2.00/7 0.26s}
+Ke5 {+2.00/6 0.26s} 69. Kf3 {0.00/7 0.25s} Kd5 {+2.00/7 0.25s}
+70. Kg3 {-2.00/7 0.26s} Rh6 {+2.00/6 0.26s} 71. Kg2 {-2.00/7 0.26s}
+Kd6 {+2.00/6 0.25s} 72. Kf2 {-2.00/7 0.25s} Ke5 {+2.00/6 0.26s}
+73. Kg3 {-2.00/7 0.25s} Rf6 {+2.00/6 0.26s} 74. Nh3 {-2.00/7 0.25s}
+Kd5 {+2.00/7 0.26s} 75. Kg2 {-2.00/7 0.26s} Kd6 {+2.00/7 0.25s}
+76. Kg3 {-2.00/7 0.25s} Kc6 {+2.00/7 0.25s} 77. Kf3 {-2.00/7 0.25s}
+Kb6 {+2.00/7 0.25s} 78. Kg3 {-2.00/8 0.25s} Ka5 {+2.00/7 0.26s}
+79. Rxf6 {-2.00/7 0.26s} gxf6 {+2.00/7 0.25s} 80. Kf3 {-2.00/8 0.26s}
+Kb6 {+2.00/7 0.25s} 81. Kg3 {-2.00/8 0.25s} Kc6 {+2.00/7 0.26s}
+82. Kf3 {-2.00/8 0.26s} Kd7 {+2.00/7 0.25s} 83. Kg3 {-2.00/8 0.25s}
+Kd6 {+2.00/7 0.26s} 84. Kf3 {-2.00/8 0.25s} Ke5 {+2.00/8 0.26s}
+85. Kg3 {-2.00/8 0.26s} Ke4 {+2.00/7 0.26s} 86. Kh4 {-2.00/8 0.26s}
+Ke3 {+2.00/7 0.25s} 87. Bc1+ {-2.00/8 0.25s} Kd4 {+2.00/8 0.26s}
+88. Kg3 {-2.00/8 0.25s} Ke4 {+2.00/7 0.26s} 89. Nf2+ {-1.00/8 0.25s}
+Kd5 {+2.00/8 0.26s} 90. Kh2 {-2.00/8 0.26s} Kc6 {+2.00/7 0.26s}
+91. Kg1 {-2.00/8 0.25s} Kd6 {+1.00/7 0.26s} 92. Kh1 {-2.00/8 0.26s}
+Ke5 {+2.00/7 0.26s} 93. Kg1 {-2.00/8 0.25s} Ba2 {+2.00/7 0.26s}
+94. Kh2 {-2.00/8 0.25s} Kd4 {+2.00/7 0.26s} 95. Kg3 {-2.00/8 0.25s}
+Bb1 {+2.00/7 0.25s} 96. Bh6 {-2.00/8 0.26s} Kc3 {+2.00/8 0.26s}
+97. Bf4 {-2.00/9 0.26s} Kxc2 {+2.00/8 0.25s} 98. Ne4 {-2.00/9 0.26s}
+Kd1 {+2.00/7 0.25s} 99. Nf2+ {-2.00/8 0.25s} Ke2 {+2.00/10 0.28s}
+100. Bxc7 {-2.00/9 0.26s} Kf1 {+2.00/7 0.25s} 101. Kf3 {-2.00/9 0.26s}
+Ke1 {+2.00/7 0.25s} 102. Bg3 {-1.00/9 0.25s} Kd2 {+1.00/8 0.27s}
+103. Bb8 {-1.00/8 0.26s} a6 {+2.00/8 0.25s} 104. Bf4+ {-2.00/8 0.25s}
+Kc3 {+1.00/9 0.26s} 105. Ne4+ {-1.00/9 0.25s} Kc2 {+1.00/8 0.25s}
+106. Bb8 {-1.00/8 0.26s} Kd1 {+1.00/8 0.25s} 107. Nxf6 {-1.00/8 0.25s}
+Ke1 {+1.00/7 0.26s} 108. h6 {+1.50/8 0.25s} Kd1 {-1.50/8 0.25s}
+109. Kg2 {+1.50/8 0.25s} Bc2 {-1.50/8 0.27s} 110. Kh2 {+1.50/7 0.25s}
+Ke1 {-1.50/8 0.25s} 111. Kg2 {+1.50/7 0.25s} Kd1 {0.00/8 0.25s}
+112. Kh1 {+1.50/8 0.26s} Nb6 {-1.50/8 0.25s} 113. Kg1 {+1.50/8 0.25s}
+Na4 {-1.50/7 0.26s} 114. Kg2 {+1.50/8 0.25s} c4 {-1.00/7 0.26s}
+115. Kh2 {0.00/7 0.26s} Ke1 {0.00/7 0.25s} 116. Kh3 {+1.50/8 0.25s}
+Kd2 {-1.50/8 0.26s} 117. h7 {+1.50/7 0.25s} Bxh7 {-1.50/7 0.25s}
+118. Nxh7 {-1.00/9 0.26s} c3 {+1.00/8 0.26s} 119. Kh2 {-1.00/9 0.25s}
+Ke1 {+1.00/8 0.26s} 120. Kh1 {-1.00/10 0.26s} Kd1 {+1.00/9 0.26s}
+121. Kg1 {-1.00/9 0.26s} Ke2 {+2.00/8 0.26s} 122. Ng5 {-1.00/9 0.25s}
+c2 {+1.00/8 0.26s} 123. Bf4 {-1.00/8 0.25s} Kd1 {+1.00/8 0.26s}
+124. Kh1 {-1.00/9 0.25s} Nb2 {+2.00/8 0.25s} 125. Nh3 {-1.00/9 0.25s}
+c1=Q {+1.00/9 0.26s} 126. Nf2+ {+2.50/8 0.25s} Kc2+ {+1.00/10 0.25s}
+127. Bxc1 {+2.50/10 0.26s} Nc4 {-2.50/9 0.25s} 128. g5 {+2.50/9 0.26s}
+Ne5 {-2.50/9 0.26s} 129. Be3 {+2.50/9 0.25s} Kb1 {-2.50/8 0.25s}
+130. Kg1 {+2.50/9 0.26s} Kc2 {-2.50/8 0.26s} 131. Kf1 {+2.50/9 0.25s}
+Kb1 {-2.50/8 0.26s} 132. Ke1 {+2.50/9 0.25s} Kc2 {-2.50/9 0.25s}
+133. Ke2 {+2.50/9 0.25s} Kb1 {-2.50/8 0.26s} 134. Kf1 {+2.50/9 0.26s}
+Kc2 {-2.50/8 0.25s} 135. Kg1 {+2.50/9 0.25s} Kb1 {-2.50/9 0.25s}
+136. Kh1 {+2.50/9 0.25s} Kc2 {-2.50/9 0.25s} 137. Kh2 {+2.50/10 0.25s}
+Kb1 {-2.50/9 0.26s} 138. Kg2 {+2.50/10 0.25s} Kc2 {-2.50/8 0.26s}
+139. Kh3 {+2.50/9 0.26s} Kb1 {-2.50/8 0.26s} 140. Kh2 {+2.50/9 0.25s}
+Kc2 {-2.50/9 0.25s} 141. Kg2 {+2.50/10 0.25s} Kb1 {-2.50/9 0.25s}
+142. Kh3 {+2.50/10 0.25s} Kc2 {-2.50/8 0.26s} 143. Kg3 {+2.50/10 0.25s}
+Kb1 {-2.50/8 0.25s} 144. Kh4 {+2.50/9 0.25s} Kc2 {-2.50/8 0.26s}
+145. Kh5 {+2.50/9 0.26s} Nc6 {-2.50/8 0.25s} 146. Kg4 {+2.50/8 0.26s}
+Kb1 {-2.50/8 0.25s} 147. Kh3 {+2.50/9 0.26s} Ne5 {0.00/8 0.26s}
+148. Kg3 {+2.50/10 0.26s} Kc2 {-2.50/8 0.26s} 149. Kh4 {+2.50/10 0.25s}
+Kb1 {-2.50/8 0.26s} 150. Kh5 {+2.50/9 0.25s} Nc4 {-2.50/8 0.26s}
+151. Nd1 {+6.00/8 0.25s} Nd6 {-2.50/8 0.26s, White loses on time} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "39"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:29:50.085 GMT"]
+[GameStartTime "2022-02-11T20:29:47.529 GMT"]
+[Opening "Sicilian"]
+[PlyCount "70"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Adams attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. h3 {book} e5 {book}
+7. Nde2 {book} h5 {book} 8. g3 {book} Be7 {book} 9. Bg2 {book} b5 {book}
+10. Nd5 {book} Nxd5 {book} 11. Qxd5 {book} Ra7 {book} 12. Qd2 {book} Nd7 {book}
+13. a4 {book} Rb7 {book} 14. axb5 {book} axb5 {book} 15. O-O {book} O-O {book}
+16. b3 {book} b4 {book} 17. Rd1 {book} h4 {book} 18. g4 {book} Nc5 {book}
+19. Qe1 {book} Bd7 {book} 20. Be3 {book} Qc7 {book} 21. Nc1 {book} Rfb8 {book}
+22. Ra2 {book} Bc6 {book} 23. Bd2 {book} Qd8 {book} 24. Nd3 {book} Nxd3 {book}
+25. cxd3 {book} Bd7 {book} 26. d4 {book} exd4 {book} 27. Bf4 {book} Be6 {book}
+28. Rxd4 {book} Bxb3 {book} 29. Rb2 {book} Be6 {book} 30. Rdxb4 {book}
+Rxb4 {book} 31. Rxb4 {0.00/6 0.25s} Kh7 {0.00/6 0.25s} 32. Kh1 {0.00/6 0.25s}
+Kg6 {0.00/6 0.25s} 33. Kg1 {0.00/6 0.25s} Kh7 {0.00/6 0.25s}
+34. Kh1 {0.00/7 0.25s} Kg6 {0.00/7 0.25s} 35. Kg1 {0.00/7 0.25s}
+Kh7 {0.00/7 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "40"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:41"]
+[GameEndTime "2022-02-11T20:30:31.595 GMT"]
+[GameStartTime "2022-02-11T20:29:50.086 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "222"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bg5 {book} h6 {book} 6. Bh4 {book} O-O {book}
+7. e3 {book} Ne4 {book} 8. Bxe7 {book} Qxe7 {book} 9. Rc1 {book} c6 {book}
+10. Bd3 {book} Nxc3 {book} 11. Rxc3 {book} dxc4 {book} 12. Bxc4 {book}
+Nd7 {book} 13. O-O {book} b6 {book} 14. Bd3 {book} c5 {book} 15. Be4 {book}
+Rb8 {book} 16. Qa4 {book} Bb7 {book} 17. Bxb7 {book} Rxb7 {book} 18. Qc2 {book}
+Rc8 {book} 19. Rc1 {book} Rbc7 {book} 20. b4 {book} e5 {book} 21. dxc5 {book}
+bxc5 {book} 22. Rc4 {book} e4 {book} 23. Qxe4 {book} Qxe4 {book} 24. Rxe4 {book}
+cxb4 {book} 25. Re8+ {book} Rxe8 {book} 26. Rxc7 {book} Ne5 {book}
+27. Nxe5 {book} Rxe5 {book} 28. Rxa7 {book} h5 {book} 29. h3 {book} Rb5 {book}
+30. g4 {book} hxg4 {book} 31. Ra8+ {+1.00/8 0.26s} Kh7 {-1.00/10 0.26s}
+32. hxg4 {+1.00/8 0.25s} Kh6 {-1.00/8 0.26s} 33. Kh1 {+1.00/8 0.25s}
+Kg5 {-1.00/8 0.26s} 34. Ra7 {+1.00/8 0.26s} Kxg4 {-1.00/9 0.26s}
+35. Rxf7 {+1.00/9 0.25s} Rh5+ {-1.00/9 0.25s} 36. Kg1 {+1.00/11 0.26s}
+Rg5 {-1.00/8 0.25s} 37. Kf1 {+1.00/9 0.25s} Kh3 {-1.00/9 0.25s}
+38. Ke1 {+1.00/9 0.25s} Kh2 {-1.00/9 0.25s} 39. Kd1 {+1.00/9 0.25s}
+Kh1 {-1.00/9 0.26s} 40. Kc1 {+1.00/9 0.26s} Kg1 {-1.00/9 0.25s}
+41. Kb1 {+1.00/9 0.26s} Kh1 {-1.00/9 0.26s} 42. Ka1 {+1.00/10 0.25s}
+Kg1 {-1.00/9 0.26s} 43. Kb2 {+1.00/9 0.26s} Kf1 {-1.00/9 0.26s}
+44. Kb1 {+1.00/9 0.26s} Kg1 {-1.00/9 0.25s} 45. Kc1 {+1.00/10 0.26s}
+Kh1 {-1.00/9 0.25s} 46. Kd1 {+1.00/10 0.26s} Kg1 {-1.00/9 0.26s}
+47. Ke2 {+1.00/10 0.26s} Kh2 {-1.00/9 0.25s} 48. Ke1 {+1.00/10 0.25s}
+Kh1 {-1.00/9 0.25s} 49. Kf1 {+1.00/10 0.26s} Kh2 {-1.00/10 0.25s}
+50. Ke2 {+1.00/10 0.25s} Kg1 {-1.00/9 0.25s} 51. Kd2 {+1.00/10 0.25s}
+Kh1 {-1.00/9 0.26s} 52. Kc2 {+1.00/10 0.26s} Kg1 {-1.00/9 0.25s}
+53. Kd3 {+1.00/10 0.25s} Kh1 {-1.00/9 0.26s} 54. Kd2 {+1.00/10 0.25s}
+Kg1 {-1.00/10 0.25s} 55. Kc2 {+1.00/10 0.25s} Kf1 {-1.00/9 0.25s}
+56. Kb2 {+1.00/9 0.26s} Kg1 {-1.00/9 0.25s} 57. Ka1 {+1.00/10 0.25s}
+Kh1 {-1.00/9 0.26s} 58. Kb2 {+1.00/10 0.26s} Kg1 {0.00/10 0.26s} 59. Kb3
+Rb5 {-1.00/9 0.26s} 60. Kc4 {+1.00/9 0.25s} Ra5 {-1.00/8 0.25s}
+61. Kxb4 {+1.00/9 0.26s} Rxa2 {-1.00/8 0.25s} 62. Kc3 {+1.00/9 0.26s}
+Kh1 {-1.00/8 0.26s} 63. Kd3 {+1.00/10 0.26s} Kg1 {-1.00/9 0.25s}
+64. Ke4 {+1.00/10 0.25s} Kf1 {-1.00/9 0.25s} 65. Kd4 {+1.00/9 0.26s}
+Kg1 {-1.00/9 0.25s} 66. Kd3 {+1.00/10 0.25s} Kh1 {-1.00/9 0.25s}
+67. Kc3 {+1.00/10 0.26s} Kg1 {-1.00/9 0.25s} 68. Kb3 {+1.00/10 0.25s}
+Ra1 {-1.00/9 0.25s} 69. Kc2 {+1.00/9 0.25s} Kf1 {-1.00/9 0.26s}
+70. Kd2 {+1.00/9 0.26s} Kg1 {-1.00/9 0.25s} 71. Ke2 {+1.00/10 0.25s}
+Ra2+ {-1.00/9 0.25s} 72. Ke1 {+1.00/12 0.25s} Ra1+ {-1.00/10 0.25s}
+73. Kd2 {+1.00/12 0.26s} Kf1 {-1.00/10 0.25s} 74. Kc2 {+1.00/10 0.25s}
+Kg1 {-1.00/9 0.25s} 75. Kb2 {+1.00/10 0.26s} Rf1 {-1.00/9 0.26s}
+76. Kc3 {+1.00/10 0.26s} Kh1 {-1.00/9 0.26s} 77. Kd2 {+1.00/10 0.26s}
+Kh2 {-1.00/9 0.26s} 78. Ke2 {+1.00/10 0.26s} Rg1 {-1.00/10 0.26s}
+79. Kf3 {+1.00/10 0.26s} Kh1 {-1.00/9 0.26s} 80. Kf4 {+1.00/10 0.26s}
+Kh2 {-1.00/9 0.25s} 81. Ke4 {+1.00/10 0.25s} Kh1 {-1.00/9 0.25s}
+82. Kf3 {+1.00/10 0.26s} Kh2 {-1.00/9 0.25s} 83. Ke2 {+1.00/10 0.26s}
+Kh1 {-1.00/10 0.27s} 84. Kd2 {+1.00/11 0.25s} Kh2 {-1.00/10 0.26s}
+85. Kc2 {+1.00/11 0.25s} Kh1 {-1.00/9 0.27s} 86. Kb2 {+1.00/11 0.26s}
+Kh2 {-1.00/10 0.25s} 87. Ka2 {+1.00/10 0.26s} Kh1 {-1.00/10 0.25s}
+88. Kb3 {+1.00/10 0.26s} Kh2 {-1.00/10 0.26s} 89. Kb2 {+1.00/11 0.25s}
+Kh1 {-1.00/10 0.26s} 90. Kc2 {+1.00/11 0.25s} Kh2 {-1.00/10 0.26s}
+91. Kd3 {+1.00/11 0.26s} Kh1 {-1.00/10 0.26s} 92. Ke4 {+1.00/11 0.26s}
+Kh2 {-1.00/10 0.27s} 93. Kf4 {+1.00/11 0.26s} Kh1 {-1.00/10 0.26s}
+94. Kf5 {+1.00/12 0.26s} Kh2 {-1.00/10 0.25s} 95. Ke5 {+1.00/11 0.25s}
+Kh1 {-1.00/9 0.25s} 96. Kd4 {+1.00/11 0.25s} Kh2 {-1.00/10 0.26s}
+97. Kc3 {+1.00/11 0.25s} Kh1 {-1.00/10 0.26s} 98. Kd3 {+1.00/12 0.25s}
+Kh2 {-1.00/10 0.25s} 99. Kd4 {+1.00/12 0.25s} Kh1 {-1.00/10 0.27s}
+100. Kc4 {+1.00/11 0.25s} Kh2 {-1.00/10 0.25s} 101. Kb3 {+1.00/11 0.25s}
+Kh1 {-1.00/10 0.25s} 102. Ka2 {+1.00/11 0.26s} Kh2 {-1.00/11 0.26s}
+103. Ka3 {+1.00/11 0.26s} Kh1 {-1.00/10 0.26s} 104. Kb4 {+1.00/11 0.26s}
+Kh2 {-1.00/10 0.25s} 105. Kc4 {+1.00/11 0.25s} Kh1 {-1.00/10 0.25s}
+106. Kd5 {+1.00/12 0.26s} Kh2 {-1.00/10 0.26s} 107. Kc5 {+1.00/12 0.26s}
+Kh1 {-1.00/10 0.25s} 108. Kb5 {+1.00/12 0.25s} Kh2 {-1.00/10 0.26s}
+109. Kb4 {+1.00/11 0.25s} Kh1 {-1.00/9 0.25s} 110. Ka3 {+1.00/12 0.25s}
+Ra1+ {0.00/11 0.25s} 111. Kb2 {0.00/15 0.26s}
+Rg1 {0.00/10 0.26s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "41"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:30:33.629 GMT"]
+[GameStartTime "2022-02-11T20:30:31.596 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "37"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} c6 {book} 8. h3 {book} b6 {book} 9. b4 {book} a5 {book}
+10. a3 {book} h6 {book} 11. Bd3 {book} Ba6 {book} 12. O-O {book} Qc8 {book}
+13. Qc2 {book} Bxd3 {book} 14. Qxd3 {book} Qb7 {book} 15. Qc2 {book}
+Kh8 {0.00/3 0.25s} 16. Kh1 {0.00/2 0.25s} Kg8 {0.00/3 0.25s}
+17. Kg1 {0.00/2 0.25s} Kh8 {0.00/4 0.25s} 18. Kh1 Kg8 {0.00/4 0.25s}
+19. Kg1 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "42"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:30:35.675 GMT"]
+[GameStartTime "2022-02-11T20:30:33.630 GMT"]
+[Opening "Nimzo-Indian"]
+[PlyCount "27"]
+[TimeControl "0.25/move"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nc3 {book} Bb4 {book}
+4. e3 {book} O-O {book} 5. Bd3 {book} d5 {book} 6. Nf3 {book} dxc4 {book}
+7. Bxc4 {book} c5 {book} 8. O-O {book} Nbd7 {book} 9. Qe2 {book} b6 {book}
+10. Rd1 {book} Kh8 {0.00/5 0.25s} 11. Kh1 {0.00/4 0.26s} Kg8 {0.00/5 0.25s}
+12. Kg1 {0.00/4 0.26s} Kh8 {0.00/6 0.26s} 13. Kh1 Kg8
+14. Kg1 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "43"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:43"]
+[GameEndTime "2022-02-11T20:31:18.906 GMT"]
+[GameStartTime "2022-02-11T20:30:35.676 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "217"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. a3 {book} Bxc3 {book}
+16. bxc3 {book} h4 {book} 17. Ne4 {book} Rg6 {book} 18. g4 {book} hxg3 {book}
+19. fxg3 {book} Kf8 {book} 20. Kf2 {book} Ne7 {book} 21. h4 {book} Nd5 {book}
+22. Bg5 {book} Bf5 {book} 23. h5 {book} Nxc3 {book} 24. hxg6 {book} Nxe4+ {book}
+25. Rxe4 {-1.00/8 0.25s} Bxe4 {+1.00/6 0.25s} 26. Rb1 {-1.00/7 0.26s}
+Re8 {+1.00/7 0.25s} 27. Rxb7 {-1.00/7 0.25s} fxg6 {+1.00/7 0.25s}
+28. Rxc7 {-1.00/7 0.26s} Rxe5 {+1.00/8 0.25s} 29. Rc8+ {-1.00/8 0.26s}
+Kf7 {+1.00/9 0.26s} 30. Rc7+ {-1.00/7 0.25s} Ke6 {+1.00/9 0.25s}
+31. Re7+ {-1.00/7 0.25s} Kd5 {+1.00/10 0.25s} 32. Rxe5+ {-1.00/8 0.26s}
+Kxe5 {+1.00/9 0.25s} 33. Be3 {-1.00/9 0.25s} Kd5 {+1.00/9 0.25s}
+34. Kg1 {-1.00/9 0.25s} Kc4 {+1.00/10 0.25s} 35. Bxa7 {-1.00/10 0.25s}
+Kc3 {+1.00/10 0.25s} 36. Kf1 {-1.00/10 0.25s} Kxc2 {+1.00/10 0.25s}
+37. Kg1 {-1.00/11 0.26s} Kb1 {+1.00/10 0.25s} 38. Kf1 {-1.00/12 0.26s}
+Ka1 {+1.00/11 0.25s} 39. Kg1 {-1.00/12 0.26s} Kb2 {+1.00/11 0.25s}
+40. Bd4+ {-1.00/11 0.25s} Ka2 {+1.00/12 0.25s} 41. Kf1 {-1.00/12 0.26s}
+Kb3 {+1.00/11 0.25s} 42. Kg1 {-1.00/11 0.26s} Kxa3 {+1.00/11 0.25s}
+43. Kh2 {-1.00/11 0.26s} Ka2 {+1.00/12 0.25s} 44. Kg1 {-1.00/12 0.25s}
+Kb1 {+1.00/12 0.26s} 45. Kh2 {-1.00/11 0.26s} Kc1 {+1.00/12 0.25s}
+46. Kg1 {-1.00/12 0.25s} Kd1 {+1.00/13 0.26s} 47. Kh2 {-1.00/12 0.26s}
+Ke1 {+1.00/13 0.26s} 48. Kg1 {-1.00/12 0.25s} Ke2 {+1.00/13 0.25s}
+49. Kh2 {-1.00/11 0.26s} Kf1 {+1.00/12 0.26s} 50. Ba1 {-1.00/12 0.25s}
+Ke1 {+1.00/13 0.26s} 51. Kg1 {-1.00/13 0.25s} Kd1 {+1.00/13 0.26s}
+52. Kh2 {-1.00/13 0.25s} Kc1 {+1.00/14 0.26s} 53. Kg1 {-1.00/13 0.26s}
+Kb1 {+1.00/14 0.26s} 54. Bc3 {-1.00/12 0.25s} Kc2 {+1.00/13 0.26s}
+55. Ba1 {-1.00/10 0.25s} Kd2 {+1.00/14 0.26s} 56. Kh2 {-1.00/12 0.26s}
+Kc2 {+1.00/14 0.26s} 57. Kg1 {0.00/13 0.26s} Kd3 58. Kf1 {-1.00/13 0.25s}
+Ke3 {+1.00/14 0.26s} 59. Bxg7 {-1.00/12 0.26s} Kd2 {+1.00/12 0.25s}
+60. Kg1 {-1.00/11 0.25s} Ke1 {+1.00/12 0.26s} 61. Kh2 {-1.00/13 0.25s}
+Kf1 {+1.00/13 0.25s} 62. Kh3 {-1.00/12 0.26s} Kg1 {+1.00/12 0.25s}
+63. Kh4 {-1.00/12 0.25s} Kh1 {+1.00/12 0.25s} 64. Kh3 {-1.00/12 0.25s}
+Bb1 {+1.00/13 0.25s} 65. Kh4 {-1.00/12 0.26s} Kg1 {+1.00/13 0.26s}
+66. Kh3 {-1.00/12 0.25s} Kf1 {+1.00/13 0.26s} 67. Kh2 {-1.00/12 0.26s}
+Ke1 {+1.00/13 0.27s} 68. Kh1 {-1.00/12 0.26s} Kd1 {+1.00/14 0.25s}
+69. Kg1 {-1.00/12 0.25s} Kc1 {+1.00/12 0.25s} 70. Kh1 {-1.00/12 0.26s}
+Kd2 {+1.00/13 0.25s} 71. Kg1 {-1.00/12 0.25s} Kd1 {+1.00/13 0.26s}
+72. Kh1 {-1.00/13 0.26s} Ke1 {+1.00/13 0.25s} 73. Kg1 {-1.00/13 0.25s}
+Ke2 {+1.00/14 0.25s} 74. Kh1 {-1.00/12 0.26s} Kf2 {+1.00/14 0.26s}
+75. Kh2 {-1.00/12 0.26s} Kf1 {+1.00/14 0.25s} 76. Kh1 {-1.00/14 0.26s}
+Ke2 {+1.00/15 0.25s} 77. Kg1 {-1.00/13 0.26s} Kd2 {+1.00/14 0.25s}
+78. Kh1 {-1.00/12 0.26s} Kc1 {+1.00/14 0.26s} 79. Kg1 {-1.00/10 0.25s}
+Kc2 {+1.00/14 0.25s} 80. Kh1 {-1.00/13 0.25s} Kd3 {+1.00/14 0.26s}
+81. Kg1 {-1.00/12 0.26s} Ke3 {+1.00/14 0.25s} 82. Kh1 {-1.00/12 0.25s}
+Kf3 {+1.00/15 0.26s} 83. Kh2 {-1.00/12 0.26s} Kf2 {+1.00/14 0.25s}
+84. Kh3 {-1.00/12 0.25s} Kg1 {+1.00/14 0.25s} 85. Kh4 {-1.00/13 0.26s}
+Kh1 {+1.00/14 0.26s} 86. Kh3 {-1.00/13 0.25s} Bc2 {+1.00/14 0.26s}
+87. Kh4 {-1.00/12 0.25s} Kg1 {+1.00/13 0.25s} 88. Kh3 {-1.00/13 0.25s}
+Kf1 {+1.00/14 0.26s} 89. Kh2 {-1.00/12 0.26s} Ke1 {+1.00/14 0.26s}
+90. Kh1 {-1.00/11 0.26s} Kf1 {+1.00/15 0.26s} 91. Kh2 {0.00/10 0.26s}
+Kf2 {+1.00/15 0.26s} 92. Kh3 {-1.00/11 0.25s} Kg1 {+1.00/15 0.25s}
+93. Kh4 {-1.00/13 0.25s} Kh1 {+1.00/14 0.25s} 94. Kh3 {-1.00/13 0.25s}
+Bd1 {+1.00/15 0.25s} 95. Kh4 {-1.00/12 0.26s} Kg1 {+1.00/12 0.25s}
+96. Kh3 {-1.00/12 0.25s} Kf1 {+1.00/13 0.25s} 97. Kh2 {-1.00/12 0.25s}
+Ke1 {+1.00/14 0.26s} 98. Kh1 {-1.00/12 0.26s} Kf2 {+1.00/15 0.26s}
+99. Kh2 {-1.00/11 0.25s} Kf1 {+1.00/15 0.26s} 100. Kh1 {-1.00/12 0.26s}
+Ke1 {+1.00/16 0.26s} 101. Kg1 {-1.00/12 0.25s} Ke2 {+1.00/15 0.25s}
+102. Kh1 {-1.00/11 0.25s} Kd2 {+1.00/15 0.25s} 103. Kg1 {-1.00/12 0.26s}
+Kc1 {+1.00/15 0.25s} 104. Kh1 {-1.00/12 0.26s} Kb1 {+1.00/15 0.26s}
+105. Kg1 {-1.00/12 0.26s} Kc2 {+1.00/14 0.26s} 106. Kh1 {-1.00/12 0.26s}
+Kc1 {+1.00/15 0.25s} 107. Kg1 {-1.00/13 0.26s} Kb1 {+1.00/15 0.25s}
+108. Kh1 {-1.00/13 0.26s} Kc2 {+1.00/15 0.25s}
+109. Kg1 {-1.00/13 0.25s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "44"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:31:21.218 GMT"]
+[GameStartTime "2022-02-11T20:31:18.907 GMT"]
+[Opening "Sicilian"]
+[PlyCount "40"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} e5 {book}
+7. Nb3 {book} Be6 {book} 8. f3 {book} h5 {book} 9. Nd5 {book} Bxd5 {book}
+10. exd5 {book} Nbd7 {book} 11. Qd2 {book} g6 {book} 12. Be2 {book} Bg7 {book}
+13. O-O {book} b6 {book} 14. Rae1 {book} O-O {book} 15. c4 {book} Rc8 {book}
+16. Kh1 {book} Kh7 {0.00/5 0.26s} 17. Kg1 {0.00/5 0.26s} Kh8 {0.00/5 0.26s}
+18. Kh1 {0.00/5 0.26s} Kh7 {0.00/5 0.26s} 19. Kg1 Kh8 {0.00/6 0.26s} 20. Kh1
+Kh7 {0.00/6 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "45"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1-0"]
+[ECO "B97"]
+[GameDuration "00:00:14"]
+[GameEndTime "2022-02-11T20:31:35.495 GMT"]
+[GameStartTime "2022-02-11T20:31:21.219 GMT"]
+[Opening "Sicilian"]
+[PlyCount "89"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Poisoned pawn Variation"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Bg5 {book} e6 {book}
+7. f4 {book} Qb6 {book} 8. Qd2 {book} Qxb2 {book} 9. Rb1 {book} Qa3 {book}
+10. f5 {book} Nc6 {book} 11. fxe6 {book} fxe6 {book} 12. Nxc6 {book} bxc6 {book}
+13. Be2 {book} Be7 {book} 14. O-O {book} O-O {book} 15. Rb3 {book} Qc5+ {book}
+16. Be3 {book} Qe5 {book} 17. Bf4 {book} Nxe4 {+2.00/5 0.25s}
+18. Nxe4 {-2.00/5 0.26s} Qxe4 {+2.00/5 0.25s} 19. Kh1 {-2.00/4 0.26s}
+Kh8 {+2.00/4 0.25s} 20. Kg1 {-2.00/5 0.26s} Kg8 {+2.00/4 0.26s} 21. Kh1
+Rf6 {+2.00/5 0.25s} 22. Kg1 {-2.00/5 0.26s} Kf7 {+2.00/4 0.25s}
+23. Bf3 {-1.00/5 0.26s} Qc4 {+1.00/5 0.26s} 24. Bxd6 {-1.00/5 0.25s}
+Rf5 {+1.00/5 0.25s} 25. Re1 {-1.00/5 0.26s} Kf6 {+1.00/4 0.25s}
+26. Re4 {0.00/5 0.26s} Qd5 {0.00/5 0.25s} 27. Rd4 {0.00/5 0.25s}
+Qa5 {0.00/6 0.26s} 28. Bxc6 {0.00/5 0.25s} Qxd2 {0.00/5 0.25s}
+29. Rxd2 {0.00/5 0.25s} Ra7 {0.00/6 0.26s} 30. Rd1 {0.00/6 0.25s}
+Kg5 {0.00/6 0.25s} 31. Be4 {0.00/6 0.25s} Ra5 {0.00/6 0.25s}
+32. Rg3+ {+1.00/6 0.25s} Kh6 {-1.00/7 0.25s} 33. Bf4+ {+1.00/6 0.25s}
+g5 {-1.00/7 0.26s} 34. Rh3+ {+1.00/6 0.25s} Kg7 {-1.00/8 0.25s}
+35. Rxh7+ {+1.00/6 0.25s} Kf6 {-1.00/7 0.25s} 36. Rh6+ {+1.00/6 0.25s}
+Kg7 {-1.00/8 0.26s} 37. Rg6+ {+1.00/6 0.25s} Kh8 {-1.00/7 0.26s}
+38. Bc1 {+1.00/6 0.25s} Rxa2 {-1.00/6 0.25s} 39. Be3 {+1.00/6 0.25s}
+Rd7 {-2.00/6 0.25s} 40. Rxd7 {+2.00/6 0.25s} Bxd7 {-4.50/6 0.25s}
+41. Bd4+ {+7.00/7 0.26s} Kh7 {-299.92/8 0.25s} 42. Rg7+ {+299.93/7 0.25s}
+Kh8 {-299.94/8 0.25s} 43. Rxg5+ {+299.95/7 0.25s} e5 {-299.96/8 0.25s}
+44. Bxe5+ {+299.97/7 0.25s} Bf6 {-299.98/8 0.25s}
+45. Bxf6# {+299.99/7 0.26s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "46"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:31:37.525 GMT"]
+[GameStartTime "2022-02-11T20:31:35.496 GMT"]
+[Opening "Queen's Indian"]
+[PlyCount "34"]
+[TimeControl "0.25/move"]
+[Variation "Nimzovich Variation (exaggerated Fianchetto)"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} b6 {book}
+4. g3 {book} Ba6 {book} 5. b3 {book} Bb4+ {book} 6. Bd2 {book} Be7 {book}
+7. Bg2 {book} c6 {book} 8. Bc3 {book} d5 {book} 9. Nbd2 {book} Nbd7 {book}
+10. Qc2 {book} c5 {book} 11. dxc5 {book} bxc5 {book} 12. O-O {book} O-O {book}
+13. Bb2 {book} Qb6 {book} 14. Kh1 {0.00/4 0.25s} Kh8 {0.00/4 0.25s}
+15. Kg1 {0.00/4 0.26s} Kg8 {0.00/4 0.25s} 16. Kh1 {0.00/5 0.26s}
+Kh8 {0.00/5 0.25s} 17. Kg1 {0.00/5 0.25s}
+Kg8 {0.00/5 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "47"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:31:40.601 GMT"]
+[GameStartTime "2022-02-11T20:31:37.526 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "68"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. h3 {book} Ke8 {book}
+10. Nc3 {book} h5 {book} 11. Ne2 {book} b6 {book} 12. Rd1 {book} Ba6 {book}
+13. Nf4 {book} Bb7 {book} 14. a4 {book} Be7 {book} 15. e6 {book} Bd6 {book}
+16. exf7+ {book} Kxf7 {book} 17. Ng5+ {book} Kf6 {book} 18. Ne4+ {book}
+Kf7 {book} 19. a5 {book} c5 {book} 20. Nxd6+ {book} cxd6 {book} 21. c4 {book}
+Ba6 {book} 22. b3 {book} b5 {book} 23. cxb5 {book} Bxb5 {book} 24. b4 {book}
+cxb4 {book} 25. Rb1 {book} Rac8 {book} 26. Rxb4 {book} Rc5 {book} 27. Bb2 {book}
+Bc6 {book} 28. a6 {book} Ra5 {book} 29. Ra1 {0.00/5 0.25s} Rxa1+ {0.00/6 0.25s}
+30. Bxa1 {0.00/8 0.25s} Rh6 {0.00/6 0.25s} 31. Kh1 {0.00/7 0.25s}
+Kg8 {0.00/7 0.26s} 32. Kg1 {0.00/7 0.25s} Kf7 {0.00/7 0.25s} 33. Kh1
+Kg8 {0.00/8 0.26s} 34. Kg1 {0.00/8 0.26s}
+Kf7 {0.00/8 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "48"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:31:43.161 GMT"]
+[GameStartTime "2022-02-11T20:31:40.602 GMT"]
+[Opening "QGD Slav"]
+[PlyCount "70"]
+[TimeControl "0.25/move"]
+[Variation "4.Nc3"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. Nf3 {book} Nf6 {book}
+4. Nc3 {book} e6 {book} 5. e3 {book} Nbd7 {book} 6. Qc2 {book} Bd6 {book}
+7. Be2 {book} O-O {book} 8. O-O {book} b6 {book} 9. e4 {book} dxe4 {book}
+10. Nxe4 {book} Nxe4 {book} 11. Qxe4 {book} Bb7 {book} 12. Bd3 {book} g6 {book}
+13. Re1 {book} Rb8 {book} 14. Bg5 {book} c5 {book} 15. Qh4 {book} Qc7 {book}
+16. Be4 {book} Bxe4 {book} 17. Rxe4 {book} cxd4 {book} 18. Rxd4 {book}
+Bc5 {book} 19. Rd3 {book} f6 {book} 20. Bh6 {book} Rf7 {book} 21. Rad1 {book}
+e5 {book} 22. Nd2 {book} Be7 {book} 23. Qh3 {book} Nc5 {book} 24. Rd5 {book}
+Rd8 {book} 25. b4 {book} Rxd5 {book} 26. cxd5 {book} Nb7 {book} 27. Ne4 {book}
+f5 {book} 28. Ng5 {book} Qc2 {book} 29. Qd3 {book} Qxd3 {book} 30. Rxd3 {book}
+Bxg5 {book} 31. Bxg5 {0.00/8 0.25s} Kg7 {0.00/7 0.26s} 32. Kh1 {0.00/7 0.25s}
+Kh8 {0.00/7 0.26s} 33. Kg1 {0.00/8 0.25s} Kg7 {0.00/8 0.25s}
+34. Kh1 {0.00/8 0.26s} Kh8 {0.00/8 0.25s} 35. Kg1
+Kg7 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "49"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:31:46.484 GMT"]
+[GameStartTime "2022-02-11T20:31:43.162 GMT"]
+[Opening "Nimzo-Indian"]
+[PlyCount "52"]
+[TimeControl "0.25/move"]
+[Variation "Classical Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nc3 {book} Bb4 {book}
+4. Qc2 {book} O-O {book} 5. a3 {book} Bxc3+ {book} 6. Qxc3 {book} b6 {book}
+7. Bg5 {book} Bb7 {book} 8. f3 {book} h6 {book} 9. Bh4 {book} d5 {book}
+10. e3 {book} Nbd7 {book} 11. cxd5 {book} Nxd5 {book} 12. Bxd8 {book}
+Nxc3 {book} 13. Bh4 {book} Nd5 {book} 14. Bf2 {book} c5 {book} 15. e4 {book}
+Ne7 {book} 16. Ne2 {book} Rac8 {book} 17. Nc3 {book} cxd4 {book} 18. Bxd4 {book}
+Nc5 {book} 19. Rd1 {book} Rfd8 {book} 20. Be3 {book} Kh7 {0.00/6 0.25s}
+21. Kf2 {0.00/6 0.25s} Kg6 {0.00/5 0.25s} 22. Kg1 {0.00/6 0.25s}
+Kh5 {0.00/5 0.25s} 23. Kf2 {0.00/6 0.26s} Kh4 {0.00/5 0.25s}
+24. Kg1 {0.00/6 0.25s} Kh5 {0.00/6 0.26s} 25. Kf2 Kh4 26. Kg1
+Kh5 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "50"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:31:49.058 GMT"]
+[GameStartTime "2022-02-11T20:31:46.485 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "70"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. d3 {book} Bc5 {book} 5. c3 {book} O-O {book} 6. O-O {book} d6 {book}
+7. h3 {book} Ne7 {book} 8. d4 {book} Bb6 {book} 9. Bd3 {book} Ng6 {book}
+10. Re1 {book} Re8 {book} 11. Qc2 {book} c6 {book} 12. a4 {book} Bc7 {book}
+13. Be3 {book} d5 {book} 14. Nbd2 {book} exd4 {book} 15. Bxd4 {book} Be6 {book}
+16. Ng5 {book} dxe4 {book} 17. Ndxe4 {book} Nxe4 {book} 18. Nxe6 {book}
+Rxe6 {book} 19. Rxe4 {book} Rxe4 {book} 20. Bxe4 {book} Bb6 {book}
+21. Rd1 {book} Qc7 {book} 22. Bxb6 {book} axb6 {book} 23. b4 {book} Nf8 {book}
+24. Bd3 {book} Re8 {book} 25. g3 {book} g6 {book} 26. Bc4 {book} Nd7 {book}
+27. Bb3 {book} Nf6 {book} 28. Rd3 {book} Kg7 {book} 29. Qd1 {book} h5 {book}
+30. h4 {book} Re5 {book} 31. Kh1 {0.00/6 0.26s} Kh6 {0.00/6 0.26s}
+32. Kg1 {0.00/6 0.26s} Kh7 {0.00/6 0.25s} 33. Kh1 {0.00/6 0.25s}
+Kh6 {0.00/6 0.25s} 34. Kg1 {0.00/7 0.25s} Kh7 {0.00/7 0.25s}
+35. Kh1 {0.00/7 0.25s} Kh6 {0.00/7 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "51"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:31:51.605 GMT"]
+[GameStartTime "2022-02-11T20:31:49.059 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "35"]
+[TimeControl "0.25/move"]
+[Variation "Closed, anti-Marshall 8.a4"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. a4 {book} b4 {book} 9. d3 {book} d6 {book}
+10. Nbd2 {book} Na5 {book} 11. Ba2 {book} c5 {book} 12. c3 {book} Rb8 {book}
+13. d4 {book} Nc6 {0.00/3 0.25s} 14. Nf1 {0.00/3 0.25s} Kh8 {0.00/2 0.25s}
+15. Kh1 {0.00/2 0.25s} Kg8 {0.00/2 0.26s} 16. Kg1 {0.00/3 0.25s}
+Kh8 {0.00/3 0.25s} 17. Kh1 {0.00/3 0.25s} Kg8 {0.00/3 0.25s}
+18. Kg1 {0.00/4 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "52"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1-0"]
+[ECO "E10"]
+[GameDuration "00:00:13"]
+[GameEndTime "2022-02-11T20:32:04.981 GMT"]
+[GameStartTime "2022-02-11T20:31:51.605 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "112"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Bxa6 {book} Rxa6 {book} 15. Qe2 {book} Rfa8 {book}
+16. b5 {book} cxb5 {book} 17. c6 {book} Qxc6 {book} 18. Nxb5 {book} Rc8 {book}
+19. Rac1 {book} Qxc1 {book} 20. Rxc1 {book} Rxc1+ {book} 21. Kg2 {book}
+Ra8 {book} 22. f5 {book} Rc6 {book} 23. h4 {book} a4 {book} 24. h5 {book}
+h6 {book} 25. fxe6 {book} fxe6 {book} 26. Ne5 {book} Nxe5 {book} 27. dxe5 {book}
+Bc5 {book} 28. Qg4 {book} d4 {book} 29. Qf3 {book} Rcc8 {book} 30. Nc7 {book}
+d3 {book} 31. Nxa8 {0.00/7 0.26s} d2 {0.00/7 0.25s} 32. Nxb6 {0.00/7 0.25s}
+Rf8 {0.00/7 0.26s} 33. Qd3 {0.00/7 0.26s} Rxf2+ {0.00/7 0.26s}
+34. Kh3 {0.00/9 0.26s} Bxb6 {0.00/7 0.26s} 35. Qd7 {0.00/7 0.26s}
+Kh7 {0.00/8 0.25s} 36. Qxa4 {0.00/8 0.25s} Rf1 {0.00/8 0.25s}
+37. Qc2+ {+1.00/8 0.26s} Kh8 {-1.00/9 0.25s} 38. Qxd2 {+1.00/7 0.26s}
+Rh1+ {-1.00/7 0.25s} 39. Kg4 {+2.00/9 0.25s} Rg1 {-2.00/7 0.26s}
+40. Qc2 {+2.00/8 0.26s} Re1 {-2.00/8 0.26s} 41. Qc8+ {+2.00/8 0.26s}
+Kh7 {-2.00/9 0.26s} 42. Qxe6 {+2.00/8 0.26s} Bg1 {-2.00/8 0.26s}
+43. Kh3 {+2.00/8 0.25s} Kh8 {-2.00/7 0.25s} 44. Qc8+ {+3.50/8 0.26s}
+Kh7 {-4.50/9 0.26s} 45. Qc3 {+4.50/8 0.26s} Re3 {-3.50/8 0.26s}
+46. Qc1 {+4.50/9 0.26s} Rxe5 {-3.50/8 0.25s} 47. Qb1+ {+6.50/8 0.25s}
+Kg8 {-6.50/9 0.26s} 48. Qb8+ {+6.50/8 0.25s} Kh7 {-10.00/10 0.26s}
+49. Qxe5 {+9.00/8 0.26s} Kh8 {-10.00/9 0.26s} 50. Qb8+ {+10.00/8 0.25s}
+Kh7 {-11.00/10 0.26s} 51. Qb1+ {+10.00/9 0.25s} Kh8 {-11.00/9 0.26s}
+52. Qxg1 {+11.00/9 0.25s} Kh7 {-12.00/10 0.26s} 53. Qe1 {+12.00/10 0.25s}
+Kh8 {-299.90/10 0.26s} 54. Qe8+ {+299.91/10 0.25s} Kh7 {-299.92/10 0.25s}
+55. Kg2 {+299.93/10 0.25s} g6 {-299.94/9 0.25s} 56. hxg6+ {+299.95/9 0.26s}
+Kg7 {-299.96/8 0.25s, White wins by adjudication} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "53"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "0-1"]
+[ECO "E10"]
+[GameDuration "00:00:05"]
+[GameEndTime "2022-02-11T20:32:10.468 GMT"]
+[GameStartTime "2022-02-11T20:32:04.982 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "70"]
+[Termination "time forfeit"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Kg2 {book} Bf6 {book} 15. Qc2 {book} Bxd3 {book}
+16. Qxd3 {book} Qb7 {book} 17. Rfc1 {book} axb4 {book} 18. axb4 {book}
+Rxa1 {book} 19. Rxa1 {book} Ra8 {book} 20. Qb1 {book} h6 {book} 21. Ne5 {book}
+Bxe5 {book} 22. fxe5 {book} Rxa1 {book} 23. Qxa1 {book} bxc5 {book}
+24. bxc5 {book} Nf8 {book} 25. Qb1 {book} Qa6 {book} 26. Nd1 {book} Qc4 {book}
+27. Qa1 {book} Qd3 {book} 28. Ne3 {book} Ng6 {book} 29. h4 {book} Ne7 {book}
+30. Qa8+ {book} Kh7 {book} 31. Qa1 {0.00/7 0.25s} Kg6 {0.00/7 0.25s}
+32. Kg1 {0.00/7 0.25s} Kh7 {0.00/7 0.25s} 33. Kh1 {0.00/7 0.25s}
+Kg6 {0.00/7 0.25s} 34. Kg1 {0.00/7 0.25s} Kh7 {0.00/8 0.26s} 35. Kh1
+Kg6 {White loses on time} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "54"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "0-1"]
+[ECO "E10"]
+[GameDuration "00:00:16"]
+[GameEndTime "2022-02-11T20:32:27.343 GMT"]
+[GameStartTime "2022-02-11T20:32:10.469 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "126"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Bxa6 {book} Rxa6 {book} 15. Qe2 {book} Rfa8 {book}
+16. b5 {book} cxb5 {book} 17. Nxd5 {book} exd5 {book} 18. Qxe7 {book} Rc8 {book}
+19. Rfb1 {book} bxc5 {book} 20. Rxb5 {book} Re6 {book} 21. Qg5 {book} h6 {book}
+22. Qxd5 {book} Rd6 {book} 23. Qc4 {book} cxd4 {book} 24. Qxc7 {book}
+Rxc7 {book} 25. Rxa5 {book} d3 {book} 26. Rd1 {book} Kh7 {book} 27. Rb5 {book}
+Rc2 {book} 28. Rb4 {book} Nc5 {book} 29. Rd4 {book} Rxd4 {book} 30. Nxd4 {book}
+Ra2 {book} 31. Nb5 {+1.00/8 0.26s} Kg6 {-1.00/8 0.26s} 32. Kf1 {+1.00/7 0.25s}
+Kh5 {-1.00/8 0.26s} 33. Kg2 {+1.00/8 0.26s} Kg4 {-1.00/7 0.25s}
+34. Kg1 {+1.00/7 0.25s} Kh3 {-1.00/7 0.26s} 35. Nd6 {+1.00/7 0.25s}
+Na4 {0.00/7 0.26s} 36. Nf5 {0.00/8 0.26s} Nc3 {0.00/7 0.25s}
+37. Rf1 {0.00/8 0.26s} d2 {0.00/8 0.26s} 38. Ne3 {0.00/8 0.26s}
+Rxa3 {0.00/8 0.25s} 39. Kh1 {0.00/8 0.25s} Ra2 {0.00/8 0.26s}
+40. Kg1 {0.00/8 0.26s} Rb2 {+1.00/8 0.26s} 41. Ra1 {0.00/8 0.26s}
+Rb1+ {0.00/8 0.26s} 42. Rxb1 {0.00/9 0.25s} Nxb1 {0.00/8 0.26s}
+43. Nd1 {0.00/9 0.25s} Kg4 {0.00/10 0.25s} 44. Kf1 {0.00/10 0.25s}
+Kh3 {+1.00/10 0.25s} 45. Kg1 {0.00/11 0.26s} Kg4 {0.00/11 0.25s} 46. Kf1
+Kf3 {+1.00/11 0.25s} 47. f5 {-1.00/10 0.26s} Na3 {+1.00/11 0.25s}
+48. Nb2 {-1.00/10 0.26s} Nc4 {+1.00/10 0.26s} 49. Nd1 {-1.00/9 0.25s}
+Nd6 {+1.00/10 0.26s} 50. Nb2 {-2.00/10 0.25s} Nxf5 {+1.00/10 0.25s}
+51. Nd1 {-1.00/9 0.25s} Nd4 {+2.00/10 0.26s} 52. Nb2 {-2.00/10 0.26s}
+Ne6 {+2.00/10 0.26s} 53. h3 {-2.00/9 0.25s} Ng5 {+3.00/10 0.26s}
+54. h4 {-3.00/9 0.26s} Nh3 {+4.50/10 0.25s} 55. Nd1 {-4.50/9 0.25s}
+h5 {+5.50/11 0.27s} 56. g4 {-5.50/11 0.25s} hxg4 {+5.50/10 0.25s}
+57. h5 {-6.50/10 0.25s} f6 {+6.50/10 0.26s} 58. h6 {-7.50/10 0.26s}
+gxh6 {+15.50/10 0.25s} 59. Nb2 {-299.90/10 0.25s} Nxf2 {+299.91/10 0.26s}
+60. Nd1 {-299.92/9 0.25s} Nxd1 {+299.93/10 0.25s} 61. Kg1 {-299.94/10 0.25s}
+g3 {+299.95/9 0.26s} 62. Kh1 {-299.96/10 0.25s} Nb2 {+299.97/9 0.25s}
+63. Kg1 {-299.98/9 0.26s} d1=Q# {+299.99/9 0.26s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "55"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:32:29.400 GMT"]
+[GameStartTime "2022-02-11T20:32:27.344 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "39"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} c6 {book} 5. e3 {book} Nbd7 {book} 6. Qc2 {book} Bd6 {book}
+7. Bd3 {book} O-O {book} 8. O-O {book} dxc4 {book} 9. Bxc4 {book} b5 {book}
+10. Bd3 {book} Bb7 {book} 11. a3 {book} a6 {book} 12. b4 {book} a5 {book}
+13. Rb1 {book} axb4 {book} 14. axb4 {book} Qe7 {book} 15. e4 {book} e5 {book}
+16. Ne2 {book} Kh8 {0.00/3 0.25s} 17. Kh1 {0.00/3 0.25s} Kg8 {0.00/3 0.26s}
+18. Kg1 {0.00/3 0.25s} Kh8 {0.00/4 0.26s} 19. Kh1 {0.00/4 0.26s} Kg8
+20. Kg1 {0.00/4 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "56"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1-0"]
+[ECO "C88"]
+[GameDuration "00:00:15"]
+[GameEndTime "2022-02-11T20:32:44.965 GMT"]
+[GameStartTime "2022-02-11T20:32:29.401 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "121"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d6 {book}
+10. a3 {book} Na5 {book} 11. Ba2 {book} c5 {book} 12. Nbd2 {book} Nc6 {book}
+13. Nf1 {book} Bc8 {book} 14. c3 {book} Be6 {book} 15. Bxe6 {book} fxe6 {book}
+16. b4 {book} Qd7 {book} 17. Ng3 {book} Rfb8 {book} 18. d4 {book} exd4 {book}
+19. cxd4 {book} cxd4 {book} 20. Nxd4 {book} Nxd4 {book} 21. Qxd4 {book}
+Rc8 {book} 22. Bb2 {book} Rc2 {book} 23. Rad1 {book} Qa7 {book} 24. e5 {book}
+dxe5 {book} 25. Qxa7 {book} Rxa7 {book} 26. Bxe5 {book} Rd7 {book}
+27. Rxd7 {book} Nxd7 {book} 28. Bd4 {book} Kf7 {book} 29. Rd1 {book} Nf6 {book}
+30. Be5 {book} Ra2 {book} 31. Ra1 {0.00/6 0.25s} Rxa1+ {0.00/7 0.25s}
+32. Bxa1 {0.00/10 0.25s} Kg6 {0.00/8 0.25s} 33. Kh1 {0.00/8 0.25s}
+Kg5 {0.00/8 0.25s} 34. Kg1 {0.00/9 0.25s} Kh4 {0.00/8 0.25s}
+35. Ne2 {+1.00/9 0.25s} Kg5 {-1.00/8 0.25s} 36. Nd4 {+1.00/8 0.25s}
+Kh4 {-1.00/7 0.25s} 37. Nxe6 {+2.00/8 0.26s} Nd5 {-2.00/8 0.25s}
+38. Nxg7 {+2.00/8 0.26s} Kg5 {-2.00/8 0.25s} 39. Kh1 {+2.00/8 0.26s}
+Kh4 {-2.00/8 0.26s} 40. Kg1 {0.00/9 0.25s} Kg5 {0.00/9 0.26s} 41. Kf1
+Nf4 {-2.00/8 0.26s} 42. Ne8 {+2.00/8 0.26s} Nd5 {-2.00/7 0.26s}
+43. Kg1 {+2.00/8 0.26s} Kh4 {-2.00/8 0.26s} 44. Kh1 {+2.00/8 0.25s}
+h5 {-2.00/8 0.25s} 45. Kg1 {+2.00/9 0.26s} Kg5 {-2.00/8 0.26s}
+46. Kh1 {+2.00/8 0.25s} Kg6 {-2.00/8 0.26s} 47. Ng7 {+2.00/8 0.25s}
+Kg5 {-1.00/7 0.25s} 48. Kg1 {+2.00/8 0.25s} Kh6 {-2.00/8 0.26s}
+49. Kf1 {+2.00/8 0.26s} Kg5 {-2.00/8 0.25s} 50. Ke1 {+2.00/8 0.25s}
+Kh4 {-2.00/8 0.26s} 51. Kd1 {+2.00/8 0.26s} Kg5 {-2.00/8 0.25s}
+52. Ke2 {+2.00/8 0.26s} Kh4 {-2.00/7 0.25s} 53. Ke1 {+2.00/9 0.25s}
+Kg5 {-2.00/8 0.25s} 54. Kf1 {+2.00/8 0.25s} Kh4 {-2.00/8 0.26s}
+55. Ne6 {+2.00/9 0.25s} Nf6 {-2.00/7 0.25s} 56. Be5 {+5.50/8 0.25s}
+Ne4 {-2.00/7 0.25s} 57. Bf4 {+9.00/7 0.26s} Bc5 {-9.00/7 0.25s}
+58. Ng5 {+299.93/8 0.25s} Nd2+ {-299.94/7 0.25s} 59. Bxd2 {+299.95/8 0.25s}
+Bxf2 {-299.96/7 0.25s} 60. Kxf2 {+299.97/8 0.25s} a5 {-299.98/8 0.25s}
+61. Nf3# {+299.99/8 0.25s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "57"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:32:47.025 GMT"]
+[GameStartTime "2022-02-11T20:32:44.966 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "27"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Bb4 {book} 5. Qa4+ {book} Nc6 {book} 6. e3 {book} O-O {book}
+7. Qc2 {book} Re8 {book} 8. Bd2 {book} a6 {book} 9. a3 {book} Bd6 {book}
+10. O-O-O {book} Kh8 {0.00/4 0.26s} 11. Kb1 {0.00/4 0.26s} Kg8 {0.00/4 0.26s}
+12. Kc1 {0.00/4 0.25s} Kh8 13. Kb1 Kg8 14. Kc1 {Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "58"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1-0"]
+[ECO "C88"]
+[GameDuration "00:00:20"]
+[GameEndTime "2022-02-11T20:33:07.168 GMT"]
+[GameStartTime "2022-02-11T20:32:47.026 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "132"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d6 {book}
+10. a3 {book} Qd7 {book} 11. Nc3 {book} Nd8 {book} 12. d4 {book} exd4 {book}
+13. Nxd4 {book} Re8 {book} 14. Nf5 {book} Ne6 {book} 15. Bd5 {book} Nxd5 {book}
+16. exd5 {book} Nc5 {book} 17. Qg4 {book} Bf6 {book} 18. Ne4 {book} Rxe4 {book}
+19. Rxe4 {book} h5 {book} 20. Nh6+ {book} Kf8 {book} 21. Qxd7 {book} Nxd7 {book}
+22. Nf5 {book} Bxd5 {book} 23. Re1 {book} Nc5 {book} 24. Ne3 {book} Re8 {book}
+25. Bd2 {book} Be6 {book} 26. Rab1 {book} Ba2 {book} 27. Ra1 {book}
+Be6 {0.00/6 0.25s} 28. Reb1 {+1.00/6 0.25s} Ke7 {-1.00/6 0.26s}
+29. Kh1 {+1.00/6 0.25s} Kd7 {-1.00/6 0.25s} 30. Kh2 {+1.00/6 0.26s}
+Kc6 {-1.00/6 0.26s} 31. Kg1 {+1.00/6 0.26s} Na4 {-1.00/6 0.26s}
+32. Bc1 {+1.00/6 0.25s} Bd4 {-0.50/6 0.25s} 33. Kh1 {+0.50/6 0.26s}
+Bxe3 {-1.00/6 0.25s} 34. Bxe3 {+1.00/7 0.25s} Kd5 {-1.00/6 0.26s}
+35. Rd1+ {+1.00/6 0.26s} Ke4 {-1.00/8 0.25s} 36. Rd4+ {+1.00/6 0.25s}
+Kf5 {-1.00/7 0.26s} 37. Rb1 {+1.00/6 0.26s} Ke5 {-1.00/6 0.26s}
+38. Kg1 {+1.00/6 0.25s} Kf5 {-1.00/6 0.26s} 39. Kf1 {+1.00/6 0.26s}
+Ke5 {-1.00/6 0.25s} 40. Ke1 {+1.00/6 0.25s} Kf5 {-1.00/6 0.25s}
+41. Kd1 {+1.00/6 0.26s} Ke5 {-1.00/6 0.25s} 42. Kc1 {+1.00/6 0.25s}
+Bxh3 {-1.00/6 0.25s} 43. gxh3 {+3.50/7 0.25s} a5 {-3.50/6 0.27s}
+44. Kd1 {+3.50/7 0.25s} Kf5 {-3.50/6 0.25s} 45. Bd2 {+4.50/6 0.25s}
+Ke5 {-4.50/7 0.26s} 46. Rh4 {+4.50/7 0.25s} Rh8 {-4.50/7 0.26s}
+47. Ke1 {+5.50/7 0.25s} Ke6 {-4.50/7 0.25s} 48. Ke2 {+4.50/6 0.25s}
+Kf5 {-4.50/6 0.25s} 49. Rf4+ {+4.50/6 0.25s} Ke6 {-4.50/8 0.25s}
+50. Bxa5 {+4.50/6 0.26s} Rc8 {-4.50/6 0.25s} 51. Kf1 {+4.50/6 0.25s}
+f5 {-4.50/7 0.26s} 52. Kg1 {+4.50/7 0.25s} Ke5 {-4.50/7 0.26s}
+53. Rf3 {+4.50/7 0.25s} Ke6 {-4.50/6 0.25s} 54. Kh1 {+4.50/6 0.25s}
+Ke5 {-4.50/6 0.25s} 55. Rg1 {+5.50/7 0.26s} c6 {-5.50/7 0.26s}
+56. Rxg7 {+5.50/6 0.25s} Kf6 {-5.50/7 0.25s} 57. Rh7 {+6.50/7 0.25s}
+Kg6 {-6.50/7 0.25s} 58. Rd7 {+6.50/7 0.26s} Kf6 {-6.50/7 0.25s}
+59. Rxd6+ {+6.50/7 0.25s} Ke5 {-7.50/8 0.25s} 60. Rh6 {+7.50/7 0.25s}
+Ke4 {-7.50/7 0.25s} 61. Re3+ {+7.50/7 0.25s} Kd5 {-7.50/7 0.25s}
+62. Rxh5 {+7.50/7 0.25s} Rf8 {-7.50/7 0.25s} 63. Rf3 {+8.50/7 0.26s}
+Ke4 {-7.50/7 0.26s} 64. Rb3 {+7.50/8 0.26s} Kf4 {-7.50/7 0.25s}
+65. Bc7+ {+12.00/7 0.26s} Ke4 {-299.96/7 0.26s} 66. Rd3 {+299.97/6 0.25s}
+Nxb2 {-299.98/6 0.25s, White wins by adjudication} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "59"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:33:10.481 GMT"]
+[GameStartTime "2022-02-11T20:33:07.169 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "62"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. Re1 {book} Nd6 {book} 6. Nxe5 {book} Be7 {book}
+7. Bf1 {book} Nf5 {book} 8. Nf3 {book} O-O {book} 9. d4 {book} d5 {book}
+10. c3 {book} Re8 {book} 11. Bd3 {book} Bd6 {book} 12. Rxe8+ {book} Qxe8 {book}
+13. Nbd2 {book} Bd7 {book} 14. Nf1 {book} b6 {book} 15. Ne3 {book} Nxe3 {book}
+16. Bxe3 {book} f6 {book} 17. Qd2 {book} Bg4 {book} 18. Ne1 {book} Ne7 {book}
+19. Bf4 {book} Bxf4 {book} 20. Qxf4 {book} Qd7 {book} 21. Nc2 {book} Bf5 {book}
+22. Bxf5 {book} Nxf5 {book} 23. Qg4 {book} Rd8 {book} 24. Re1 {book} a5 {book}
+25. Ne3 {book} Re8 {0.00/6 0.25s} 26. Kh1 {0.00/6 0.25s} Kf7 {0.00/6 0.25s}
+27. Qh3 {+1.00/6 0.25s} Kg8 {0.00/6 0.25s} 28. Kg1 {0.00/6 0.25s}
+Kh8 {0.00/6 0.25s} 29. Kh1 {0.00/6 0.25s} Kg8 {0.00/6 0.26s}
+30. Kg1 {0.00/6 0.25s} Kh8 {0.00/7 0.25s} 31. Kh1 {0.00/6 0.25s}
+Kg8 {0.00/7 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "60"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1-0"]
+[ECO "C65"]
+[GameDuration "00:00:05"]
+[GameEndTime "2022-02-11T20:33:15.561 GMT"]
+[GameStartTime "2022-02-11T20:33:10.482 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "41"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. d3 {book} Bc5 {book} 5. Bxc6 {book} dxc6 {book} 6. Nbd2 {book} O-O {book}
+7. Nc4 {book} Nd7 {book} 8. O-O {book} Re8 {book} 9. a4 {book} a5 {book}
+10. b3 {book} Bf8 {book} 11. Kh1 {book} Kh8 {0.00/4 0.26s}
+12. Ng5 {+1.00/4 0.26s} Kg8 {0.00/5 0.25s} 13. Qh5 {+1.00/4 0.25s}
+Nf6 {-1.00/4 0.25s} 14. Qxf7+ {+1.00/3 0.25s} Kh8 {-1.00/4 0.25s}
+15. Nd2 {+1.00/3 0.25s} Re7 {-1.00/4 0.25s} 16. Qc4 {+1.00/4 0.25s}
+Qd4 {-1.00/4 0.25s} 17. Ba3 {+2.00/5 0.25s} Re8 {-2.00/5 0.25s}
+18. Nf7+ {+2.00/5 0.25s} Kg8 {-299.94/6 0.25s} 19. Nh6+ {+299.95/6 0.25s}
+Kh8 {-299.96/6 0.25s} 20. Qg8+ {+299.97/5 0.25s} Nxg8 {-299.98/7 0.26s}
+21. Nf7# {+299.99/6 0.25s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "61"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[GameDuration "00:00:28"]
+[GameEndTime "2022-02-11T20:33:44.484 GMT"]
+[GameStartTime "2022-02-11T20:33:15.562 GMT"]
+[Opening "Gruenfeld"]
+[PlyCount "164"]
+[TimeControl "0.25/move"]
+[Variation "Modern Exchange Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {book} d5 {book}
+4. cxd5 {book} Nxd5 {book} 5. e4 {book} Nxc3 {book} 6. bxc3 {book} Bg7 {book}
+7. Nf3 {book} c5 {book} 8. Rb1 {book} O-O {book} 9. Be2 {book} cxd4 {book}
+10. cxd4 {book} Qa5+ {book} 11. Bd2 {book} Qxa2 {book} 12. O-O {book} Bg4 {book}
+13. Rxb7 {book} Bxf3 {book} 14. Bxf3 {book} Bxd4 {book} 15. Bb4 {book}
+Rd8 {book} 16. Qc1 {book} Na6 {book} 17. Bxe7 {book} Rac8 {book} 18. Qg5 {book}
+Nc5 {book} 19. Bxc5 {book} Bxc5 {book} 20. Bg4 {book} Rd2 {book} 21. Rxf7 {book}
+Kxf7 {book} 22. Bxc8 {book} Bxf2+ {book} 23. Kh1 {book} Qc4 {book}
+24. Qf4+ {book} Kg7 {book} 25. Qe5+ {book} Kh6 {book} 26. Qf4+ {book}
+Kg7 {0.00/8 0.25s} 27. Rb1 {0.00/5 0.25s} Re2 {0.00/6 0.25s}
+28. Rf1 {+5.50/5 0.25s} Qxe4 {+1.00/5 0.26s} 29. Qxe4 {-1.00/6 0.25s}
+Rxe4 {+1.00/6 0.26s} 30. Rd1 {-1.00/7 0.25s} Kh6 {+1.00/7 0.25s}
+31. Rf1 {-1.00/7 0.25s} Re1 {+1.00/8 0.25s} 32. Rxe1 {-1.00/9 0.26s}
+Bxe1 {+1.00/8 0.26s} 33. Kg1 {-1.00/10 0.26s} Kh5 {+1.00/10 0.26s}
+34. Kh1 {-1.00/10 0.25s} Kh4 {+1.00/11 0.26s} 35. Kg1 {-1.00/11 0.26s}
+Kg5 {+1.00/11 0.26s} 36. Kh1 {-1.00/10 0.25s} Kf4 {+1.00/11 0.25s}
+37. Kg1 {-1.00/10 0.25s} Ke3 {+1.00/10 0.25s} 38. Kh1 {-1.00/10 0.26s}
+Kf2 {+1.00/10 0.26s} 39. Bh3 {-1.00/10 0.25s} Kf1 {+1.00/11 0.26s}
+40. Bg4 {-1.00/11 0.25s} Bf2 {+1.00/11 0.26s} 41. Bd1 {-1.00/10 0.25s}
+Ke1 {+1.00/11 0.26s} 42. Bc2 {-1.00/10 0.25s} Ke2 {+1.00/11 0.25s}
+43. Bb1 {-1.00/9 0.25s} Kd1 {+1.00/11 0.26s} 44. Ba2 {-1.00/10 0.25s}
+Ke1 {+1.00/10 0.26s} 45. Bb1 {-1.00/10 0.26s} Ke2 {+1.00/12 0.26s}
+46. Bc2 {-1.00/10 0.26s} Kd2 {+1.00/11 0.25s} 47. Bb1 {-1.00/10 0.26s}
+Kc1 {+1.00/11 0.25s} 48. Ba2 {-1.00/10 0.25s} Kd1 {+1.00/11 0.27s}
+49. Bb1 {-1.00/10 0.25s} Kd2 {+1.00/12 0.25s} 50. Ba2 {-1.00/10 0.25s}
+Kc1 {+1.00/11 0.25s} 51. Bb3 {-1.00/10 0.26s} Kb2 {+1.00/11 0.25s}
+52. Bd1 {-1.00/9 0.25s} Kb1 {+1.00/10 0.26s} 53. Be2 {-1.00/10 0.26s}
+Kc1 {+1.00/10 0.25s} 54. Bf1 {-1.00/10 0.26s} Kd1 {+1.00/11 0.25s}
+55. Bd3 {-1.00/10 0.25s} Be1 {+1.00/11 0.26s} 56. Kg1 {-1.00/10 0.25s}
+Kc1 {+1.00/10 0.25s} 57. Kh1 {-1.00/10 0.25s} Kd2 {+1.00/11 0.26s}
+58. Bf1 {-1.00/10 0.27s} Kd1 {+1.00/11 0.25s} 59. Kg1 {-1.00/11 0.26s}
+Kc1 {+1.00/11 0.25s} 60. Kh1 {-1.00/11 0.25s} Kb1 {+1.00/11 0.26s}
+61. Kg1 {-1.00/11 0.26s} Ka1 {+1.00/11 0.26s} 62. Kh1 {-1.00/11 0.25s}
+Kb2 {+1.00/11 0.26s} 63. Kg1 {-1.00/10 0.25s} Kb1 {+1.00/10 0.25s}
+64. Kh1 {-1.00/11 0.26s} Kc1 {0.00/12 0.26s} 65. Bd3 {0.00/11 0.26s}
+Kb2 {+1.00/12 0.25s} 66. Kg1 {-1.00/10 0.26s} Ka1 {+1.00/11 0.25s}
+67. Kh1 {-1.00/11 0.25s} Ka2 {+1.00/12 0.25s} 68. Kg1 {-1.00/11 0.25s}
+Kb3 {+1.00/11 0.26s} 69. Kh1 {-1.00/10 0.26s} Kc3 {+1.00/11 0.25s}
+70. Bf1 {-1.00/10 0.25s} Kd2 {+1.00/12 0.26s} 71. Kg1 {-1.00/11 0.26s}
+Kc2 {+1.00/12 0.26s} 72. Kh1 {-1.00/11 0.26s} Kc3 {+1.00/11 0.25s}
+73. Kg1 {-1.00/11 0.25s} Kb2 {0.00/12 0.25s} 74. Bd3 {0.00/11 0.25s} Ka2
+75. Kh1 {-1.00/11 0.25s} Kb3 {+1.00/12 0.26s} 76. Kg1 {-1.00/11 0.26s}
+Kc3 {+1.00/11 0.25s} 77. Bf1 {0.00/10 0.25s} Kb3 78. Bd3 {0.00/12 0.26s} Ka3
+79. Kh1 {-1.00/11 0.25s} Kb4 {+1.00/12 0.26s} 80. Kg1 {-1.00/10 0.26s}
+Ka4 {+1.00/11 0.25s} 81. Kh1 {-1.00/11 0.25s} Ka3 {+1.00/11 0.25s}
+82. Kg1 {-1.00/11 0.25s} Kb4 {+1.00/11 0.26s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "62"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:33:46.540 GMT"]
+[GameStartTime "2022-02-11T20:33:44.485 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "60"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. Re1 {book} Nd6 {book} 6. Nxe5 {book} Be7 {book}
+7. Bf1 {book} Nxe5 {book} 8. Rxe5 {book} O-O {book} 9. d4 {book} Bf6 {book}
+10. Re1 {book} Re8 {book} 11. c3 {book} Rxe1 {book} 12. Qxe1 {book} Ne8 {book}
+13. Bf4 {book} d5 {book} 14. Bd3 {book} g6 {book} 15. Nd2 {book} Ng7 {book}
+16. Nf3 {book} Bf5 {book} 17. Bxf5 {book} Nxf5 {book} 18. Qe2 {book} c6 {book}
+19. Re1 {book} Ng7 {book} 20. Be5 {book} Bxe5 {book} 21. Nxe5 {book} Qd6 {book}
+22. Qf3 {book} f6 {book} 23. Nd3 {book} Re8 {book} 24. Rxe8+ {book} Nxe8 {book}
+25. Qe3 {book} Kf7 {book} 26. Qh6 {book} Kg8 {book} 27. Kh1 {0.00/7 0.25s}
+Kh8 {0.00/7 0.26s} 28. Kg1 {0.00/7 0.25s} Kg8 {0.00/7 0.25s}
+29. Kh1 {0.00/8 0.26s} Kh8 {0.00/8 0.26s} 30. Kg1 {0.00/8 0.25s}
+Kg8 {0.00/7 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "63"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1-0"]
+[ECO "D86"]
+[GameDuration "00:00:17"]
+[GameEndTime "2022-02-11T20:34:03.908 GMT"]
+[GameStartTime "2022-02-11T20:33:46.541 GMT"]
+[Opening "Gruenfeld"]
+[PlyCount "92"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Exchange, Classical Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {book} d5 {book}
+4. cxd5 {book} Nxd5 {book} 5. e4 {book} Nxc3 {book} 6. bxc3 {book} Bg7 {book}
+7. Bc4 {book} c5 {book} 8. Ne2 {book} Nc6 {book} 9. Be3 {book} O-O {book}
+10. O-O {book} b6 {book} 11. Qd2 {book} Bb7 {book} 12. Rfd1 {book} e6 {book}
+13. dxc5 {+1.00/4 0.25s} Ne5 {-1.00/4 0.25s} 14. Bb3 {+1.00/5 0.26s}
+Ng4 {-1.00/4 0.25s} 15. Qxd8 {+1.00/5 0.25s} Rfxd8 {-1.00/5 0.26s}
+16. Rxd8+ {+1.00/5 0.25s} Rxd8 {-1.00/7 0.26s} 17. Bg5 {+1.00/5 0.25s}
+Rd3 {-1.00/5 0.25s} 18. h3 {+1.00/5 0.26s} Ne5 {-1.00/5 0.25s}
+19. Bc2 {+1.00/5 0.25s} Rd7 {-1.00/6 0.26s} 20. Be3 {+1.00/6 0.25s}
+Nd3 {-1.00/6 0.26s} 21. Bxd3 {+1.00/6 0.25s} Rxd3 {-1.00/6 0.25s}
+22. cxb6 {+1.00/6 0.26s} Bxc3 {-1.00/6 0.25s} 23. Nxc3 {+1.00/6 0.26s}
+Rxc3 {-1.00/7 0.26s} 24. Re1 {+1.00/7 0.25s} Rc2 {-1.00/7 0.25s}
+25. bxa7 {+1.00/7 0.26s} Rxa2 {-1.00/7 0.25s} 26. Bc5 {+1.00/7 0.25s}
+Ra5 {-1.00/7 0.25s} 27. Bb6 {+1.00/7 0.27s} Ra2 {-1.00/7 0.25s}
+28. Kh1 {+1.00/7 0.25s} Ra6 {-1.00/7 0.26s} 29. Bc5 {+1.00/7 0.25s}
+Ra5 {-1.00/7 0.25s} 30. Bd4 {+1.00/7 0.26s} Kf8 {-1.00/7 0.25s}
+31. Kh2 {+1.00/6 0.26s} Ra4 {-1.00/7 0.25s} 32. Rd1 {0.00/7 0.25s}
+Bxe4 {0.00/6 0.25s} 33. Kh1 {0.00/7 0.26s} Ke7 {0.00/7 0.25s}
+34. Kg1 {0.00/7 0.25s} Kd6 {0.00/7 0.25s} 35. Kh1 {0.00/7 0.26s}
+Kd5 {0.00/7 0.25s} 36. f3 {+2.50/7 0.26s} Bxf3 {-3.50/7 0.25s}
+37. gxf3 {+3.50/7 0.26s} Kc6 {-6.00/7 0.25s} 38. Rb1 {+6.00/7 0.25s}
+Ra2 {-6.00/7 0.25s} 39. Rb8 {+7.00/7 0.25s} Kd5 {-7.00/7 0.25s}
+40. Bg1 {+7.00/8 0.25s} Kc4 {-8.00/8 0.26s} 41. Rd8 {+8.00/7 0.25s}
+Kc3 {-7.00/7 0.26s} 42. Rh8 {+8.00/7 0.25s} Kd2 {-7.00/8 0.25s}
+43. a8=Q {+7.00/7 0.26s} Rxa8 {-7.00/6 0.26s} 44. Rxa8 {+8.00/8 0.26s}
+Ke2 {-8.00/8 0.26s} 45. Kg2 {+8.00/8 0.25s} e5 {-9.00/8 0.26s}
+46. Ra7 {+9.00/7 0.25s} Ke1 {-9.00/8 0.25s, White wins by adjudication} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "64"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:01"]
+[GameEndTime "2022-02-11T20:34:05.199 GMT"]
+[GameStartTime "2022-02-11T20:34:03.909 GMT"]
+[Opening "Sicilian"]
+[PlyCount "65"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} Ng4 {book}
+7. Bg5 {book} h6 {book} 8. Bh4 {book} g5 {book} 9. Bg3 {book} Bg7 {book}
+10. h3 {book} Ne5 {book} 11. Nf5 {book} Bxf5 {book} 12. exf5 {book} Nbc6 {book}
+13. Nd5 {book} e6 {book} 14. fxe6 {book} fxe6 {book} 15. Ne3 {book} Qa5+ {book}
+16. c3 {book} Nf3+ {book} 17. Qxf3 {book} Bxc3+ {book} 18. Kd1 {book}
+Qa4+ {book} 19. Nc2 {book} Bxb2 {book} 20. Rc1 {book} Rc8 {book} 21. Bd3 {book}
+Rf8 {book} 22. Qg4 {book} Nd4 {book} 23. Re1 {book} Qxa2 {book} 24. Re4 {book}
+Bxc1 {book} 25. Rxd4 {book} Bf4 {book} 26. Bxf4 {book} Rxf4 {book}
+27. Rxf4 {book} gxf4 {book} 28. Qg8+ {book} Kd7 {book} 29. Qf7+ {book}
+Kd8 {book} 30. Qf8+ {book} Kd7 {book} 31. Qf7+ {0.00/7 0.26s}
+Kd8 {0.00/10 0.25s} 32. Qf8+ {0.00/6 0.25s} Kd7 {0.00/9 0.25s}
+33. Qf7+ {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "65"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:34:08.781 GMT"]
+[GameStartTime "2022-02-11T20:34:05.200 GMT"]
+[Opening "Sicilian"]
+[PlyCount "74"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. f3 {book} e5 {book}
+7. Nb3 {book} Be6 {book} 8. Be3 {book} h5 {book} 9. Nd5 {book} Bxd5 {book}
+10. exd5 {book} Nbd7 {book} 11. Qd2 {book} g6 {book} 12. Be2 {book} Bg7 {book}
+13. O-O {book} b6 {book} 14. c4 {book} O-O {book} 15. Rae1 {book} Rc8 {book}
+16. h3 {book} Nh7 {book} 17. Na1 {book} a5 {book} 18. Nc2 {book} Bf6 {book}
+19. Na3 {book} Bh4 {book} 20. Rb1 {book} f5 {book} 21. Nb5 {book} f4 {book}
+22. Bf2 {book} Bxf2+ {book} 23. Rxf2 {book} Nc5 {book} 24. Qc2 {book} Qf6 {book}
+25. b3 {book} Ng5 {book} 26. Bd3 {book} Kg7 {book} 27. a3 {book} Nf7 {book}
+28. b4 {book} Nxd3 {book} 29. Qxd3 {book} Qf5 {book} 30. Qxf5 {book} gxf5 {book}
+31. Rc1 {0.00/7 0.26s} Kh6 {0.00/7 0.25s} 32. Kh1 {0.00/7 0.25s}
+Kg5 {0.00/7 0.25s} 33. Kg1 {0.00/7 0.25s} Kh4 {0.00/7 0.26s}
+34. Kh1 {0.00/7 0.25s} Kg3 {0.00/8 0.26s} 35. Kg1 {0.00/7 0.25s}
+Kh4 {0.00/7 0.25s} 36. Kh1 {0.00/8 0.25s} Kg3 37. Kg1 {0.00/8 0.25s}
+Kh4 {0.00/8 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "66"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1-0"]
+[ECO "C89"]
+[GameDuration "00:00:07"]
+[GameEndTime "2022-02-11T20:34:15.954 GMT"]
+[GameStartTime "2022-02-11T20:34:08.782 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "88"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Marshall counter-attack, 11...c6"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. c3 {book} d5 {book} 9. exd5 {book} Nxd5 {book}
+10. Nxe5 {book} Nxe5 {book} 11. Rxe5 {book} c6 {book} 12. d3 {book} Bd6 {book}
+13. Re1 {book} Bf5 {book} 14. Qf3 {book} Qh4 {book} 15. g3 {book} Qh3 {book}
+16. Be3 {book} Bxd3 {book} 17. Nd2 {book} Qf5 {book} 18. Bd4 {book} Rfe8 {book}
+19. a4 {book} h6 {book} 20. Kg2 {book} Qxf3+ {book} 21. Nxf3 {book} Rac8 {book}
+22. axb5 {book} axb5 {book} 23. Kg1 {book} Bf5 {book} 24. Ra6 {book}
+Rxe1+ {book} 25. Nxe1 {book} Be6 {book} 26. Nd3 {book} Bf8 {book} 27. Bc5 {book}
+Bf5 {book} 28. Bxf8 {book} Bxd3 {book} 29. Bc5 {book} Re8 {book} 30. Kg2 {book}
+Re2 {book} 31. Rxc6 {0.00/6 0.25s} Be4+ {0.00/6 0.25s} 32. Kf1 {0.00/9 0.26s}
+Rxb2 {0.00/7 0.25s} 33. Rc8+ {0.00/6 0.25s} Kh7 {0.00/9 0.26s}
+34. Bxd5 {0.00/6 0.26s} Kg6 {0.00/7 0.25s} 35. Bxe4+ {+8.00/7 0.25s}
+Kh5 {-8.00/7 0.26s} 36. Rc7 {+8.00/7 0.26s} Kg4 {-8.00/6 0.25s}
+37. Kg1 {+9.00/7 0.25s} Re2 {-8.00/6 0.26s} 38. h3+ {+13.50/7 0.26s}
+Kh5 {-13.50/7 0.26s} 39. Bf3+ {+13.50/7 0.25s} Kg5 {-14.50/8 0.25s}
+40. Bxe2 {+14.50/7 0.25s} Kf5 {-14.50/7 0.26s} 41. Rxf7+ {+15.50/7 0.25s}
+Kg6 {-15.50/7 0.26s} 42. Bh5+ {+299.93/7 0.25s} Kxh5 {-299.94/7 0.25s}
+43. Rxg7 {+299.95/8 0.25s} b4 {-299.96/8 0.25s} 44. Be7 {+299.97/8 0.25s}
+bxc3 {-299.98/8 0.25s, White wins by adjudication} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "67"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1-0"]
+[ECO "D97"]
+[GameDuration "00:00:15"]
+[GameEndTime "2022-02-11T20:34:31.257 GMT"]
+[GameStartTime "2022-02-11T20:34:15.955 GMT"]
+[Opening "Gruenfeld"]
+[PlyCount "84"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Russian, Alekhine (Hungarian) Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {book} d5 {book}
+4. Nf3 {book} Bg7 {book} 5. Qb3 {book} dxc4 {book} 6. Qxc4 {book} O-O {book}
+7. e4 {book} a6 {book} 8. e5 {book} b5 {book} 9. Qb3 {book} Nfd7 {book}
+10. e6 {book} fxe6 {book} 11. Be3 {book} Nf6 {book} 12. a4 {book}
+bxa4 {+1.00/4 0.25s} 13. Rxa4 {book} Kh8 {+1.00/4 0.25s} 14. Kd1 {-1.00/3 0.26s}
+Kg8 {+1.00/3 0.25s} 15. Bc4 {0.00/4 0.25s} Kf7 {0.00/4 0.25s}
+16. Ng5+ {0.00/4 0.26s} Ke8 {0.00/6 0.26s} 17. Nxe6 {0.00/4 0.26s}
+Bxe6 {0.00/5 0.25s} 18. Bxe6 {0.00/5 0.26s} Ra7 {0.00/4 0.25s}
+19. d5 {+1.00/5 0.26s} Ra8 {-1.00/5 0.25s} 20. Qb7 {+1.00/4 0.25s}
+Nbd7 {-1.00/5 0.25s} 21. Nb5 {+1.00/5 0.25s} Rc8 {-1.00/5 0.25s}
+22. Rxa6 {+1.00/5 0.26s} Ne4 {-1.00/4 0.25s} 23. Ke1 {+3.50/5 0.25s}
+Rh8 {-1.00/4 0.25s} 24. Ra8 {+3.50/5 0.25s} Rxa8 {-2.00/5 0.25s}
+25. Nxc7+ {+2.00/5 0.25s} Kf8 {-1.00/7 0.26s} 26. Qxa8 {+1.00/6 0.26s}
+Nb8 {-1.00/5 0.25s} 27. Nb5 {+1.00/6 0.26s} Bxb2 {-1.00/5 0.25s}
+28. Kf1 {+1.00/5 0.26s} Kg7 {-1.00/5 0.25s} 29. Kg1 {+1.00/5 0.25s}
+Kf6 {-1.00/5 0.26s} 30. Qa4 {+2.00/5 0.25s} Qe8 {-2.00/5 0.25s}
+31. Qxe4 {+4.50/6 0.26s} Kg7 {-4.50/5 0.25s} 32. Nd4 {+4.50/6 0.25s}
+Nd7 {-4.50/5 0.25s} 33. Bxd7 {+7.00/6 0.25s} Qxd7 {-7.00/6 0.25s}
+34. Qe5+ {+7.00/6 0.26s} Kg8 {-8.00/7 0.26s} 35. Qb8+ {+7.00/6 0.26s}
+Kg7 {-10.00/8 0.26s} 36. Qxb2 {+8.00/6 0.25s} Kf7 {-9.00/6 0.25s}
+37. Nf3 {+8.00/6 0.26s} Qxd5 {-8.00/6 0.25s} 38. Ng5+ {+8.00/6 0.26s}
+Kg8 {-9.00/8 0.26s} 39. Bd4 {+9.00/6 0.25s} Qxg5 {-9.00/6 0.26s}
+40. Bxh8 {+9.00/7 0.25s} Qh6 {-9.00/7 0.25s} 41. Kf1 {+9.00/7 0.26s}
+Kf7 {-9.00/7 0.25s} 42. Ke1 {+9.00/7 0.26s}
+Ke6 {-9.00/7 0.25s, White wins by adjudication} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "68"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[GameDuration "00:01:10"]
+[GameEndTime "2022-02-11T20:35:41.595 GMT"]
+[GameStartTime "2022-02-11T20:34:31.257 GMT"]
+[Opening "Sicilian"]
+[PlyCount "334"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} e6 {book}
+7. g4 {book} h6 {book} 8. Bg2 {book} Nc6 {book} 9. h3 {book} Be7 {book}
+10. f4 {book} Nd7 {book} 11. O-O {book} O-O {book} 12. Nf3 {book} b5 {book}
+13. Ne2 {book} Bb7 {book} 14. Ng3 {book} Rc8 {book} 15. c3 {book} Na5 {book}
+16. Bf2 {book} Nc4 {book} 17. Qe2 {book} e5 {book} 18. f5 {book} d5 {book}
+19. exd5 {book} Bxd5 {book} 20. Rad1 {book} Bxf3 {book} 21. Bxf3 {book}
+Qc7 {book} 22. Ne4 {book} Nf6 {book} 23. h4 {book} Nxe4 {book} 24. Bxe4 {book}
+Rfd8 {book} 25. Kg2 {book} Rxd1 {book} 26. Rxd1 {book} Rd8 {book} 27. Bd5 {book}
+Bxh4 {book} 28. Bxc4 {book} Rxd1 {book} 29. Qxd1 {book} Bxf2 {book}
+30. Bb3 {book} Bh4 {book} 31. Kh1 {-1.00/6 0.25s} Kf8 {+1.00/6 0.26s}
+32. Kg1 {-1.00/7 0.25s} Ke7 {+1.00/6 0.25s} 33. Kh1 {-1.00/7 0.26s}
+Kf6 {+1.00/6 0.25s} 34. Kg1 {-1.00/7 0.26s} Kg5 {+1.00/6 0.25s}
+35. Kh1 {-1.00/7 0.26s} Kf4 {+1.00/6 0.26s} 36. Kg1 {-1.00/7 0.25s}
+Kg3 {+1.00/6 0.26s} 37. Kh1 {-1.00/6 0.25s} Kf2 {+1.00/6 0.25s}
+38. Qd2+ {0.00/7 0.25s} Kg3 {-0.50/8 0.26s} 39. Qd1 {0.00/7 0.26s}
+Kh3 {+1.00/7 0.26s} 40. Qf3+ {-1.00/6 0.25s} Bg3 {0.00/8 0.26s}
+41. Kg1 {-1.00/7 0.25s} Qc5+ {+1.00/6 0.25s} 42. Kh1 {-1.00/8 0.25s}
+Qf2 {+1.00/7 0.26s} 43. Qxf2 {-1.00/6 0.25s} Bxf2 {+1.00/7 0.25s}
+44. Bd1 {-1.00/9 0.25s} Kg3 {+1.00/8 0.25s} 45. Be2 {-1.00/9 0.26s}
+Kh4 {+1.00/9 0.26s} 46. Kh2 {-1.00/8 0.25s} Kg5 {+1.00/8 0.26s}
+47. Kh1 {-1.00/9 0.25s} Kf4 {+1.00/9 0.25s} 48. Kh2 {-1.00/9 0.26s}
+Ke3 {+1.00/9 0.26s} 49. Bf1 {-1.00/8 0.25s} Kd2 {+1.00/8 0.26s}
+50. Kg2 {-1.00/8 0.26s} Ke1 {+1.00/8 0.25s} 51. Bd3 {-1.00/9 0.25s}
+Be3 {+1.00/8 0.26s} 52. Kh1 {-1.00/8 0.26s} Kd1 {+1.00/8 0.25s}
+53. Be4 {-1.00/8 0.26s} Kc1 {+1.00/8 0.25s} 54. Bb7 {-1.00/8 0.26s}
+Kb1 {+1.00/8 0.26s} 55. Bxa6 {-1.00/8 0.25s} Kxb2 {+1.00/9 0.25s}
+56. Kh2 {-1.00/9 0.25s} Kb1 {+1.00/9 0.25s} 57. Kh1 {-1.00/9 0.25s}
+Ka1 {+1.00/10 0.25s} 58. Kh2 {-1.00/10 0.26s} Kb2 {+1.00/10 0.25s}
+59. Kh1 {-1.00/10 0.26s} Kc1 {+1.00/10 0.26s} 60. Bxb5 {-1.00/9 0.25s}
+Kb2 {+1.00/8 0.25s} 61. Kh2 {-1.00/9 0.25s} Kxa2 {+1.00/9 0.25s}
+62. Kh1 {-1.00/9 0.25s} Kb1 {+1.00/10 0.26s} 63. Kh2 {-1.00/10 0.26s}
+Kc1 {+1.00/10 0.25s} 64. Kh1 {-1.00/10 0.25s} Kd1 {+1.00/10 0.25s}
+65. Kh2 {-1.00/10 0.26s} Ke1 {+1.00/10 0.25s} 66. Kh1 {-1.00/10 0.26s}
+Kf2 {+1.00/10 0.26s} 67. Kh2 {-1.00/9 0.25s} Kf3 {+1.00/10 0.25s}
+68. Kh3 {-1.00/9 0.25s} Kf4 {+1.00/9 0.26s} 69. Kh4 {-1.00/9 0.25s}
+Ke4 {+1.00/10 0.25s} 70. Kh3 {-1.00/9 0.26s} Kf3 {+1.00/10 0.25s}
+71. Kh4 {-1.00/9 0.26s} Kg2 {+1.00/10 0.26s} 72. Kh5 {-1.00/9 0.25s}
+Kh3 {+1.00/9 0.25s} 73. Bf1+ {-1.00/10 0.25s} Kh2 {+1.00/11 0.25s}
+74. Be2 {-1.00/10 0.27s} Kg1 {+1.00/10 0.25s} 75. Kh4 {-1.00/10 0.27s}
+Kh1 {+1.00/10 0.25s} 76. Kh3 {-1.00/10 0.25s} Bc1 {+1.00/10 0.26s}
+77. Kg3 {-1.00/11 0.25s} Kg1 {+1.00/10 0.26s} 78. Kh3 {-1.00/10 0.26s}
+Kf2 {+1.00/10 0.25s} 79. Bd3 {-1.00/9 0.25s} Ke1 {+1.00/10 0.26s}
+80. Bb1 {-1.00/9 0.26s} Kf1 {+1.00/10 0.25s} 81. Kh2 {-1.00/10 0.25s}
+Kf2 {+1.00/10 0.26s} 82. Kh3 {-1.00/10 0.26s} Kg1 {+1.00/10 0.26s}
+83. Kg3 {-1.00/11 0.25s} Bd2 {+1.00/10 0.26s} 84. Ba2 {-1.00/10 0.25s}
+Kf1 {+1.00/10 0.26s} 85. Kh2 {-1.00/10 0.26s} Ke1 {+1.00/10 0.26s}
+86. Kh1 {-1.00/10 0.26s} Kd1 {+1.00/10 0.25s} 87. Kg1 {-1.00/10 0.25s}
+Kc1 {+1.00/10 0.25s} 88. Bb3 {-1.00/10 0.26s} Kb1 {+1.00/10 0.26s}
+89. Kh1 {-1.00/10 0.26s} Ka1 {+1.00/10 0.25s} 90. Kg1 {-1.00/11 0.25s}
+Kb2 {+1.00/10 0.26s} 91. Bd5 {-1.00/10 0.26s} Kb1 {+1.00/9 0.25s}
+92. Kh1 {-1.00/10 0.26s} Kc1 {+1.00/10 0.25s} 93. Kg1 {-1.00/10 0.26s}
+Kc2 {+1.00/10 0.27s} 94. Kh1 {-1.00/10 0.25s} Kd3 {+1.00/10 0.26s}
+95. Kg1 {-1.00/9 0.25s} e4 {+2.00/9 0.27s} 96. Kg2 {-2.00/9 0.25s}
+e3 {+2.00/8 0.25s} 97. Kf3 {-2.00/8 0.26s} Bxc3 {+2.00/9 0.26s}
+98. Bc6 {-2.00/8 0.25s} Kd2 {+2.00/8 0.26s} 99. Bb5 {-2.00/8 0.26s}
+Ba1 {+2.00/9 0.26s} 100. Bf1 {-2.00/9 0.25s} Bb2 {+2.00/9 0.25s}
+101. Be2 {-2.00/9 0.25s} Bc1 {+2.00/10 0.25s} 102. Bf1 {-2.00/10 0.26s}
+Ke1 {+2.00/10 0.26s} 103. Be2 {-2.00/10 0.26s} Bd2 {+2.00/11 0.26s}
+104. Bd3 {-2.00/10 0.25s} Kd1 {+2.00/10 0.25s} 105. Bf1 {-2.00/10 0.26s}
+Kc1 {+2.00/10 0.26s} 106. Kg2 {-2.00/9 0.26s} Kb1 {+2.00/9 0.26s}
+107. Kh1 {-2.00/10 0.25s} Ka1 {+2.00/10 0.25s} 108. Kg1 {-2.00/10 0.26s}
+Kb2 {+2.00/10 0.27s} 109. Kh1 {-2.00/10 0.26s} Kb1 {+2.00/10 0.26s}
+110. Kg1 {-2.00/10 0.26s} Ka1 {+2.00/11 0.27s} 111. Kh1 {-2.00/10 0.26s}
+Kb2 {+2.00/11 0.27s} 112. Kg1 {-2.00/10 0.26s} Kc2 {+2.00/11 0.26s}
+113. Kg2 {-2.00/10 0.26s} Kc1 {+2.00/10 0.26s} 114. Kg3 {-2.00/10 0.26s}
+Kb1 {+2.00/10 0.26s} 115. Kh2 {-2.00/10 0.25s} Ka2 {+2.00/11 0.26s}
+116. Bc4+ {-2.00/10 0.25s} Ka3 {+2.00/11 0.25s} 117. Kh1 {-2.00/10 0.26s}
+f6 {+2.00/10 0.26s} 118. Kg1 {-2.00/10 0.26s} Kb2 {+2.00/9 0.26s}
+119. Kh1 {-2.00/10 0.26s} Kc1 {+2.00/10 0.26s} 120. Kg1 {-2.00/10 0.26s}
+Kd1 {+2.00/10 0.25s} 121. Kf1 {-2.00/10 0.26s} Kc2 {+2.00/11 0.25s}
+122. Kg1 {-2.00/10 0.26s} Kc1 {+2.00/10 0.26s} 123. Kf1 {-2.00/10 0.25s}
+Kb1 {+2.00/11 0.26s} 124. Kg1 {-2.00/11 0.26s} Ka1 {+2.00/11 0.26s}
+125. Kh1 {-2.00/10 0.26s} Kb2 {+2.00/12 0.26s} 126. Kg1 {-2.00/10 0.25s}
+Kb1 {+2.00/9 0.26s} 127. Kh1 {-2.00/10 0.25s} Ka1 {+2.00/12 0.25s}
+128. Kg1 {-2.00/11 0.25s} Be1 {+2.00/10 0.26s} 129. Kh1 {-2.00/10 0.26s}
+Kb1 {+2.00/11 0.26s} 130. Kg1 {-2.00/10 0.26s} Kc1 {+2.00/10 0.26s}
+131. Kh1 {-2.00/10 0.25s} Kd1 {+2.00/11 0.25s} 132. Kg2 {-2.00/10 0.25s}
+Kd2 {+2.00/10 0.25s} 133. Kf1 {-2.00/10 0.25s} Kd1 {+2.00/11 0.25s}
+134. Kg2 {0.00/11 0.25s} Kc2 {+2.00/11 0.26s} 135. Kh1 {-2.00/9 0.26s}
+Kc1 {+2.00/11 0.27s} 136. Kg1 {-2.00/11 0.26s} Kb1 {+2.00/11 0.25s}
+137. Kh1 {-2.00/10 0.25s} Ka1 {+2.00/12 0.26s} 138. Kg1 {-2.00/11 0.25s}
+Kb2 {+2.00/10 0.26s} 139. Kh1 {-2.00/11 0.25s} Kc2 {+2.00/11 0.26s}
+140. Kg1 {-2.00/11 0.26s} Kc3 {+2.00/10 0.26s} 141. Be2 {-2.00/10 0.25s}
+Kd2 {+2.00/11 0.25s} 142. Kf1 {-2.00/11 0.26s} Bf2 {+2.00/11 0.25s}
+143. Bf3 {-2.00/11 0.25s} Kc1 {+2.00/11 0.25s} 144. Kg2 {-2.00/11 0.25s}
+Kb1 {+2.00/11 0.25s} 145. Kh1 {-2.00/11 0.25s} Ka1 {+2.00/11 0.26s}
+146. Kh2 {-2.00/10 0.26s} Kb2 {+2.00/10 0.26s} 147. Kh1 {-2.00/10 0.26s}
+Kb1 {+2.00/11 0.25s} 148. Kh2 {-2.00/10 0.25s} Ka1 {+2.00/10 0.26s}
+149. Kh1 {-2.00/10 0.26s} Kb2 {+2.00/12 0.25s} 150. Kh2 {-2.00/10 0.26s}
+Kc2 {+2.00/10 0.26s} 151. Kg2 {-2.00/10 0.25s} Kc1 {+2.00/11 0.26s}
+152. Kf1 {-2.00/11 0.25s} Kb1 {+2.00/11 0.25s} 153. Kg2 {-2.00/11 0.26s}
+Kc2 {+2.00/12 0.27s} 154. Kf1 {-2.00/11 0.25s} Kd2 {+2.00/11 0.26s}
+155. Be2 {-2.00/10 0.25s} Kc3 {+2.00/12 0.26s} 156. Kg2 {-2.00/11 0.26s}
+Kb2 {+2.00/11 0.27s} 157. Kh1 {-2.00/12 0.25s} Kc1 {+2.00/11 0.26s}
+158. Kg2 {-2.00/11 0.26s} Be1 {+2.00/12 0.25s} 159. Kg1 {-2.00/10 0.25s}
+Kb2 {+2.00/11 0.25s} 160. Kh1 {-2.00/10 0.25s} Ka2 {+2.00/12 0.26s}
+161. Kg1 {-2.00/11 0.25s} Kb3 {+2.00/11 0.26s} 162. Kh1 {-2.00/11 0.25s}
+Ka3 {+2.00/12 0.25s} 163. Kg1 {-2.00/12 0.25s} Ka2 {+2.00/11 0.26s}
+164. Bc4+ {0.00/12 0.26s} Kb1 {0.00/17 0.25s} 165. Kh1 Kb2
+166. Be2 {0.00/11 0.25s} Kb3 {+2.00/11 0.25s} 167. Kg1 {-2.00/12 0.25s}
+Kc3 {+2.00/11 0.26s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "69"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:35:44.178 GMT"]
+[GameStartTime "2022-02-11T20:35:41.596 GMT"]
+[Opening "QGD Slav"]
+[PlyCount "70"]
+[TimeControl "0.25/move"]
+[Variation "Dutch Variation"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. Nf3 {book} Nf6 {book}
+4. Nc3 {book} dxc4 {book} 5. a4 {book} Bf5 {book} 6. e3 {book} e6 {book}
+7. Bxc4 {book} Bb4 {book} 8. O-O {book} Nbd7 {book} 9. Qe2 {book} O-O {book}
+10. e4 {book} Bg6 {book} 11. Bd3 {book} Bh5 {book} 12. e5 {book} Nd5 {book}
+13. Nxd5 {book} cxd5 {book} 14. Qe3 {book} Re8 {book} 15. Ng5 {book} Bg6 {book}
+16. Bxg6 {book} fxg6 {book} 17. Qh3 {book} Nf8 {book} 18. Qb3 {book} Qb6 {book}
+19. Be3 {book} Be7 {book} 20. Qxb6 {book} axb6 {book} 21. Nh3 {book} Rec8 {book}
+22. Nf4 {book} g5 {book} 23. Nh3 {book} h6 {book} 24. f4 {book} gxf4 {book}
+25. Nxf4 {book} Bg5 {book} 26. Ra3 {book} Bxf4 {book} 27. Rxf4 {book} Rc2 {book}
+28. Rf2 {book} Rac8 {book} 29. Rb3 {book} Nd7 {book} 30. Rb5 {book} h5 {book}
+31. Kf1 {0.00/7 0.25s} Kh7 {0.00/7 0.25s} 32. Kg1 {0.00/7 0.25s}
+Kg6 {0.00/7 0.25s} 33. Kf1 {0.00/7 0.26s} Kh7 {0.00/7 0.25s} 34. Kg1
+Kg6 {0.00/8 0.26s} 35. Kf1 Kh7 {0.00/8 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "70"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:35:46.218 GMT"]
+[GameStartTime "2022-02-11T20:35:44.179 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "37"]
+[TimeControl "0.25/move"]
+[Variation "Closed defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. d3 {book} b5 {book}
+7. Bb3 {book} d6 {book} 8. a3 {book} O-O {book} 9. Nc3 {book} Na5 {book}
+10. Ba2 {book} Be6 {book} 11. b4 {book} Bxa2 {book} 12. Nxa2 {book} Nb7 {book}
+13. c4 {book} bxc4 {book} 14. dxc4 {book} a5 {book} 15. Qc2 {book}
+Kh8 {0.00/5 0.25s} 16. Kh1 {0.00/5 0.25s} Kg8 {0.00/5 0.25s}
+17. Kg1 {0.00/5 0.25s} Kh8 {0.00/6 0.26s} 18. Kh1 {0.00/6 0.25s}
+Kg8 {0.00/6 0.26s} 19. Kg1 {0.00/6 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "71"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:35:49.027 GMT"]
+[GameStartTime "2022-02-11T20:35:46.219 GMT"]
+[Opening "Queen's Indian"]
+[PlyCount "71"]
+[TimeControl "0.25/move"]
+[Variation "Nimzovich Variation (exaggerated Fianchetto)"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} b6 {book}
+4. g3 {book} Ba6 {book} 5. b3 {book} Bb4+ {book} 6. Bd2 {book} Be7 {book}
+7. Bg2 {book} c6 {book} 8. Bc3 {book} d5 {book} 9. Ne5 {book} Nfd7 {book}
+10. Nxd7 {book} Nxd7 {book} 11. Nd2 {book} O-O {book} 12. O-O {book} Rc8 {book}
+13. e4 {book} c5 {book} 14. exd5 {book} exd5 {book} 15. dxc5 {book} dxc4 {book}
+16. c6 {book} cxb3 {book} 17. Re1 {book} b2 {book} 18. Bxb2 {book} Nc5 {book}
+19. Nc4 {book} Bxc4 {book} 20. Qg4 {book} Bg5 {book} 21. Qxc4 {book} Nd3 {book}
+22. Be5 {book} Nxe1 {book} 23. Rxe1 {book} Bf6 {book} 24. Bxf6 {book}
+Qxf6 {book} 25. c7 {book} Qd6 {book} 26. Rc1 {book} b5 {book} 27. Qc2 {book}
+g6 {book} 28. Bb7 {book} b4 {book} 29. h4 {book} h5 {book} 30. Kf1 {book}
+a5 {book} 31. Kg2 Kh7 {0.00/6 0.25s} 32. Kh1 {0.00/6 0.25s} Kh6 {0.00/6 0.25s}
+33. Kg1 {0.00/6 0.26s} Kh7 {0.00/6 0.25s} 34. Kh1 {0.00/6 0.25s}
+Kh6 {0.00/7 0.26s} 35. Kg1 Kh7 {0.00/7 0.26s}
+36. Kh1 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "72"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:35:51.581 GMT"]
+[GameStartTime "2022-02-11T20:35:49.028 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "70"]
+[TimeControl "0.25/move"]
+[Variation "Closed"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} d6 {book} 8. c3 {book} O-O {book} 9. h3 {book} Bb7 {book}
+10. d4 {book} Re8 {book} 11. Nbd2 {book} Bf8 {book} 12. a3 {book} h6 {book}
+13. Bc2 {book} Nb8 {book} 14. b3 {book} Nbd7 {book} 15. Bb2 {book} g6 {book}
+16. a4 {book} c6 {book} 17. Bd3 {book} Nh5 {book} 18. g3 {book} Bg7 {book}
+19. Qc2 {book} Qb6 {book} 20. Bf1 {book} Rac8 {book} 21. Bg2 {book} a5 {book}
+22. Nf1 {book} bxa4 {book} 23. bxa4 {book} exd4 {book} 24. Nxd4 {book}
+Ne5 {book} 25. Ne3 {book} Ba6 {book} 26. Ba3 {book} Nc4 {book} 27. Nxc4 {book}
+Bxc4 {book} 28. Rab1 {book} Qa6 {book} 29. Red1 {book} d5 {book} 30. exd5 {book}
+cxd5 {book} 31. Kh1 {0.00/4 0.25s} Kh7 {0.00/5 0.25s} 32. Kg1 {0.00/4 0.25s}
+Kh8 {0.00/5 0.25s} 33. Kh1 {0.00/4 0.25s} Kh7 {0.00/5 0.25s}
+34. Kg1 {0.00/5 0.26s} Kh8 35. Kh1 {0.00/5 0.25s}
+Kh7 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "73"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1-0"]
+[ECO "E10"]
+[GameDuration "00:00:17"]
+[GameEndTime "2022-02-11T20:36:09.487 GMT"]
+[GameStartTime "2022-02-11T20:35:51.582 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "130"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Bxa6 {book} Rxa6 {book} 15. Qe2 {book} Rfa8 {book}
+16. b5 {book} cxb5 {book} 17. c6 {book} Qxc6 {book} 18. Nxb5 {book} Rc8 {book}
+19. Rac1 {book} Qxc1 {book} 20. Rxc1 {book} Rxc1+ {book} 21. Kg2 {book}
+Ra8 {book} 22. f5 {book} Rc6 {book} 23. h4 {book} a4 {book} 24. h5 {book}
+h6 {book} 25. fxe6 {book} fxe6 {book} 26. Ne5 {book} Nxe5 {book} 27. dxe5 {book}
+Bc5 {book} 28. Qg4 {book} d4 {book} 29. Qf3 {book} Rcc8 {book} 30. Nc7 {book}
+d3 {book} 31. Nxa8 {0.00/7 0.25s} d2 {0.00/8 0.26s} 32. Kf1 {0.00/8 0.26s}
+Rd8 {+1.00/8 0.25s} 33. Qd1 {0.00/7 0.25s} Rxa8 {0.00/8 0.25s}
+34. Qxd2 {0.00/7 0.25s} Kh7 {0.00/8 0.26s} 35. Qd7 {+1.00/8 0.26s}
+Rf8 {-1.00/8 0.26s} 36. f4 {+1.00/8 0.26s} Kh8 {-1.00/8 0.26s}
+37. Qxa4 {+1.00/8 0.25s} Kh7 {-1.00/7 0.26s} 38. Ke1 {+1.00/8 0.26s}
+Kh8 {-1.00/7 0.25s} 39. Kd1 {+1.00/8 0.25s} Kh7 {-1.00/8 0.26s}
+40. Ke2 {+1.00/8 0.25s} Kh8 {-1.00/8 0.25s} 41. Ke1 {+1.00/8 0.25s}
+Kh7 {-1.00/8 0.25s} 42. Kf1 {+1.00/8 0.25s} Kh8 {-1.00/8 0.25s}
+43. Qc6 {+2.00/8 0.26s} Kh7 {-2.00/8 0.25s} 44. a4 {+2.00/8 0.27s}
+Kh8 {-2.00/8 0.25s} 45. Qxe6 {+2.00/7 0.25s} Kh7 {-2.00/7 0.26s}
+46. Qd7 {+3.50/7 0.25s} Rg8 {-3.50/8 0.25s} 47. e6 {+3.50/8 0.26s}
+Ra8 {-3.50/8 0.26s} 48. Kg2 {+3.50/7 0.25s} Ra5 {-3.50/7 0.25s}
+49. f5 {+3.50/8 0.26s} Kh8 {-3.50/7 0.25s} 50. e7 {+4.50/8 0.25s}
+Bxe7 {-4.50/6 0.26s} 51. Qxe7 {+4.50/7 0.25s} Kg8 {-4.50/7 0.25s}
+52. Qe6+ {+5.50/8 0.26s} Kh7 {-5.50/9 0.25s} 53. Qxb6 {+5.50/8 0.25s}
+Re5 {-5.50/8 0.26s} 54. Kh1 {+10.00/8 0.25s} Re1+ {-5.50/8 0.25s}
+55. Kh2 {+5.50/10 0.26s} Kh8 {-5.50/8 0.25s} 56. f6 {+6.50/9 0.26s}
+Re2+ {-6.50/8 0.25s} 57. Kh3 {+6.50/10 0.26s} gxf6 {-6.50/8 0.25s}
+58. Qxf6+ {+6.50/7 0.25s} Kg8 {-6.50/9 0.25s} 59. Qxh6 {+6.50/8 0.25s}
+Kf7 {-6.50/8 0.25s} 60. Qg6+ {+11.00/8 0.25s} Ke7 {-11.00/9 0.25s}
+61. h6 {+11.00/8 0.25s} Re1 {-11.00/8 0.25s} 62. h7 {+11.00/8 0.25s}
+Rh1+ {-11.00/8 0.26s} 63. Kg2 {+11.00/9 0.25s} Rxh7 {-11.00/8 0.25s}
+64. Qxh7+ {+19.00/7 0.26s} Kf6 {-19.00/9 0.25s} 65. a5 {+19.00/9 0.25s}
+Kg5 {-299.90/10 0.25s, White wins by adjudication} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "74"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:07"]
+[GameEndTime "2022-02-11T20:36:17.125 GMT"]
+[GameStartTime "2022-02-11T20:36:09.488 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "59"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Re1 {book} Bf6 {book} 15. Kg2 {book}
+bxc5 {+1.00/2 0.25s} 16. Na2 {-1.00/3 0.25s} Bxd4 {+1.00/4 0.25s}
+17. Nxd4 {-1.00/4 0.25s} Bxd3 {+1.00/4 0.26s} 18. Nxe6 {-1.00/4 0.25s}
+fxe6 {+1.00/5 0.25s} 19. Qxd3 {-1.00/4 0.26s} Rf6 {+1.00/5 0.25s}
+20. Kh1 {-1.00/4 0.26s} Kh8 {+1.00/4 0.25s} 21. Kg1 {-1.00/4 0.26s}
+Rh6 {+1.00/4 0.25s} 22. Kh1 {-1.00/4 0.25s} Kg8 {+1.00/4 0.25s}
+23. Kg1 {-1.00/4 0.25s} Kf7 {+1.00/4 0.25s} 24. Kh1 {-1.00/4 0.25s}
+Kf6 {+1.00/4 0.26s} 25. bxc5 {0.00/5 0.25s} Kf7 {0.00/5 0.25s}
+26. Rec1 {0.00/5 0.25s} Kf6 {0.00/5 0.25s} 27. Kg1 {0.00/5 0.25s}
+Kf7 {0.00/6 0.26s} 28. Kh1 {0.00/5 0.25s} Kf6 {0.00/6 0.25s}
+29. Kg1 {0.00/6 0.26s} Kf7 30. Kh1 {0.00/6 0.25s, Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "75"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[GameDuration "00:00:04"]
+[GameEndTime "2022-02-11T20:36:21.221 GMT"]
+[GameStartTime "2022-02-11T20:36:17.126 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "76"]
+[TimeControl "0.25/move"]
+[Variation "Marshall counter-attack, 11...c6"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. c3 {book} d5 {book} 9. exd5 {book} Nxd5 {book}
+10. Nxe5 {book} Nxe5 {book} 11. Rxe5 {book} c6 {book} 12. d3 {book} Bd6 {book}
+13. Re1 {book} Bf5 {book} 14. Qf3 {book} Qh4 {book} 15. g3 {book} Qh3 {book}
+16. Be3 {book} Bxd3 {book} 17. Nd2 {book} Qf5 {book} 18. Bd4 {book} Rfe8 {book}
+19. a4 {book} h6 {book} 20. Kg2 {book} Qxf3+ {book} 21. Nxf3 {book} Rac8 {book}
+22. Kg1 {book} Rxe1+ {book} 23. Rxe1 {book} Bg6 {book} 24. axb5 {book}
+axb5 {book} 25. h4 {book} f6 {book} 26. Ra1 {book} Bf7 {book} 27. Ra7 {book}
+Bf8 {book} 28. Nd2 {book} Rc7 {book} 29. Kf1 {book} c5 {book} 30. Rxc7 {book}
+Nxc7 {book} 31. Bxf7+ {0.00/8 0.25s} Kxf7 {0.00/9 0.26s} 32. Be3 {0.00/8 0.26s}
+Kg6 {0.00/8 0.25s} 33. Kg1 {0.00/8 0.25s} Kh5 {0.00/9 0.26s}
+34. Kh1 {0.00/8 0.26s} Kg4 {0.00/9 0.25s} 35. Kg1 {0.00/9 0.25s}
+Kh3 {0.00/9 0.26s} 36. Kh1 {0.00/9 0.25s} Kg4 {0.00/9 0.26s} 37. Kg1
+Kh3 {0.00/10 0.25s} 38. Kh1 Kg4 {0.00/10 0.25s, Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "76"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:36:24.816 GMT"]
+[GameStartTime "2022-02-11T20:36:21.222 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "74"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d5 {book}
+10. exd5 {book} Nxd5 {book} 11. Nbd2 {book} f6 {book} 12. c4 {book} bxc4 {book}
+13. Nxc4 {book} Bc5 {book} 14. Ne3 {book} Na5 {book} 15. d4 {book} exd4 {book}
+16. Nxd4 {book} Nxb3 {book} 17. Qxb3 {book} Bxd4 {book} 18. Qxb7 {book}
+Bxe3 {book} 19. Bxe3 {book} Qd7 {book} 20. Rad1 {book} Rfd8 {book}
+21. Qb3 {book} Rab8 {book} 22. Qa3 {book} Qb5 {book} 23. Ba7 {book} Ra8 {book}
+24. Bc5 {book} c6 {book} 25. Rd4 {book} Re8 {book} 26. Rde4 {book} Kf7 {book}
+27. f3 {book} f5 {book} 28. Rxe8 {book} Rxe8 {book} 29. Rxe8 {book} Kxe8 {book}
+30. Bf2 {book} Qb7 {book} 31. Kh1 {0.00/7 0.25s} Kf7 {0.00/7 0.26s}
+32. Kg1 {0.00/7 0.25s} Kg6 {0.00/7 0.25s} 33. Kh1 {0.00/7 0.25s}
+Kh5 {0.00/7 0.25s} 34. Kg1 {0.00/7 0.26s} Kg5 {0.00/7 0.26s}
+35. Kh1 {0.00/7 0.25s} Kh5 {0.00/7 0.26s} 36. Kg1 {0.00/8 0.26s} Kg5
+37. Kh1 {0.00/8 0.26s} Kh5 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "77"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:03"]
+[GameEndTime "2022-02-11T20:36:28.395 GMT"]
+[GameStartTime "2022-02-11T20:36:24.818 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "74"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. g3 {book} Bb4+ {book} 5. Bd2 {book} Be7 {book} 6. Bg2 {book} O-O {book}
+7. O-O {book} c6 {book} 8. Qc2 {book} b6 {book} 9. Rd1 {book} Nbd7 {book}
+10. Bf4 {book} Bb7 {book} 11. Ne5 {book} Nh5 {book} 12. Bd2 {book} Nhf6 {book}
+13. cxd5 {book} cxd5 {book} 14. Nc6 {book} Bxc6 {book} 15. Qxc6 {book}
+Rc8 {book} 16. Qb5 {book} Ne8 {book} 17. Qd3 {book} Nd6 {book} 18. Nc3 {book}
+Nf6 {book} 19. b3 {book} Qd7 {book} 20. e3 {book} Nf5 {book} 21. Ne2 {book}
+Rfd8 {book} 22. f3 {book} h5 {book} 23. Be1 {book} g5 {book} 24. Bf2 {book}
+g4 {book} 25. Nf4 {book} Qc7 {book} 26. Nxh5 {book} Nxh5 {book} 27. fxg4 {book}
+Nhxg3 {book} 28. gxf5 {book} Nxf5 {book} 29. e4 {book} dxe4 {book}
+30. Qxe4 {book} Qc2 {book} 31. Kf1 {0.00/5 0.25s} Kh7 {0.00/5 0.25s}
+32. Kg1 {0.00/5 0.26s} Kh6 {0.00/5 0.25s} 33. Kf1 {0.00/5 0.25s}
+Kh5 {0.00/5 0.25s} 34. Kg1 {0.00/5 0.25s} Kg5 {0.00/5 0.25s}
+35. Kf1 {0.00/5 0.25s} Kh5 {0.00/5 0.25s} 36. Kg1 {0.00/6 0.25s}
+Kg5 {0.00/6 0.25s} 37. Kf1 {0.00/6 0.25s}
+Kh5 {0.00/6 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "78"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[GameDuration "00:00:23"]
+[GameEndTime "2022-02-11T20:36:52.146 GMT"]
+[GameStartTime "2022-02-11T20:36:28.396 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "128"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. Be2 {book} dxc4 {book} 8. O-O {book} c5 {book} 9. dxc5 {book} Nxc5 {book}
+10. Bxc4 {book} Qxd1 {book} 11. Rfxd1 {book} b6 {book} 12. Bd6 {book}
+Bxd6 {book} 13. Rxd6 {book} Bb7 {book} 14. Rad1 {book} Bxf3 {book}
+15. gxf3 {book} Rfc8 {book} 16. Be2 {book} g5 {book} 17. R6d4 {book} Kf8 {book}
+18. f4 {book} g4 {0.00/6 0.25s} 19. Kh1 {0.00/6 0.25s} Ke7 {0.00/6 0.25s}
+20. Kg1 {0.00/6 0.26s} Kf8 {0.00/6 0.26s} 21. Kh1 Kg7 {0.00/6 0.25s}
+22. Rg1 {+1.00/6 0.25s} h5 {-1.00/6 0.25s} 23. f3 {+1.00/5 0.25s}
+Kh6 {-1.00/6 0.25s} 24. fxg4 {+1.00/6 0.25s} Nxg4 {-1.00/5 0.25s}
+25. Bxg4 {+1.00/6 0.26s} hxg4 {-1.00/6 0.26s} 26. Rxg4 {+1.00/7 0.25s}
+Kh5 {-1.00/7 0.25s} 27. Rg1 {+1.00/7 0.25s} Kh4 {-1.00/7 0.26s}
+28. Kg2 {+1.00/6 0.25s} Kg4 {-1.00/7 0.26s} 29. Kf1+ {+1.00/7 0.25s}
+Kh3 {-1.00/7 0.25s} 30. Rh1 {+1.00/6 0.26s} Kh4 {-1.00/7 0.25s}
+31. Kg1 {+1.00/6 0.25s} Kh3 {-1.00/7 0.25s} 32. Kf2 {+1.00/7 0.25s}
+Kh4 {-1.00/7 0.26s} 33. Kf1 {+1.00/7 0.25s} Kh3 {-1.00/7 0.25s}
+34. Kg1 {+1.00/7 0.25s} Rg8+ {+0.01/7 0.26s} 35. Kf1 {0.00/8 0.25s}
+Rgc8 {0.00/7 0.26s} 36. Ke2 Kg2 {-1.00/7 0.26s} 37. Rdd1 {+1.00/7 0.25s}
+Kh3 {-1.00/6 0.26s} 38. Kf1 {+1.00/6 0.25s} Rg8 {-1.00/7 0.26s}
+39. Ke1 {+1.00/6 0.25s} Rh8 {-1.00/7 0.26s} 40. Kf2 {+1.00/7 0.25s}
+Kh4 {-1.00/7 0.25s} 41. Kg1 {+1.00/6 0.26s} Kh3 {-1.00/7 0.25s}
+42. Rd2 {+1.00/7 0.25s} f5 {-1.00/7 0.26s} 43. Kf1 {+1.00/7 0.25s}
+Kh4 {-1.00/7 0.27s} 44. Kg1 {+1.00/6 0.25s} Kh3 {-1.00/7 0.25s} 45. Kf2
+Kh4 {-1.00/7 0.26s} 46. Kf1 {+1.00/7 0.25s} Kh3 {-1.00/7 0.26s}
+47. Kg1 {+1.00/7 0.25s} Rhg8+ {0.00/7 0.26s} 48. Kf1 {0.00/9 0.25s}
+Rh8 {0.00/7 0.25s} 49. Ke1 Rhd8 {0.00/7 0.25s} 50. Rc2 {+1.00/7 0.26s}
+Rac8 {0.00/7 0.26s} 51. Ke2 {+1.00/7 0.25s} Ne4 {0.00/6 0.26s}
+52. Kf3 {0.00/7 0.25s} Nd2+ {0.00/6 0.25s} 53. Kf2 {0.00/9 0.26s}
+Ne4+ {0.00/7 0.27s} 54. Ke1 {0.00/9 0.25s} Rd3 {0.00/7 0.26s}
+55. Ke2 {0.00/7 0.25s} Rd6 {0.00/7 0.26s} 56. Rd1 {+1.00/7 0.25s}
+Nxc3+ {0.00/7 0.26s} 57. bxc3 {0.00/9 0.25s} Rxd1 {0.00/8 0.25s}
+58. Kxd1 {0.00/8 0.25s} Rg8 {0.00/8 0.26s} 59. Ke1 {0.00/9 0.25s}
+Rg1+ {0.00/8 0.25s} 60. Ke2 {0.00/11 0.26s} Kxh2 {0.00/9 0.25s}
+61. Kd2 {0.00/10 0.26s} Kh1 {0.00/9 0.25s} 62. Ke2 {0.00/10 0.25s}
+Kh2 {0.00/9 0.25s} 63. Kd2 {0.00/10 0.26s} Kh1 {0.00/10 0.26s}
+64. Ke2 {0.00/11 0.25s} Kh2 {0.00/10 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "79"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "0-1"]
+[ECO "C67"]
+[GameDuration "00:00:47"]
+[GameEndTime "2022-02-11T20:37:39.798 GMT"]
+[GameStartTime "2022-02-11T20:36:52.147 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "246"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. g4 {book} hxg4 {book}
+16. hxg4 {book} Ne7 {book} 17. Nxe6 {book} Rxe6 {book} 18. Kg2 {book}
+Bxc3 {book} 19. bxc3 {book} Rd8 {book} 20. Rxd8+ {book} Kxd8 {book}
+21. Rh1 {book} Nd5 {book} 22. Bg3 {book} g5 {book} 23. Rh8+ {book} Kd7 {book}
+24. Rg8 {book} Nf4+ {book} 25. Bxf4 {book} gxf4 {book} 26. Rg5 {book} Rg6 {book}
+27. Rh5 {book} Rxg4+ {book} 28. Kf3 {book} Rg1 {book} 29. Kxf4 {book} Rf1 {book}
+30. Ke3 {book} Ra1 {book} 31. Rf5 {-1.00/8 0.25s} Ke6 {+1.00/8 0.26s}
+32. Ke4 {-1.00/8 0.26s} Re1+ {+1.00/9 0.25s} 33. Kf4 {-1.00/9 0.26s}
+Rc1 {+1.00/9 0.25s} 34. Kg5 {-1.00/8 0.26s} Ke7 {+1.00/9 0.26s}
+35. Kh5 {-1.00/8 0.25s} Ke8 {+1.00/8 0.25s} 36. Kh6 {-1.00/8 0.26s}
+Rxc2 {+1.00/8 0.25s} 37. Kg7 {-1.00/7 0.25s} Rxa2 {+1.00/8 0.25s}
+38. Kg8 {-1.00/8 0.26s} Ke7 {+1.00/9 0.25s} 39. Kg7 {-1.00/8 0.26s}
+Ke6 {+1.00/9 0.26s} 40. Rxf7 {-1.00/8 0.26s} Kxe5 {+1.00/8 0.25s}
+41. Rxc7 {-1.00/7 0.26s} Rxf2 {+1.00/8 0.26s} 42. Re7+ {-1.00/8 0.26s}
+Kf4 {+1.00/10 0.25s} 43. Rf7+ {-1.00/8 0.26s} Kg3 {+1.00/10 0.25s}
+44. Rxb7 {-1.00/8 0.26s} Rc2 {+1.00/7 0.25s} 45. Kh6 {-1.00/8 0.26s}
+Kh2 {+1.00/8 0.25s} 46. Kh5 {-1.00/8 0.25s} Kh1 {+1.00/9 0.25s}
+47. Kh4 {-1.00/8 0.25s} Kg1 {+1.00/9 0.26s} 48. Kg4 {-1.00/9 0.26s}
+Kf1 {+1.00/9 0.26s} 49. Kh4 {-1.00/9 0.25s} Ke1 {+1.00/9 0.26s}
+50. Kg4 {-1.00/9 0.25s} Kd1 {+1.00/9 0.25s} 51. Kh4 {-1.00/9 0.26s}
+Kc1 {+1.00/9 0.26s} 52. Kg4 {-1.00/9 0.26s} Kd2 {+1.00/9 0.26s}
+53. Kf4 {-1.00/9 0.25s} Ke2 {+1.00/10 0.26s} 54. Kg4 {-1.00/9 0.25s}
+Ke1 {+1.00/10 0.25s} 55. Kh4 {-1.00/9 0.26s} Kf1 {+1.00/9 0.25s}
+56. Kg4 {-1.00/9 0.26s} Kg1 {+1.00/9 0.26s} 57. Kh4 {-1.00/9 0.25s}
+Kh1 {+1.00/9 0.26s} 58. Kg4 {-1.00/9 0.26s} Kg2 {+1.00/9 0.25s}
+59. Kh4 {-1.00/9 0.26s} Kf2 {+1.00/10 0.26s} 60. Kg4 {-1.00/9 0.25s}
+Ke2 {+1.00/10 0.25s} 61. Kh4 {-1.00/9 0.26s} Kd1 {+1.00/10 0.26s}
+62. Kg4 {-1.00/10 0.25s} Kc1 {+1.00/9 0.25s} 63. Kh4 {-1.00/10 0.26s}
+Kd2 {+1.00/10 0.26s} 64. Rg7 {-1.00/9 0.25s} Ke3 {+1.00/10 0.26s}
+65. Kh3 {-1.00/9 0.26s} Ke2 {+1.00/9 0.25s} 66. Kh2 {-1.00/9 0.26s}
+Kd3+ {+2.00/10 0.26s} 67. Kh1 {-2.00/10 0.25s} Ra2 {+2.00/10 0.25s}
+68. Kg1 {-2.00/9 0.25s} Kxc3 {+2.00/9 0.25s} 69. Kh1 {-2.00/9 0.25s}
+Kc2 {+2.00/10 0.26s} 70. Kg1 {-2.00/10 0.26s} Kd1 {+2.00/10 0.25s}
+71. Kh1 {-2.00/10 0.26s} Kc1 {+2.00/10 0.25s} 72. Kg1 {-2.00/11 0.26s}
+Kb1 {+2.00/10 0.26s} 73. Kh1 {-2.00/11 0.26s} Ka1 {+2.00/10 0.25s}
+74. Kg1 {-2.00/11 0.25s} Kb2 {+2.00/10 0.25s} 75. Kh1 {-2.00/11 0.25s}
+Kb1 {+2.00/11 0.25s} 76. Kg1 {-2.00/11 0.26s} Kc1 {+2.00/10 0.26s}
+77. Kh1 {-2.00/11 0.26s} Kd1 {+2.00/11 0.26s} 78. Kg1 {-2.00/11 0.25s}
+Ke1 {+2.00/11 0.26s} 79. Kh1 {-2.00/10 0.26s} Ra3 {+2.00/11 0.25s}
+80. Kg1 {-2.00/10 0.26s} Kd1 {+2.00/10 0.25s} 81. Kh1 {-2.00/10 0.25s}
+Kc1 {+2.00/11 0.26s} 82. Kg1 {-2.00/10 0.25s} Kb1 {+2.00/10 0.25s}
+83. Kh1 {-2.00/10 0.25s} Ka1 {+2.00/11 0.25s} 84. Kg1 {-2.00/11 0.26s}
+Kb2 {+2.00/11 0.25s} 85. Kh1 {-2.00/11 0.26s} Kb1 {+2.00/11 0.25s}
+86. Kg1 {-2.00/11 0.25s} Kc1 {+2.00/11 0.25s} 87. Kh1 {-2.00/11 0.25s}
+Kd1 {+2.00/11 0.26s} 88. Kg1 {-2.00/11 0.25s} Ke1 {+2.00/11 0.26s}
+89. Kh1 {-2.00/11 0.26s} Kf1 {+2.00/11 0.25s} 90. Kh2 {-2.00/10 0.26s}
+Kf2 {+2.00/10 0.25s} 91. Rg2+ {-2.00/10 0.26s} Ke1 {+2.00/12 0.26s}
+92. Kh1 {-2.00/10 0.26s} Kf1 {+2.00/10 0.26s} 93. Kh2 {-2.00/11 0.25s}
+Rf3 {+2.00/10 0.25s} 94. Kh1 {-2.00/10 0.26s} Ke1 {+2.00/10 0.25s}
+95. Kg1 {-2.00/10 0.25s} Kd1 {+2.00/9 0.25s} 96. Kh1 {-2.00/9 0.26s}
+Kc1 {+2.00/9 0.26s} 97. Kg1 {-2.00/9 0.26s} Kb1 {+2.00/9 0.25s}
+98. Kh1 {-2.00/9 0.25s} Ka1 {+2.00/9 0.26s} 99. Kg1 {-2.00/10 0.26s}
+Rh3 {+2.00/9 0.25s} 100. Kf1 {-2.00/10 0.26s} Kb1 {+2.00/9 0.25s}
+101. Kg1 {-2.00/9 0.25s} Re3 {+2.00/9 0.25s} 102. Kh1 {-2.00/10 0.26s}
+Kc1 {+2.00/9 0.25s} 103. Kg1 {-2.00/10 0.25s} Kd1 {+2.00/10 0.25s}
+104. Kh1 {-2.00/10 0.26s} Ke1 {+2.00/10 0.26s} 105. Kg1 {-2.00/10 0.25s}
+Re2 {+2.00/10 0.25s} 106. Kh1 {-9.00/11 0.26s} Rxg2 {+9.00/11 0.25s}
+107. Kxg2 {-10.00/17 0.26s} Ke2 {+10.00/15 0.27s} 108. Kh1 {-10.00/17 0.27s}
+c5 {+10.00/14 0.25s} 109. Kg1 Ke1 {+10.00/15 0.26s} 110. Kh1 {-18.00/17 0.25s}
+c4 {+18.00/16 0.26s} 111. Kg2 {-18.00/16 0.26s} c3 {+18.00/15 0.25s}
+112. Kh1 {-18.00/14 0.25s} c2 {+18.00/13 0.26s} 113. Kg2 {-18.00/13 0.26s}
+Ke2 {+18.00/10 0.25s} 114. Kh3 {-18.00/11 0.26s} Ke1 {+18.00/10 0.25s}
+115. Kg2 {0.00/13 0.26s} c1=Q {+18.00/10 0.25s} 116. Kf3 {-18.00/10 0.25s}
+a5 {+18.00/9 0.25s} 117. Kg4 {-18.00/10 0.25s} a4 {+18.00/10 0.26s}
+118. Kf3 {-18.00/10 0.25s} a3 {+18.00/10 0.26s} 119. Kg3 {-299.90/10 0.26s}
+Qc4 {+299.91/10 0.25s} 120. Kf3 {-299.92/9 0.26s} a2 {+299.93/9 0.25s}
+121. Kg2 {-299.94/8 0.25s} Qg4+ {+299.95/8 0.26s} 122. Kh1 {-299.96/8 0.26s}
+Kf1 {+299.97/9 0.26s} 123. Kh2 {-299.98/8 0.25s}
+Qg2# {+299.99/9 0.25s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "80"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "D86"]
+[GameDuration "00:00:07"]
+[GameEndTime "2022-02-11T20:37:47.496 GMT"]
+[GameStartTime "2022-02-11T20:37:39.800 GMT"]
+[Opening "Gruenfeld"]
+[PlyCount "90"]
+[TimeControl "0.25/move"]
+[Variation "Exchange, Classical Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} g6 {book} 3. Nc3 {book} d5 {book}
+4. cxd5 {book} Nxd5 {book} 5. e4 {book} Nxc3 {book} 6. bxc3 {book} Bg7 {book}
+7. Bc4 {book} c5 {book} 8. Ne2 {book} Nc6 {book} 9. Be3 {book} O-O {book}
+10. O-O {book} b6 {book} 11. dxc5 {book} Qc7 {book} 12. Nd4 {book} Ne5 {book}
+13. Nb5 {book} Qb8 {book} 14. Be2 {book} bxc5 {book} 15. f4 {book} Ng4 {book}
+16. Bxc5 {book} a6 {book} 17. Na3 {book} Qc7 {book} 18. Bd4 {book} e5 {book}
+19. fxe5 {book} Nxe5 {book} 20. Qc1 {book} Bg4 {book} 21. Bxg4 {book}
+Nxg4 {book} 22. Qf4 {book} Qxf4 {book} 23. Rxf4 {book} Ne5 {book} 24. Rb1 {book}
+Rac8 {book} 25. h3 {book} Rfd8 {book} 26. Rff1 {book} Nd3 {book} 27. Rb7 {book}
+Nc5 {book} 28. Re7 {book} Bf8 {book} 29. Bxc5 {book} Rxc5 {book}
+30. Rexf7 {book} Rxc3 {book} 31. Nb1 {+1.00/6 0.25s} Rc2 {-1.00/6 0.25s}
+32. a3 {0.00/6 0.25s} Rb8 {0.00/6 0.26s} 33. Kh1 {0.00/7 0.26s}
+Bh6 {0.00/6 0.25s} 34. R7f3 {0.00/6 0.25s} Rc4 {0.00/6 0.25s}
+35. e5 {0.00/7 0.25s} Bc1 {0.00/6 0.25s} 36. Rc3 {0.00/7 0.26s}
+Rxc3 {0.00/7 0.26s} 37. Nxc3 {0.00/7 0.25s} Bxa3 {0.00/7 0.28s}
+38. Re1 {0.00/8 0.26s} Kg7 {0.00/8 0.26s} 39. Kg1 {0.00/8 0.26s}
+Kh6 {0.00/8 0.26s} 40. Kh1 {0.00/8 0.25s} Kh5 {0.00/8 0.26s}
+41. Kg1 {0.00/8 0.26s} Kh4 {0.00/8 0.26s} 42. Kh1 {0.00/8 0.25s}
+Kg3 {0.00/8 0.25s} 43. Kg1 {0.00/8 0.25s} Kh4 {0.00/8 0.25s}
+44. Kh1 {0.00/9 0.26s} Kg3 45. Kg1 {0.00/9 0.25s}
+Kh4 {0.00/8 0.25s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "81"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:37:50.046 GMT"]
+[GameStartTime "2022-02-11T20:37:47.497 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "34"]
+[TimeControl "0.25/move"]
+[Variation "Closed defense"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. d3 {book} b5 {book}
+7. Bb3 {book} d6 {book} 8. a4 {book} Bd7 {book} 9. c3 {book} O-O {book}
+10. Bc2 {book} Re8 {book} 11. Re1 {book} h6 {book} 12. Nbd2 {book} b4 {book}
+13. Kh1 {0.00/5 0.25s} Kh7 {0.00/5 0.25s} 14. Kg1 {0.00/6 0.25s}
+Kg6 {0.00/5 0.25s} 15. Kh1 {0.00/6 0.26s} Kh7 {0.00/6 0.25s} 16. Kg1
+Kg6 {0.00/6 0.26s} 17. Kh1 {0.00/7 0.26s} Kh7 {Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "82"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:37:52.101 GMT"]
+[GameStartTime "2022-02-11T20:37:50.047 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "37"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d6 {book}
+10. a3 {book} Na5 {book} 11. Ba2 {book} c5 {book} 12. Nc3 {book} Nc6 {book}
+13. Bg5 {book} Qd7 {book} 14. Nh2 {book} Ne8 {book} 15. Bd2 {book}
+Kh8 {0.00/5 0.25s} 16. Kh1 {0.00/4 0.25s} Kg8 {0.00/4 0.25s}
+17. Kg1 {0.00/4 0.25s} Kh8 18. Kh1 Kg8 {0.00/5 0.26s}
+19. Kg1 {Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "83"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "0-1"]
+[ECO "C88"]
+[GameDuration "00:00:19"]
+[GameEndTime "2022-02-11T20:38:11.858 GMT"]
+[GameStartTime "2022-02-11T20:37:52.102 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "137"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Closed, anti-Marshall 8.a4"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. a4 {book} b4 {book} 9. d4 {book} d6 {book}
+10. dxe5 {book} dxe5 {book} 11. Nbd2 {book} Bc5 {book} 12. a5 {book} Be6 {book}
+13. Bxe6 {book} fxe6 {book} 14. Qe2 {book} Ng4 {book} 15. Rf1 {book}
+Bxf2+ {book} 16. Rxf2 {book} Nd4 {book} 17. Qc4 {book} Nxf2 {book}
+18. Kxf2 {book} Qh4+ {book} 19. Kg1 {book} Qg4 {book} 20. h3 {book} Qg3 {book}
+21. Qd3 {book} Rxf3 {book} 22. Nxf3 {book} Rf8 {book} 23. Nxd4 {book}
+Qe1+ {book} 24. Kh2 {book} Rf1 {book} 25. Qxf1 {book} Qxf1 {book} 26. Nf3 {book}
+c5 {book} 27. b3 {book} Qd1 {book} 28. Bb2 {book} Qxc2 {book} 29. Bxe5 {book}
+Qxb3 {book} 30. Rf1 {book} h6 {book} 31. Kh1 {+1.50/7 0.25s} Kh7 {-1.50/7 0.26s}
+32. Rg1 {+1.50/7 0.26s} Kg6 {-1.50/7 0.26s} 33. Kh2 {+1.50/7 0.25s}
+Kh7 {-1.50/7 0.26s} 34. Kg3 {+1.50/7 0.25s} Qc2 {-0.50/7 0.26s}
+35. Kf4 {+0.50/7 0.25s} b3 {+1.00/7 0.26s} 36. Kg3 {-1.00/7 0.26s}
+b2 {+1.00/7 0.26s} 37. Bxb2 {-1.00/7 0.25s} Qxb2 {+1.00/7 0.25s}
+38. Rd1 {-1.00/7 0.26s} Kg6 {+1.00/7 0.26s} 39. Kh2 {-1.00/7 0.25s}
+Kh5 {+1.00/7 0.25s} 40. Rd6 {-1.00/8 0.26s} Qb8 {+1.00/8 0.26s}
+41. g4+ {-1.00/9 0.26s} Kg6 {+1.00/10 0.25s} 42. Ne5+ {-1.00/8 0.26s}
+Kh7 {+2.00/9 0.25s} 43. Nc4 {-2.00/7 0.26s} Kh8 {+2.00/7 0.26s}
+44. Kg2 {-2.00/8 0.26s} Qb4 {+2.00/7 0.25s} 45. Rd8+ {-2.00/8 0.26s}
+Kh7 {+2.00/9 0.26s} 46. Nd2 {-2.00/8 0.26s} Qa4 {+2.00/8 0.26s}
+47. Kh1 {-2.00/7 0.25s} Qa1+ {+3.50/8 0.26s} 48. Kh2 {-2.00/9 0.25s}
+Qa2 {+2.00/8 0.25s} 49. Kh1 {-2.00/8 0.25s} Qc2 {+2.00/9 0.26s}
+50. Kg1 {-2.00/8 0.25s} Qc1+ {+3.50/8 0.26s} 51. Kh2 {-2.00/9 0.25s}
+Qe1 {+2.00/8 0.25s} 52. Kg2 {-2.00/8 0.26s} Qe2+ {+2.00/8 0.25s}
+53. Kg3 {-2.00/9 0.25s} Qe3+ {+2.00/8 0.26s} 54. Kg2 {-2.00/8 0.26s}
+Qc3 {+2.00/8 0.25s} 55. Kh2 {-2.00/8 0.26s} c4 {+2.50/9 0.26s}
+56. Rd7 {-2.50/7 0.25s} Qe3 {+3.00/7 0.25s} 57. Kg2 {-3.00/7 0.26s}
+c3 {+5.50/8 0.26s} 58. Nf1 {-5.50/7 0.25s} Qe1 {+5.50/8 0.25s}
+59. Kg1 {-5.50/7 0.25s} c2 {+6.50/8 0.26s} 60. Rc7 {-6.50/7 0.26s}
+c1=Q {+6.50/8 0.25s} 61. Rxc1 {-6.50/6 0.25s} Qxc1 {+6.50/8 0.26s}
+62. Kg2 {-7.50/8 0.25s} Kh8 {+7.50/9 0.25s} 63. Kg1 {-7.50/9 0.26s}
+Qe1 {+7.50/9 0.25s} 64. Kg2 {-7.50/9 0.26s} Qxe4+ {+8.50/9 0.26s}
+65. Kg1 {-9.50/10 0.26s} Qf3 {+9.50/9 0.25s} 66. Nh2 {-9.50/9 0.26s}
+Qg3+ {+10.00/9 0.26s} 67. Kh1 {-12.00/10 0.26s} Qxh3 {+12.00/10 0.25s}
+68. Kg1 {-12.00/11 0.26s} Qg3+ {+12.00/9 0.25s}
+69. Kh1 {-13.00/11 0.25s, Black wins by adjudication} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "84"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[GameDuration "00:00:02"]
+[GameEndTime "2022-02-11T20:38:14.439 GMT"]
+[GameStartTime "2022-02-11T20:38:11.859 GMT"]
+[Opening "Queen's Indian"]
+[PlyCount "66"]
+[TimeControl "0.25/move"]
+[Variation "Nimzovich Variation (exaggerated Fianchetto)"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} b6 {book}
+4. g3 {book} Ba6 {book} 5. b3 {book} Bb4+ {book} 6. Bd2 {book} Be7 {book}
+7. Bg2 {book} c6 {book} 8. Bc3 {book} d5 {book} 9. Ne5 {book} Nfd7 {book}
+10. Nxd7 {book} Nxd7 {book} 11. Nd2 {book} O-O {book} 12. O-O {book} Rc8 {book}
+13. e4 {book} c5 {book} 14. exd5 {book} exd5 {book} 15. dxc5 {book} dxc4 {book}
+16. c6 {book} cxb3 {book} 17. Re1 {book} Bb5 {book} 18. axb3 {book} a5 {book}
+19. Nc4 {book} Bxc6 {book} 20. Bxc6 {book} Rxc6 {book} 21. Qf3 {book} Bf6 {book}
+22. Qxc6 {book} Bxc3 {book} 23. Red1 {book} Bxa1 {book} 24. Rxd7 {book}
+Qe8 {book} 25. Qd5 {book} b5 {book} 26. Qxb5 {book} Qe1+ {book} 27. Kg2 {book}
+Qe4+ {book} 28. Kg1 {book} Qe1+ {0.00/6 0.25s} 29. Kg2 Bc3 {0.00/6 0.25s}
+30. Kf3 {0.00/5 0.25s} Kh8 {0.00/6 0.26s} 31. Kg2 {0.00/6 0.26s}
+Kg8 {0.00/6 0.25s} 32. Kf3 {0.00/6 0.26s} Kh8 {0.00/6 0.25s} 33. Kg2
+Kg8 {0.00/6 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "85"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "0-1"]
+[ECO "C88"]
+[GameDuration "00:00:18"]
+[GameEndTime "2022-02-11T20:38:32.593 GMT"]
+[GameStartTime "2022-02-11T20:38:14.441 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "131"]
+[Termination "adjudication"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d6 {book}
+10. a3 {book} Na5 {book} 11. Ba2 {book} c5 {book} 12. Nbd2 {book} Nc6 {book}
+13. Nf1 {book} Bc8 {book} 14. c3 {book} Be6 {book} 15. Bxe6 {book} fxe6 {book}
+16. b4 {book} Qd7 {book} 17. Ng3 {book} a5 {book} 18. bxc5 {book} dxc5 {book}
+19. Qb3 {book} Rab8 {book} 20. a4 {book} b4 {book} 21. Rd1 {book} bxc3 {book}
+22. Qxc3 {book} Nd4 {book} 23. Nxd4 {book} exd4 {book} 24. Qc2 {book} Bd6 {book}
+25. Bd2 {book} Qc7 {book} 26. Nf1 {book} c4 {book} 27. dxc4 {book} Rbc8 {book}
+28. Rab1 {book} Qxc4 {book} 29. Qxc4 {book} Rxc4 {book} 30. Re1 {book}
+Nd7 {book} 31. Ra1 {0.00/6 0.26s} Rc2 {0.00/6 0.25s} 32. Red1 {0.00/6 0.25s}
+Kh8 {0.00/6 0.25s} 33. Kh1 {0.00/6 0.25s} Rxf2 {+1.00/6 0.25s}
+34. Kg1 {-1.00/6 0.25s} Re2 {+1.00/7 0.26s} 35. Kh1 {-1.00/6 0.25s}
+Nc5 {+2.00/6 0.25s} 36. Be1 {-2.00/6 0.26s} Bc7 {+2.00/6 0.25s}
+37. Kg1 {-2.00/6 0.25s} Rxg2+ {+3.00/6 0.25s} 38. Kh1 {-3.00/8 0.26s}
+Rge2 {+3.00/6 0.25s} 39. Rac1 {-2.00/7 0.25s} e5 {+3.00/7 0.26s}
+40. Bd2 {-2.00/7 0.26s} Rxc1 {+2.00/7 0.25s} 41. Rxc1 {-2.00/7 0.25s}
+Ne6 {+2.00/8 0.26s} 42. Kg1 {0.00/7 0.26s} Kg8 {+2.00/8 0.27s}
+43. Rc6 {-2.00/7 0.25s} Kf7 {+2.00/8 0.25s} 44. Ra6 {-2.00/7 0.25s}
+Rxe4 {+2.00/7 0.26s} 45. Ra7 {-2.00/7 0.26s} Kg6 {+2.00/8 0.26s}
+46. Ra6 {-2.00/7 0.26s} Kf6 {+2.00/8 0.26s} 47. Bxa5 {-2.00/7 0.26s}
+Bxa5 {+2.00/8 0.26s} 48. Rxa5 {-2.00/8 0.26s} Kg5 {+2.00/8 0.25s}
+49. Kh1 {-2.00/8 0.25s} Kh4 {+3.00/8 0.25s} 50. Kg1 {-3.00/9 0.26s}
+Kxh3 {+3.00/8 0.25s} 51. Nd2 {-2.00/8 0.25s} Re2 {+3.00/8 0.25s}
+52. Nc4 {-3.00/8 0.26s} e4 {+3.00/8 0.25s} 53. Kf1 {-3.00/7 0.25s}
+Rh2 {+3.00/8 0.25s} 54. Kg1 {-3.00/8 0.25s} Kg3 {+3.00/8 0.26s}
+55. Kf1 {-3.00/7 0.25s} d3 {+5.50/7 0.25s} 56. Kg1 {-5.50/7 0.25s}
+Rg2+ {+6.50/7 0.25s} 57. Kf1 {-6.50/8 0.26s} Rc2 {+6.50/7 0.25s}
+58. Ke1 {-6.50/7 0.26s} Rc1+ {+6.50/7 0.25s} 59. Kd2 {-6.50/9 0.26s}
+Rxc4 {+6.50/8 0.25s} 60. Ke1 {-6.50/7 0.25s} e3 {+13.50/7 0.26s}
+61. Kd1 {-13.50/6 0.26s} e2+ {+14.50/7 0.25s} 62. Kd2 {-14.50/7 0.26s}
+Re4 {+15.50/7 0.26s} 63. Ke1 {-15.50/6 0.26s} d2+ {+20.00/8 0.25s}
+64. Kxd2 {-20.00/7 0.26s} e1=Q+ {+20.00/7 0.25s} 65. Kc2 {-20.00/7 0.25s}
+Qxa5 {+20.00/6 0.25s} 66. Kb2 {-299.94/6 0.26s, Black wins by adjudication} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "86"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[GameDuration "00:00:04"]
+[GameEndTime "2022-02-11T20:38:36.737 GMT"]
+[GameStartTime "2022-02-11T20:38:32.595 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "76"]
+[TimeControl "0.25/move"]
+[Variation "Closed, 7...O-O"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} a6 {book}
+4. Ba4 {book} Nf6 {book} 5. O-O {book} Be7 {book} 6. Re1 {book} b5 {book}
+7. Bb3 {book} O-O {book} 8. h3 {book} Bb7 {book} 9. d3 {book} d5 {book}
+10. exd5 {book} Nxd5 {book} 11. Nbd2 {book} f6 {book} 12. c4 {book} bxc4 {book}
+13. Nxc4 {book} Bc5 {book} 14. Ne3 {book} Na5 {book} 15. d4 {book} exd4 {book}
+16. Nxd4 {book} Nxb3 {book} 17. Qxb3 {book} Bxd4 {book} 18. Qxb7 {book}
+Bxe3 {book} 19. Bxe3 {book} Qd7 {book} 20. Rad1 {book} Rfd8 {book}
+21. Qb3 {book} Rab8 {book} 22. Qa3 {book} Qb5 {book} 23. Ba7 {book} Ra8 {book}
+24. Bc5 {book} c6 {book} 25. Rd4 {book} Re8 {book} 26. Rde4 {book} Kf7 {book}
+27. f3 {book} f5 {book} 28. Rxe8 {book} Rxe8 {book} 29. Rxe8 {book} Kxe8 {book}
+30. Bf2 {book} Qb7 {book} 31. Kh1 {0.00/8 0.26s} Kf7 32. Kg1 {0.00/8 0.26s}
+Kg6 {0.00/7 0.27s} 33. Kh1 {0.00/8 0.26s} Kh5 {0.00/7 0.26s}
+34. Kg1 {0.00/8 0.26s} Kg5 {0.00/8 0.26s} 35. Kh1 {0.00/8 0.25s} Kf4
+36. Kg1 {0.00/7 0.26s} Kg5 {0.00/6 0.25s} 37. Kh1 Kf4 38. Kg1
+Kg5 {0.00/7 0.26s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "87"]
+[White "Rusty Rival"]
+[Black "Rusty Rival 07-NODP"]
+[Result "1-0"]
+[ECO "E10"]
+[GameDuration "00:01:06"]
+[GameEndTime "2022-02-11T20:39:43.543 GMT"]
+[GameStartTime "2022-02-11T20:38:36.738 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "267"]
+[Termination "time forfeit"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Re1 {book} Bf6 {book} 15. Bc2 {book}
+axb4 {+1.00/2 0.25s} 16. axb4 {-1.00/3 0.25s} bxc5 {+1.00/2 0.25s}
+17. Rb1 {-1.00/3 0.25s} Kh8 {+1.00/4 0.25s} 18. Kg2 {-1.00/3 0.25s}
+Rg8 {+1.00/4 0.25s} 19. Kh1 {-1.00/3 0.25s} Rge8 {+2.00/3 0.25s}
+20. Kg1 {-1.00/3 0.25s} Kg8 {+1.00/4 0.26s} 21. Kh1 {-2.00/4 0.27s}
+Re7 {+2.00/3 0.25s} 22. Kg1 {-1.00/3 0.25s} Kh8 {+1.00/4 0.26s}
+23. Kh1 {-1.00/3 0.25s} cxd4 {+2.00/3 0.25s} 24. Nxd4 {-2.00/4 0.26s}
+Qb6 {+2.00/4 0.25s} 25. Nce2 {-2.00/4 0.25s} Bxe2 {+2.00/5 0.26s}
+26. Nxe2 {-2.00/5 0.25s} Qxf2 {+2.00/4 0.25s} 27. Rg1 {-2.00/5 0.25s}
+Kg8 {+2.00/5 0.25s} 28. h4 {-2.00/5 0.25s} Kh8 {+2.00/5 0.25s}
+29. Rf1 {-2.00/5 0.25s} Qe3 {+2.00/5 0.25s} 30. Kh2 {-2.00/5 0.26s}
+Kg8 {+2.00/5 0.26s} 31. Kh1 {-2.00/5 0.25s} Ree8 {+2.00/5 0.26s}
+32. Kh2 {-2.00/5 0.26s} Kh8 {+2.00/5 0.25s} 33. Kg2 {-2.00/5 0.26s}
+Kg8 {+2.00/4 0.25s} 34. Kh2 {0.00/5 0.25s} Rf8 35. Kh1 {-2.00/5 0.25s}
+Kh8 {+2.00/4 0.26s} 36. Kh2 {-2.00/5 0.25s} Rg8 {+2.00/5 0.26s}
+37. Rb3 {-2.00/5 0.26s} Qb6 {+2.00/5 0.25s} 38. Kh1 {-2.00/4 0.25s}
+Rgf8 {+2.00/4 0.25s} 39. Kh2 {-2.00/4 0.25s} Kg8 {+2.00/4 0.26s}
+40. Kh1 {-2.00/5 0.25s} Rfe8 {+2.00/4 0.26s} 41. Kh2 {-2.00/5 0.26s}
+Kh8 {+2.00/4 0.25s} 42. Kh1 {-2.00/4 0.25s} Re7 {+2.00/4 0.25s}
+43. Kh2 {-2.00/5 0.25s} Kg8 {+2.00/4 0.25s} 44. Kh1 {-2.00/5 0.25s}
+Ra1 {+2.00/5 0.25s} 45. Rb1 {-2.00/5 0.25s} Rxb1 {+2.00/5 0.25s}
+46. Qxb1 {-2.00/6 0.25s} Nf8 {+2.00/6 0.26s} 47. Kh2 {-2.00/5 0.25s}
+Kh8 {+2.00/5 0.25s} 48. Kh1 {-2.00/5 0.25s} Rd7 {+2.00/5 0.25s}
+49. Kh2 {-2.00/5 0.25s} Kg8 {+2.00/5 0.25s} 50. Bd1 {-2.00/5 0.25s}
+Rd6 {+2.00/5 0.25s} 51. Kh1 {-2.00/6 0.25s} Kh8 {+2.00/6 0.25s}
+52. Kh2 {-2.00/6 0.26s} Rd8 {+2.00/6 0.26s} 53. f5 {-2.00/5 0.25s}
+Kg8 {+2.00/6 0.26s} 54. Bc2 {-2.00/6 0.25s} Kh8 {+2.00/6 0.26s}
+55. Bd1 {0.00/5 0.26s} Rd6 56. fxe6 {-2.00/6 0.26s} Rxe6 {+2.00/5 0.25s}
+57. Kg2 {-2.00/5 0.26s} Kg8 {+2.00/5 0.25s} 58. Rf2 {-2.00/5 0.26s}
+Re3 {+2.00/5 0.26s} 59. Kh2 {-2.00/5 0.25s} Kh8 {+2.00/5 0.25s}
+60. Rf4 {-2.00/5 0.25s} Ra3 {+3.00/5 0.26s} 61. Rf5 {-2.00/5 0.25s}
+Kg8 {+2.00/5 0.25s} 62. Kh1 {-2.00/5 0.26s} Ra1 {+3.00/5 0.25s}
+63. Qb3 {-3.00/6 0.25s} Kh8 {+3.00/5 0.26s} 64. Kh2 {-2.00/5 0.26s}
+Ra6 {+2.00/5 0.25s} 65. Qb1 {-2.00/5 0.25s} Kg8 {+2.00/6 0.26s}
+66. Kh1 {-2.00/5 0.26s} Be7 {+3.00/6 0.26s} 67. Rf4 {-3.00/5 0.25s}
+Ne6 {+3.00/5 0.25s} 68. Rf1 {-3.00/5 0.25s} Bxb4 {+3.00/5 0.26s}
+69. Kh2 {-3.00/6 0.25s} Ra3 {+3.00/5 0.25s} 70. Kh1 {-3.00/5 0.25s}
+Re3 {+3.00/5 0.25s} 71. Kh2 {-3.00/5 0.25s} Re4 {+3.00/5 0.25s}
+72. Kh1 {-3.00/5 0.25s} Kf8 {+3.00/5 0.25s} 73. Kg2 {-3.00/5 0.25s}
+Ke7 {+3.00/5 0.25s} 74. Nc3 {-2.00/5 0.25s} Re3 {+3.00/5 0.25s}
+75. Na2 {-2.00/5 0.26s} Bc5 {+4.00/5 0.25s} 76. Bc2 {-3.00/5 0.25s}
+Re2+ {+3.00/6 0.25s} 77. Kh1 {-3.00/7 0.25s} Rf2 {+3.00/6 0.26s}
+78. Rxf2 {-2.00/6 0.25s} Bxf2 {+2.00/6 0.25s} 79. Qxb6 {-2.00/6 0.25s}
+Bxb6 {+2.00/7 0.25s} 80. Nb4 {-2.00/7 0.25s} Kf6 {+2.00/8 0.25s}
+81. Kh2 {-2.00/7 0.26s} Ke5 {+2.00/8 0.25s} 82. Nxc6+ {-2.00/7 0.25s}
+Kd6 {+2.00/9 0.25s} 83. Nb4 {-2.00/7 0.26s} Kc5 {+2.00/7 0.25s}
+84. Nd3+ {-2.00/8 0.25s} Kd4 {+2.00/9 0.25s} 85. g4 {-2.00/8 0.26s}
+Ke3 {+2.00/8 0.25s} 86. Nb4 {-2.00/7 0.25s} Bc7+ {+1.00/8 0.26s}
+87. Kh1 {-2.00/8 0.25s} Kf3 {+2.00/8 0.26s} 88. Bd1+ {-1.00/7 0.26s}
+Kg3 {+2.00/10 0.25s} 89. Nxd5 {-2.00/8 0.26s} Kxh4 {+2.00/8 0.25s}
+90. Kg1 {-2.00/8 0.25s} Kh3 {+2.00/8 0.25s} 91. Kh1 {-2.00/8 0.25s}
+Kg3 {+2.00/9 0.26s} 92. Kg1 {-2.00/8 0.26s} Bf4 {+2.00/9 0.25s}
+93. Kh1 {-2.00/8 0.26s} Kf2 {+2.00/8 0.26s} 94. Ba4 {-2.00/8 0.25s}
+Ke1 {+2.00/8 0.26s} 95. Kg1 {-2.00/8 0.26s} Kd2 {+2.00/8 0.25s}
+96. Kh1 {-2.00/7 0.26s} Kc1 {+2.00/8 0.25s} 97. Kg1 {-2.00/8 0.26s}
+Kb2 {+2.00/8 0.26s} 98. Kh1 {-2.00/7 0.26s} Ka3 {+2.00/8 0.26s}
+99. Nxf4 {-2.00/8 0.26s} Kxa4 {+2.00/9 0.25s} 100. Ng2 {-2.00/9 0.25s}
+Kb3 {+2.00/10 0.25s} 101. Kg1 {-2.00/9 0.25s} Kc2 {+2.00/10 0.27s}
+102. Kh1 {-2.00/10 0.25s} Kd1 {+2.00/11 0.26s} 103. Kg1 {-2.00/10 0.27s}
+Kc1 {+2.00/11 0.25s} 104. Kh1 {-2.00/10 0.25s} Kb1 {+2.00/11 0.26s}
+105. Kg1 {-2.00/11 0.26s} Ka1 {+2.00/11 0.25s} 106. Kh1 {-2.00/11 0.25s}
+Kb2 {+2.00/12 0.26s} 107. Kg1 {-2.00/11 0.25s} Kb1 {+2.00/11 0.25s}
+108. Kh1 {-2.00/11 0.26s} Kc1 {+2.00/12 0.26s} 109. Kg1 {-2.00/11 0.26s}
+Kd1 {+2.00/12 0.26s} 110. Kh1 {-2.00/11 0.26s} Ke2 {+3.00/11 0.26s}
+111. Nh4 {-3.00/10 0.27s} Kf2 {+3.00/10 0.25s} 112. Nf5 {-3.00/10 0.26s}
+Kf3 {+3.00/10 0.25s} 113. Kg1 {-3.00/9 0.26s} Kxg4 {+3.00/10 0.26s}
+114. Ne3+ {-3.00/9 0.26s} Kh3 {+3.00/11 0.25s} 115. Kh1 {-3.00/10 0.26s}
+Kg3 {+3.00/11 0.25s} 116. Kg1 {-3.00/10 0.26s} Kf3 {+3.00/11 0.25s}
+117. Nf1 {-3.00/9 0.26s} Ke2 {+3.00/11 0.26s} 118. Kg2 {-3.00/10 0.25s}
+Ke1 {+3.00/11 0.25s} 119. Kg1 {-3.00/10 0.25s} Kd1 {+3.00/12 0.25s}
+120. Kh1 {-3.00/10 0.26s} Kc1 {+3.00/12 0.25s} 121. Kg1 {-3.00/11 0.26s}
+Kb1 {+3.00/12 0.25s} 122. Kh1 {-3.00/11 0.26s} Ka1 {+3.00/12 0.26s}
+123. Kg1 {-3.00/11 0.27s} Kb2 {+3.00/12 0.25s} 124. Kh1 {-3.00/11 0.25s}
+Kb1 {+3.00/13 0.26s} 125. Kg1 {-3.00/12 0.26s} Kc1 {+3.00/13 0.26s}
+126. Kh1 {-3.00/12 0.26s} Kd1 {+3.00/13 0.25s} 127. Kg1 {-3.00/12 0.26s}
+Ke1 {+3.00/13 0.25s} 128. Kg2 {-3.00/11 0.26s} Kd1 {+3.00/12 0.26s}
+129. Kh1 {0.00/12 0.26s} Kc2 {+3.00/13 0.26s} 130. Kg1 {-3.00/12 0.26s}
+Kd3 {+3.00/13 0.25s} 131. Kh1 {-3.00/11 0.26s} Kc3 {+3.00/13 0.25s}
+132. Kg1 {-3.00/11 0.26s} Kc2 {+3.00/13 0.25s} 133. Kh1 {-3.00/12 0.26s}
+Kb2 {+3.00/14 0.25s} 134. Kg1 {-3.00/12 0.26s, Black loses on time} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2022.02.11"]
+[Round "88"]
+[White "Rusty Rival 07-NODP"]
+[Black "Rusty Rival"]
+[Result "*"]
+[ECO "E10"]
+[GameDuration "00:00:40"]
+[GameEndTime "2022-02-11T20:40:23.577 GMT"]
+[GameStartTime "2022-02-11T20:39:43.544 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "185"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} Nh5 {book} 8. Bd3 {book} Nxf4 {book} 9. exf4 {book} b6 {book}
+10. b4 {book} a5 {book} 11. a3 {book} c6 {book} 12. O-O {book} Qc7 {book}
+13. g3 {book} Ba6 {book} 14. Re1 {book} Bf6 {book} 15. Bc2 {book}
+axb4 {+1.00/3 0.26s} 16. axb4 {-1.00/4 0.25s} bxc5 {+1.00/3 0.25s}
+17. Rb1 {-1.00/4 0.26s} Kh8 {+1.00/4 0.26s} 18. Kg2 {-1.00/4 0.26s}
+Rg8 {+1.00/4 0.25s} 19. Kg1 {-1.00/3 0.25s} Rge8 {+1.00/4 0.26s}
+20. Kg2 {-1.00/4 0.26s} Kg8 {+1.00/4 0.25s} 21. Kg1 {-1.00/3 0.26s}
+Re7 {+1.00/4 0.26s} 22. Kh1 {-1.00/4 0.26s} cxd4 {+2.00/4 0.25s}
+23. Nxd4 {-2.00/4 0.25s} Qb6 {+2.00/4 0.25s} 24. Nce2 {-2.00/4 0.25s}
+Bxe2 {+2.00/5 0.25s} 25. Nxe2 {-2.00/5 0.25s} Qxf2 {+2.00/5 0.26s}
+26. Rg1 {-2.00/5 0.25s} Kh8 {+2.00/5 0.25s} 27. Rf1 {-2.00/5 0.25s}
+Qe3 {+2.00/6 0.25s} 28. Kg2 {-2.00/6 0.25s} Kg8 {+2.00/5 0.25s}
+29. Kh1 {-2.00/6 0.25s} Ree8 {+2.00/6 0.26s} 30. Kg2 {-2.00/6 0.26s}
+Kh8 {+2.00/5 0.26s} 31. Kh1 {-2.00/5 0.26s} Rg8 {+2.00/5 0.25s}
+32. Kg2 {-2.00/5 0.25s} Rgf8 {+2.00/5 0.25s} 33. Kh1 {-2.00/5 0.26s}
+Rfd8 {+2.00/5 0.26s} 34. Kg2 {-2.00/5 0.25s} Kg8 {+2.00/5 0.25s}
+35. Kh1 {-2.00/5 0.25s} Rf8 {+2.00/5 0.25s} 36. Kg2 {-2.00/5 0.25s}
+Rfe8 {+2.00/5 0.25s} 37. Kh1 {-2.00/5 0.25s} Kh8 {+2.00/5 0.25s}
+38. Kg2 {-2.00/5 0.25s} Re7 {+2.00/5 0.25s} 39. Kh1 {-2.00/5 0.25s}
+Ra3 {+2.00/5 0.26s} 40. Kg2 {-2.00/5 0.25s} Kg8 {+2.00/5 0.25s}
+41. Rf2 {-2.00/5 0.26s} Ra6 {+2.00/5 0.25s} 42. Kg1 {-2.00/5 0.25s}
+Kh8 {+2.00/5 0.26s} 43. Kf1 {-2.00/5 0.25s} Ra2 {+2.00/5 0.25s}
+44. Kg1 {-2.00/5 0.25s} Kg8 {+2.00/5 0.26s} 45. Kf1 {-2.00/6 0.25s}
+Ra7 {+2.00/5 0.25s} 46. Kg1 {-2.00/5 0.25s} Kh8 {+2.00/5 0.25s}
+47. Kf1 {-2.00/6 0.26s} Re8 {+2.00/5 0.26s} 48. Kg1 {-2.00/5 0.25s}
+Kg8 {+2.00/5 0.26s} 49. Kf1 {-2.00/5 0.25s} Ra2 {+2.00/5 0.25s}
+50. Rb3 {-2.00/5 0.25s} Qa7 {+2.00/5 0.25s} 51. Kg1 {-2.00/4 0.26s}
+Kh8 {+2.00/5 0.25s} 52. Kf1 {-2.00/4 0.25s} Ra1 {+2.00/5 0.25s}
+53. Rb1 {-2.00/6 0.26s} Kg8 {+2.00/6 0.26s} 54. Kg1 {-2.00/6 0.26s}
+Rxb1 {+2.00/6 0.25s} 55. Bxb1 {-2.00/6 0.25s} Rc8 {+2.00/5 0.25s}
+56. Kf1 {-2.00/5 0.26s} Kh8 {+2.00/5 0.26s} 57. Kg1 {-2.00/5 0.25s}
+Rc7 {+3.00/5 0.25s} 58. Kf1 {-3.00/6 0.26s} Kg8 {+2.00/5 0.25s}
+59. Qd3 {-2.00/6 0.26s} Nf8 {+2.00/6 0.25s} 60. Nc1 {-2.00/6 0.26s}
+Kh8 {+2.00/5 0.25s} 61. Ke1 {-2.00/5 0.25s} Re7 {+2.00/5 0.26s}
+62. Kf1 {-2.00/5 0.26s} Kg8 {+2.00/5 0.27s} 63. Ke1 {-2.00/6 0.25s}
+Rd7 {+2.00/6 0.26s} 64. Kf1 {-2.00/6 0.25s} Kh8 {+2.00/6 0.25s}
+65. Ke1 {-2.00/6 0.26s} Rd6 {+2.00/6 0.25s} 66. Kf1 {-2.00/6 0.26s}
+Kg8 {+2.00/6 0.26s} 67. Ke1 {-2.00/6 0.25s} Rd8 {+2.00/6 0.25s}
+68. Kf1 {-2.00/6 0.25s} Kh8 {+2.00/6 0.26s} 69. Kg2 {-2.00/6 0.26s}
+Kg8 {+2.00/5 0.25s} 70. Kf1 {0.00/6 0.26s} Rd7 71. Ke1 {-2.00/6 0.26s}
+Kh8 {+2.00/6 0.25s} 72. Kf1 {-2.00/6 0.26s} Rd6 {+2.00/6 0.26s}
+73. Ke1 {-2.00/6 0.26s} Kg8 {+2.00/6 0.25s} 74. Kf1 {-2.00/6 0.26s}
+Rd8 {+2.00/6 0.26s} 75. Ke1 {-2.00/6 0.25s} Kh8 {+2.00/5 0.25s}
+76. Kf1 {-2.00/5 0.25s} Re8 {+2.00/5 0.26s} 77. Ke1 {-2.00/5 0.25s}
+Kg8 {+2.00/5 0.26s} 78. Kf1 {-2.00/6 0.26s} Rc8 {+2.00/6 0.25s}
+79. Ke1 {-2.00/6 0.26s} Kh8 {+2.00/6 0.26s} 80. Rf1 {-3.00/6 0.26s}
+Rb8 {+3.00/5 0.26s} 81. Kd1 {-3.00/5 0.26s} Be7 {+3.00/5 0.26s}
+82. Ke1 {-3.00/5 0.25s} Kg8 {+3.00/5 0.27s} 83. Kd1 {-3.00/6 0.26s}
+Rxb4 {+3.00/5 0.25s} 84. Ke1 {-3.00/5 0.25s} Kh8 {+3.00/5 0.25s}
+85. Ke2 {-3.00/5 0.25s} Rb2+ {+3.00/5 0.25s} 86. Bc2 {-3.00/7 0.25s}
+Kg8 {+3.00/5 0.27s} 87. Ke1 {-3.00/6 0.26s} Rb5 {+3.00/5 0.27s}
+88. Kd1 {-3.00/6 0.25s} Rb4 {+3.00/5 0.25s} 89. Ke1 {-3.00/6 0.25s}
+Kh8 {+3.00/5 0.25s} 90. Ke2 {-3.00/5 0.25s} Rb2 {+3.00/5 0.25s}
+91. Ke1 {-3.00/6 0.25s} Kg8 {+3.00/6 0.26s} 92. Kd1 {-3.00/6 0.26s}
+Rb5 {+3.00/5 0.26s} 93. Nb3 {-3.00/6 0.25s, No result} *
+

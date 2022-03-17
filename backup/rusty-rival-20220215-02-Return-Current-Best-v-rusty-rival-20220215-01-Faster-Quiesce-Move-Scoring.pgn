@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.02.15"]
+[Round "1"]
+[White "Rusty Rival |20220215-02-Return-Current-Best|"]
+[Black "Rusty Rival |20220215-01-Faster-Quiesce-Move-Scoring|"]
+[Result "*"]
+[ECO "E10"]
+[GameDuration "00:00:07"]
+[GameEndTime "2022-02-15T16:15:28.833 GMT"]
+[GameStartTime "2022-02-15T16:15:21.718 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "87"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. Be2 {book} dxc4 {book} 8. O-O {book} c5 {book} 9. dxc5 {book} Nxc5 {book}
+10. Bxc4 {book} Qxd1 {book} 11. Rfxd1 {book} b6 {book} 12. Bd6 {book}
+Bxd6 {book} 13. Rxd6 {book} Bb7 {book} 14. Rad1 {book} Bxf3 {book}
+15. gxf3 {book} Rfc8 {book} 16. Be2 {book} g5 {book} 17. R6d4 {book} Kf8 {book}
+18. h4 {book} gxh4 {book} 19. Kh2 {book} Ke7 {book} 20. Kh3 {book} a5 {book}
+21. f4 {book} Rab8 {book} 22. e4 {book} h5 {book} 23. f3 {book} Rg8 {book}
+24. e5 {book} Nd5 {book} 25. Nxd5+ {book} exd5 {book} 26. f5 {book} f6 {book}
+27. e6 {book} Rg3+ {book} 28. Kxh4 {book} Rbg8 {book} 29. Rxd5 {book} Rg2 {book}
+30. Bf1 {book} Rh2+ {book} 31. Bh3 {+0.46/7 0.26s} Rgg2 {-0.46/6 0.25s}
+32. Rb1 {+0.50/6 0.25s} Rf2 {-0.43/7 0.26s} 33. Kg3 {+0.41/7 0.25s}
+Rxb2 {-0.45/7 0.25s} 34. Rxb2 {+0.48/7 0.25s} Rxb2 {-0.50/8 0.26s}
+35. a3 {+0.45/8 0.25s} Ra2 {-0.48/8 0.25s} 36. Rd4 {+0.59/8 0.25s}
+Rxa3 {-0.53/8 0.26s} 37. Rh4 {+0.53/7 0.25s} Kf8 {-0.43/8 0.26s}
+38. Bg2 {+0.51/8 0.26s} Nb3 {-0.44/8 0.25s} 39. Bh1 {+0.49/8 0.26s}
+Ra2 {-0.42/8 0.25s} 40. Rxh5 {+0.51/8 0.25s} Nd4 {-0.37/8 0.25s}
+41. f4 {+0.41/8 0.26s} a4 {-0.34/7 0.25s} 42. Kg4 {+0.35/7 0.25s}
+Ra1 {-0.34/8 0.25s} 43. Bd5 {+0.29/8 0.26s} Rg1+ {-0.29/7 0.25s}
+44. Kh3 {0.00/8 0.25s, No result} *
+
