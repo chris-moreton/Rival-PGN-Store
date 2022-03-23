@@ -1,0 +1,30 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.03.20"]
+[Round "1"]
+[White "Rusty Rival |20220320-03-Aspiration-Rework|"]
+[Black "Rusty Rival |20220318-05-Aspiration-25|"]
+[Result "*"]
+[ECO "C67"]
+[GameDuration "00:04:46"]
+[GameEndTime "2022-03-20T12:18:56.848 GMT"]
+[GameStartTime "2022-03-20T12:14:10.337 GMT"]
+[Opening "Ruy Lopez"]
+[PlyCount "64"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+[Variation "Berlin defense, Open Variation"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bb5 {book} Nf6 {book}
+4. O-O {book} Nxe4 {book} 5. d4 {book} Nd6 {book} 6. Bxc6 {book} dxc6 {book}
+7. dxe5 {book} Nf5 {book} 8. Qxd8+ {book} Kxd8 {book} 9. Nc3 {book} Ke8 {book}
+10. h3 {book} h5 {book} 11. Bf4 {book} Be7 {book} 12. Rad1 {book} Be6 {book}
+13. Ng5 {book} Rh6 {book} 14. Rfe1 {book} Bb4 {book} 15. g4 {book} hxg4 {book}
+16. hxg4 {book} Ne7 {book} 17. Nxe6 {book} Rxe6 {book} 18. Kg2 {book}
+Bxc3 {book} 19. bxc3 {book} Rd8 {book} 20. Rxd8+ {book} Kxd8 {book}
+21. Rh1 {book} Nd5 {book} 22. Bg3 {book} g5 {book} 23. c4 {book} Nc3 {book}
+24. Kf3 {book} Rg6 {book} 25. a3 {book} Na4 {book} 26. Ke4 {book} Nc5+ {book}
+27. Kf5 {book} Ne6 {book} 28. Rh8+ {book} Kd7 {book} 29. c3 {book} Ng7+ {book}
+30. Ke4 {book} Ne6 {book} 31. f3 {+0.63/9 0.23s} b6 {-0.57/11 0.27s}
+32. Bf2 {+0.59/9 0.23s} c5 {-0.55/12 0.26s, No result} *
+

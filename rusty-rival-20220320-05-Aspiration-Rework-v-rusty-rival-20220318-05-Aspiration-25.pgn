@@ -1,0 +1,26 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.03.20"]
+[Round "1"]
+[White "Rusty Rival |20220320-05-Aspiration-Rework|"]
+[Black "Rusty Rival |20220318-05-Aspiration-25|"]
+[Result "*"]
+[ECO "E34"]
+[GameDuration "00:05:36"]
+[GameEndTime "2022-03-20T12:35:08.803 GMT"]
+[GameStartTime "2022-03-20T12:29:32.450 GMT"]
+[Opening "Nimzo-Indian"]
+[PlyCount "34"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+[Variation "Classical, Noa Variation"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nc3 {book} Bb4 {book}
+4. Qc2 {book} d5 {book} 5. cxd5 {book} Qxd5 {book} 6. Nf3 {book} Qf5 {book}
+7. Qb3 {book} Nc6 {book} 8. Bd2 {book} O-O {book} 9. h3 {book} a5 {book}
+10. g4 {book} a4 {book} 11. Qxa4 {-0.24/9 0.23s} Rxa4 {+0.40/11 0.27s}
+12. gxf5 {-0.27/11 0.23s} Bxc3 {+0.37/11 0.27s} 13. Bxc3 {-0.24/11 0.23s}
+exf5 {+0.14/12 0.26s} 14. e3 {-0.24/9 0.24s} Be6 {+0.20/11 0.26s}
+15. a3 {-0.20/9 0.23s} Bd5 {+0.20/10 0.25s} 16. Bg2 {-0.20/9 0.23s}
+f4 {+0.28/9 0.26s} 17. O-O {-0.23/8 0.23s} fxe3 {+0.25/10 0.26s, No result} *
+

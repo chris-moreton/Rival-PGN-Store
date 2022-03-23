@@ -1,0 +1,59 @@
+[Event "?"]
+[Site "?"]
+[Date "2022.03.20"]
+[Round "1"]
+[White "Rusty Rival |20220320-01-Aspiration-Rework|"]
+[Black "Rusty Rival |20220318-05-Aspiration-25|"]
+[Result "*"]
+[ECO "B90"]
+[GameDuration "00:01:48"]
+[GameEndTime "2022-03-20T12:03:40.731 GMT"]
+[GameStartTime "2022-03-20T12:01:51.735 GMT"]
+[Opening "Sicilian"]
+[PlyCount "68"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+[Variation "Najdorf, Byrne (English) attack"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be3 {book} e5 {book}
+7. Nf3 {book} Be7 {book} 8. Bc4 {book} O-O {book} 9. O-O {book} Nc6 {book}
+10. Bg5 {book} Nd7 {book} 11. Bxe7 {book} Qxe7 {book} 12. Qd2 {book} Na5 {book}
+13. Nd5 {book} Qd8 {book} 14. Be2 {book} Nc6 {book} 15. Rfd1 {book} Nc5 {book}
+16. Nc3 {book} Qb6 {book} 17. Rab1 {book} Bg4 {book} 18. b4 {book} Ne6 {book}
+19. Nd5 {book} Qd8 {book} 20. c3 {book} Bxf3 {book} 21. Bxf3 {book} Ng5 {book}
+22. Qe3 {book} Nxf3+ {book} 23. Qxf3 {book} Rc8 {book} 24. Rd3 {book} Ne7 {book}
+25. Rbd1 {book} Rc6 {book} 26. g3 {book} h6 {book} 27. a4 {book} Nxd5 {book}
+28. Rxd5 {book} Qc7 {book} 29. R1d3 {book} Rc8 {book} 30. b5 {book} Rxc3 {book}
+31. Rxc3 {+0.40/11 0.23s} Qxc3 {-0.40/14 0.27s} 32. Qxc3 {+0.40/12 0.23s}
+Rxc3 {-0.43/14 0.26s} 33. Rxd6 {+0.43/12 0.23s} Rc4 {-0.40/13 0.26s}
+34. bxa6 {+0.43/12 0.24s} bxa6 {-0.45/13 0.26s, No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2022.03.20"]
+[Round "1"]
+[White "Rusty Rival |20220320-01-Aspiration-Rework|"]
+[Black "Rusty Rival |20220318-05-Aspiration-25|"]
+[Result "*"]
+[ECO "E10"]
+[GameDuration "00:06:06"]
+[GameEndTime "2022-03-20T12:10:47.763 GMT"]
+[GameStartTime "2022-03-20T12:04:41.185 GMT"]
+[Opening "Queen's pawn game"]
+[PlyCount "62"]
+[Termination "unterminated"]
+[TimeControl "0.25/move"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. Nf3 {book} d5 {book}
+4. Nc3 {book} Be7 {book} 5. Bf4 {book} O-O {book} 6. e3 {book} Nbd7 {book}
+7. c5 {book} c6 {book} 8. h3 {book} b6 {book} 9. b4 {book} a5 {book}
+10. a3 {book} h6 {book} 11. Bd3 {book} Ba6 {book} 12. O-O {book} Qc8 {book}
+13. Na4 {book} Bxd3 {book} 14. Qxd3 {book} b5 {book} 15. Nc3 {book} Qb7 {book}
+16. Nd2 {book} Bd8 {book} 17. Nb3 {book} a4 {book} 18. Nd2 {book} Bc7 {book}
+19. Bxc7 {book} Qxc7 {book} 20. f4 {book} Kh8 {book} 21. Rae1 {book} Rad8 {book}
+22. g4 {book} Ng8 {book} 23. Nf3 {book} Ne7 {book} 24. Re2 {book} f6 {book}
+25. e4 {book} Ng6 {book} 26. exd5 {book} Nxf4 {book} 27. d6 {book} Qxd6 {book}
+28. cxd6 {book} Nxd3 {book} 29. Nh4 {book} Rfe8 {book} 30. Rd2 {book} g5 {book}
+31. Ng2 {+0.76/12 0.23s} Nf4 {-0.76/12 0.25s, No result} *
+
